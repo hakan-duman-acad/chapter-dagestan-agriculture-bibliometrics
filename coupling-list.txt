@@ -1,46 +1,70 @@
 "vertex" "cluster" "btw_centrality" "clos_centrality" "pagerank_centrality" "BC" "CC" "PR" "MD" "Paper" "DOI"
-"1" "guseynova za, 2023, south russ-ecol dev" 1 "212.033" 0.00427 0.00983 1 1 1 1 "GUSEYNOVA ZA, 2023, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2023-3-60-68"
-"2" "mazanaeva lf, 2020, russ j herpetol" 1 "  0.000" 0.00326 0.00943 2 2 2 2 "MAZANAEVA LF, 2020, RUSS J HERPETOL" "10.30906/1026-2296-2020-27-2-70-80"
-"3" "balamirzoev ma, 2008, eurasian soil sci" 1 "  0.000" 0.00326 0.00943 3 3 3 3 "BALAMIRZOEV MA, 2008, EURASIAN SOIL SCI" "10.1134/S1064229308060033"
-"4" "ryabogina n, 2019, quat int" 2 "75.508" 0.00426 0.00742 1 1 1 1 "RYABOGINA N, 2019, QUAT INT" "10.1016/j.quaint.2018.06.020"
-"5" "vilkov ev, 2011, arid ecosyst" 2 " 0.000" 0.00325 0.00358 2 2 2 2 "VILKOV EV, 2011, ARID ECOSYST" "10.1134/S2079096111020090"
-"6" "kaliszewska i, 2020, contemp islam" 3 "506.884" 0.00578 0.00809 1 1 20 2 "KALISZEWSKA I, 2020, CONTEMP ISLAM" "10.1007/s11562-019-00436-9"
-"7" "yemelianova gm, 2020, routledge handbook of the caucasus" 3 "328.122" 0.00503 0.01602 2 3 6 3 "YEMELIANOVA GM, 2020, ROUTLEDGE HANDBOOK OF THE CAUCASUS" ""
-"8" "shnirelman v, 2018, eur-asia stud" 3 "320.590" 0.00508 0.01311 3 2 10 3 "SHNIRELMAN V, 2018, EUR-ASIA STUD" "10.1080/09668136.2018.1487681"
-"9" "holland ec, 2010, communist post-communist stud" 3 " 76.473" 0.00442 0.0209 4 6 3 3.5 "HOLLAND EC, 2010, COMMUNIST POST-COMMUNIST STUD" "10.1016/j.postcomstud.2010.07.006"
-"10" "eldarov em, 2007, eurasian geogr econ" 3 " 46.279" 0.00485 0.01398 5 4 8 4.5 "ELDAROV EM, 2007, EURASIAN GEOGR ECON" "10.2747/1538-7216.48.2.226"
-"11" "o'loughlin j, 2011, eurasian geogr econ" 3 " 23.078" 0.00391 0.02314 7 18 2 5 "O'LOUGHLIN J, 2011, EURASIAN GEOGR ECON" "10.2747/1539-7216.52.5.596"
-"12" "souleimanov ea, 2018, ethnicities" 3 " 29.297" 0.00446 0.0129 6 5 11 5.5 "SOULEIMANOV EA, 2018, ETHNICITIES" "10.1177/1468796817700933"
-"13" "holland ec, 2012, cent asian surv" 3 " 12.340" 0.00392 0.01612 8 17 5 6.5 "HOLLAND EC, 2012, CENT ASIAN SURV" "10.1080/02634937.2012.739819"
-"14" "ratelle jf, 2017, terror polit violence" 3 "  7.522" 0.00426 0.01552 9 7 7 7 "RATELLE JF, 2017, TERROR POLIT VIOLENCE" "10.1080/09546553.2015.1005076"
-"15" "souleimanov e, 2015, osteuropa" 3 "  1.649" 0.0036 0.01972 11 21 4 7.5 "SOULEIMANOV E, 2015, OSTEUROPA" ""
-"16" "kessel ds, 2022, arid ecosyst" 4 "70.467" 0.00426 0.01082 1 1 1 1 "KESSEL DS, 2022, ARID ECOSYST" "10.1134/S2079096122030052"
-"17" "sadykova ga, 2023, arid ecosyst" 4 " 3.000" 0.00329 0.01033 2 3 2 2.5 "SADYKOVA GA, 2023, ARID ECOSYST" "10.1134/S2079096123040121"
-"18" "volobuev sv, 2021, south russ-ecol dev" 4 " 1.233" 0.0033 0.00603 3 2 3 3 "VOLOBUEV SV, 2021, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2021-3-68-80"
-"19" "petherbridge g, 2021, south russ-ecol dev-a" 5 "602.111" 0.00595 0.02682 2 2 3 2.5 "PETHERBRIDGE G, 2021, SOUTH RUSS-ECOL DEV-A" NA
-"20" "bulayeva kb, 2006, am j hum biol" 5 "935.642" 0.00676 0.026 1 1 4 2.5 "BULAYEVA KB, 2006, AM J HUM BIOL" "10.1002/ajhb.20531"
-"21" "karafet tm, 2016, j hum genet" 5 "275.288" 0.00546 0.02698 3 4 2 3.5 "KARAFET TM, 2016, J HUM GENET" "10.1038/jhg.2015.132"
-"22" "petherbridge g, 2022, south russ-ecol dev" 5 "198.578" 0.00562 0.02327 4 3 6 4.5 "PETHERBRIDGE G, 2022, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2022-2-150-209"
-"23" "bulayeva k, 2012, turk psikiyatr derg" 5 " 93.471" 0.00526 0.01307 6 6 18 6 "BULAYEVA K, 2012, TURK PSIKIYATR DERG" ""
-"24" "bulaeva kb, 1996, genetika" 5 " 65.253" 0.00541 0.01206 7 5 20 6 "BULAEVA KB, 1996, GENETIKA" ""
-"25" "kurbatova ol, 2012, russ j genet" 5 "134.302" 0.00524 0.00958 5 7 24 6 "KURBATOVA OL, 2012, RUSS J GENET" "10.1134/S1022795412100043"
-"26" "bulayeva kb, 2011, cent eur j med" 5 " 53.258" 0.0051 0.01617 9 9 13 9 "BULAYEVA KB, 2011, CENT EUR J MED" "10.2478/s11536-011-0071-8"
-"27" "mirzaev kb, 2017, genet test mol biomark" 5 " 55.057" 0.00505 0.01082 8 12 22 10 "MIRZAEV KB, 2017, GENET TEST MOL BIOMARK" "10.1089/gtmb.2017.0036"
-"28" "bulayeva kb, 2002, russ j genet" 5 " 50.789" 0.00508 0.0094 10 10 25 10 "BULAYEVA KB, 2002, RUSS J GENET" "10.1023/A:1021107429746"
-"29" "gammer m, 2005, cent asian surv" 6 "361.965" 0.00588 0.01746 1 2 1 1.5 "GAMMER M, 2005, CENT ASIAN SURV" "10.1080/02634930500154701"
-"30" "sahakyan ne, 2022, muslim reformers and the bolsheviks: case of daghestan-a" 6 "239.433" 0.00599 0.01363 2 1 3 2.5 "SAHAKYAN NE, 2022, MUSLIM REFORMERS AND THE BOLSHEVIKS: CASE OF DAGHESTAN-A" NA
-"31" "gammer m, 2005, middle east stud" 6 " 63.761" 0.00546 0.01501 3 3 2 3 "GAMMER M, 2005, MIDDLE EAST STUD" "10.1080/00263200500261829"
-"32" "barrett tm, 1995, slavic rev" 6 "  0.637" 0.00535 0.00951 4 4 6 5 "BARRETT TM, 1995, SLAVIC REV" "10.2307/2501750"
-"33" "hewitt g, 1996, bull sch orient afr stud-univ london" 6 "  0.637" 0.00535 0.00951 5 5 12 5.5 "HEWITT G, 1996, BULL SCH ORIENT AFR STUD-UNIV LONDON" "10.1017/S0041977X0002886X"
-"34" "lambert a, 1995, j strateg stud" 6 "  0.637" 0.00535 0.00951 6 6 7 6 "LAMBERT A, 1995, J STRATEG STUD" "10.1080/01402399508437622"
-"35" "rhinelander a, 1995, int hist rev" 6 "  0.637" 0.00535 0.00951 7 7 13 7 "RHINELANDER A, 1995, INT HIST REV" ""
-"36" "lazzerini ej, 1995, russ rev" 6 "  0.637" 0.00535 0.00951 8 8 8 8 "LAZZERINI EJ, 1995, RUSS REV" "10.2307/131634"
-"37" "sidorko cp, 1999, jahrb gesch osteur" 6 "  0.077" 0.00532 0.0101 12 12 5 9 "SIDORKO CP, 1999, JAHRB GESCH OSTEUR" ""
-"38" "turi mt, 1996, historian" 6 "  0.637" 0.00535 0.00951 9 9 9 9 "TURI MT, 1996, HISTORIAN" ""
-"39" "daniel m, 2021, language" 7 "  0.374" 0.00418 0.01306 2 2 2 2 "DANIEL M, 2021, LANGUAGE" "10.1353/lan.2021.0046"
-"40" "dobrushina n, 2019, j multiling multicult develop" 7 "153.573" 0.00513 0.01165 1 1 3 2 "DOBRUSHINA N, 2019, J MULTILING MULTICULT DEVELOP" "10.1080/01434632.2018.1493113"
-"41" "dobrushina n, 2021, int j biling" 7 "  0.374" 0.00418 0.01399 3 3 1 3 "DOBRUSHINA N, 2021, INT J BILING" "10.1177/1367006920959717"
-"42" "dobrushina n, 2023, j socioling" 7 "  0.000" 0.00407 0.0083 4 4 4 4 "DOBRUSHINA N, 2023, J SOCIOLING" "10.1111/josl.12590"
+"1" "bazzicalupo e, 2022, divers distrib" 1 "138.529" 0.00885 0.02553 1 1 2 1 "BAZZICALUPO E, 2022, DIVERS DISTRIB" "10.1111/ddi.13439"
+"2" "deniskova te, 2022, russ j genet" 1 "109.845" 0.00855 0.02578 3 2 1 1.5 "DENISKOVA TE, 2022, RUSS J GENET" "10.1134/S1022795422050040"
+"3" "deniskova t, 2020, animals" 1 " 31.398" 0.00826 0.02444 11 4 3 3.5 "DENISKOVA T, 2020, ANIMALS" "10.3390/ani10091603"
+"4" "seidl a, 2020, flora" 1 "107.663" 0.00826 0.01872 4 3 8 3.5 "SEIDL A, 2020, FLORA" "10.1016/j.flora.2019.151504"
+"5" "bazzicalupo e, 2023, evol appl" 1 "118.239" 0.00741 0.02021 2 13 6 4 "BAZZICALUPO E, 2023, EVOL APPL" "10.1111/eva.13570"
+"6" "khederzadeh s, 2019, ecol evol" 1 " 58.922" 0.0082 0.01474 5 5 11 5 "KHEDERZADEH S, 2019, ECOL EVOL" "10.1002/ece3.5415"
+"7" "crous pw, 2021, persoonia" 1 " 53.600" 0.00806 0.0206 6 6 5 5.5 "CROUS PW, 2021, PERSOONIA" "10.3767/persoonia.2021.46.11"
+"8" "kozlova ap, 2023, viruses-basel" 1 " 51.923" 0.00806 0.00728 7 7 16 7 "KOZLOVA AP, 2023, VIRUSES-BASEL" "10.3390/v15081701"
+"9" "dotsev a, 2021, diversity-basel" 1 " 21.636" 0.00763 0.01915 13 11 7 9 "DOTSEV A, 2021, DIVERSITY-BASEL" "10.3390/d13070312"
+"10" "volkova vv, 2022, diversity-basel" 1 " 47.626" 0.00685 0.01788 9 18 9 9 "VOLKOVA VV, 2022, DIVERSITY-BASEL" "10.3390/d14070569"
+"11" "fritz u, 2008, j evol biol" 2 "28.791" 0.008 0.02751 2 1 1 1.5 "FRITZ U, 2008, J EVOL BIOL" "10.1111/j.1420-9101.2007.01485.x"
+"12" "fritz u, 2007, amphib reptil" 2 "54.594" 0.00787 0.02514 1 2 2 2 "FRITZ U, 2007, AMPHIB REPTIL" "10.1163/156853807779799135"
+"13" "seregin ap, 2020, biodiver data j" 2 " 8.260" 0.00662 0.00544 3 3 3 3 "SEREGIN AP, 2020, BIODIVER DATA J" "10.3897/BDJ.8.e59249"
+"14" "von raab-straube e, 2023, willdenowia" 2 " 1.667" 0.00629 0.00392 4 4 4 4 "VON RAAB-STRAUBE E, 2023, WILLDENOWIA" "10.3372/wi.53.53104"
+"15" "bazhenov ms, 2020, plants-basel" 3 "277.496" 0.00847 0.01495 1 1 1 1 "BAZHENOV MS, 2020, PLANTS-BASEL" "10.3390/plants9121696"
+"16" "kimeklis ak, 2019, genes" 3 " 56.072" 0.00775 0.00965 3 2 2 2.5 "KIMEKLIS AK, 2019, GENES" "10.3390/genes10120991"
+"17" "derko aa, 2021, south russ-ecol dev" 3 " 59.906" 0.00685 0.00794 2 3 3 3 "DERKO AA, 2021, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2021-3-81-87"
+"18" "van schalkwyk a, 2022, transbound emerg dis" 3 "  0.000" 0.00676 0.00612 4 4 4 4 "VAN SCHALKWYK A, 2022, TRANSBOUND EMERG DIS" "10.1111/tbed.14326"
+"19" "sharshov k, 2019, microorganisms" 4 "23.344" 0.00667 0.01164 1 1 1 1 "SHARSHOV K, 2019, MICROORGANISMS" "10.3390/microorganisms7120643"
+"20" "marhaev ag, 2023, south russ-ecol dev" 4 "22.600" 0.00541 0.00877 2 2 2 2 "MARHAEV AG, 2023, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2023-1-17-33"
+"21" "li x, 2021, south russ-ecol dev" 4 " 0.000" 0.00469 0.00723 3 3 3 3 "LI X, 2021, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2021-1-45-52"
+"22" "dufresnes c, 2019, mol phylogenet evol" 5 "104.412" 0.00781 0.03166 1 1 1 1 "DUFRESNES C, 2019, MOL PHYLOGENET EVOL" "10.1016/j.ympev.2019.106615"
+"23" "dufresnes c, 2019, mol ecol" 5 " 27.221" 0.00746 0.02427 3 2 2 2.5 "DUFRESNES C, 2019, MOL ECOL" "10.1111/mec.15133"
+"24" "kidov aa, 2023, russ j herpetol-a" 5 "  0.000" 0.00568 0.00984 4 4 4 4 "KIDOV AA, 2023, RUSS J HERPETOL-A" NA
+"25" "andersen d, 2022, ecol model" 5 " 28.255" 0.00637 0.00724 2 3 5 4 "ANDERSEN D, 2022, ECOL MODEL" "10.1016/j.ecolmodel.2022.109986"
+"26" "darul r, 2022, j mamm evol" 5 "  0.000" 0.00508 0.01005 5 5 3 5 "DARUL R, 2022, J MAMM EVOL" "10.1007/s10914-021-09580-7"
+"27" "nabozhenko vm, 2022, j insect biodivers" 6 "1.500" 0.09091 0.02338 2 4 1 3 "NABOZHENKO VM, 2022, J INSECT BIODIVERS" "10.12976/jib/2022.32.1.2"
+"28" "nabozhenko m, 2020, zootaxa" 6 "4.500" 0.11111 0.01092 1 1 5 3 "NABOZHENKO M, 2020, ZOOTAXA" "10.11646/zootaxa.4896.2.10"
+"29" "chigray i, 2023, acta zool acad sci hung" 6 "1.500" 0.1 0.01859 4 3 3 3.5 "CHIGRAY I, 2023, ACTA ZOOL ACAD SCI HUNG" "10.17109/AZH.69.3.213.2023"
+"30" "nabozhenko m, 2016, ann zool" 6 "1.500" 0.1 0.00646 3 2 6 4.5 "NABOZHENKO M, 2016, ANN ZOOL" "10.3161/00034541ANZ2016.66.4.013"
+"31" "bai xl, 2019, zootaxa" 6 "1.500" 0.09091 0.00635 5 5 7 5.5 "BAI XL, 2019, ZOOTAXA" "10.11646/zootaxa.4609.1.4"
+"32" "chigray sn, 2022, eur j taxon" 6 "0.000" 0.07143 0.01927 6 7 2 6 "CHIGRAY SN, 2022, EUR J TAXON" "10.5852/ejt.2022.809.1719"
+"33" "bai xl, 2023, zookeys" 6 "0.000" 0.07692 0.01164 7 6 4 6 "BAI XL, 2023, ZOOKEYS" "10.3897/zookeys.1161.97440"
+"34" "chepurnov gy, 2023, plants-basel" 7 "161.500" 0.00452 0.01015 1 2 1 1.5 "CHEPURNOV GY, 2023, PLANTS-BASEL" "10.3390/plants12203596"
+"35" "dudnikov aj, 2018, genet resour crop evol" 7 "  0.000" 0.00515 0.00726 2 1 2 2 "DUDNIKOV AJ, 2018, GENET RESOUR CROP EVOL" "10.1007/s10722-017-0575-4"
+"36" "ilnitskaya et, 2021, vavilovskii zhurnal genet sel" 8 "5.448" 0.00741 0.00906 1 1 1 1 "ILNITSKAYA ET, 2021, VAVILOVSKII ZHURNAL GENET SEL" "10.18699/VJ21.092"
+"37" "gorbunov i, 2020, iop conf ser earth envir sci" 8 "0.000" 0.00529 0.00527 2 2 2 2 "GORBUNOV I, 2020, IOP CONF SER EARTH ENVIR SCI" "10.1088/1755-1315/548/4/042050"
+"38" "balamirzoyev ma, 2014, arid ecosyst" 9 "3.000" 0.2 0.01689 1 1 1 1 "BALAMIRZOYEV MA, 2014, ARID ECOSYST" "10.1134/S2079096114010016"
+"39" "alichaev mm, 2021, arid ecosyst" 9 "1.000" 0.16667 0.0139 2 2 3 2.5 "ALICHAEV MM, 2021, ARID ECOSYST" "10.1134/S2079096121030033"
+"40" "gasanov gn, 2023, south russ-ecol dev" 9 "0.000" 0.14286 0.01676 4 4 2 4 "GASANOV GN, 2023, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2023-2-33-43"
+"41" "balamirzoev ma, 2013, arid ecosyst" 9 "0.500" 0.14286 0.01081 3 3 5 4 "BALAMIRZOEV MA, 2013, ARID ECOSYST" "10.1134/S2079096113010071"
+"42" "vlasova ok, 2017, arid ecosyst" 9 "0.000" 0.14286 0.01075 5 5 6 5.5 "VLASOVA OK, 2017, ARID ECOSYST" "10.1134/S207909611702010X"
+"43" "gasanov gn, 2019, south russ-ecol dev" 9 "0.000" 0.125 0.0137 6 6 4 6 "GASANOV GN, 2019, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2019-4-86-97"
+"44" "kidov aa, 2023, russ j herpetol" 10 "0.500" 0.00571 0.01583 1 1 1 1 "KIDOV AA, 2023, RUSS J HERPETOL" "10.30906/1026-2296-2023-30-2-79-87"
+"45" "lyapkov sm, 2021, russ j herpetol" 10 "0.000" 0.00467 0.01195 2 2 2 2 "LYAPKOV SM, 2021, RUSS J HERPETOL" "10.30906/1026-2296-2021-28-3-138-144"
+"46" "panov vp, 2021, zool zhurnal" 11 "2.000" 0.11111 0.01493 2 2 2 2 "PANOV VP, 2021, ZOOL ZHURNAL" "10.31857/S0044513421070084"
+"47" "pronina g, 2021, biol bull" 11 "1.500" 0.11111 0.01406 3 3 3 3 "PRONINA G, 2021, BIOL BULL" "10.1134/S1062359021030134"
+"48" "panov vp, 2019, j ichthyol" 11 "2.500" 0.11111 0.00525 1 1 6 3.5 "PANOV VP, 2019, J ICHTHYOL" "10.1134/S0032945219060092"
+"49" "pronina gi, 2022, j ichthyol" 11 "1.000" 0.1 0.0059 4 4 5 4.5 "PRONINA GI, 2022, J ICHTHYOL" "10.1134/S0032945222060248"
+"50" "nikitenko ai, 2022, biol bull" 11 "0.500" 0.09091 0.0132 5 5 4 5 "NIKITENKO AI, 2022, BIOL BULL" "10.1134/S1062359022060115"
+"51" "panov vp, 2022, biol bull" 11 "0.000" 0.05 0.02947 6 6 1 6 "PANOV VP, 2022, BIOL BULL" "10.1134/S1062359022070135"
+"52" "gultyaeva ei, 2018, austral plant pathol" 12 "62.000" 0.00385 0.01775 1 1 1 1 "GULTYAEVA EI, 2018, AUSTRAL PLANT PATHOL" "10.1007/s13313-018-0542-3"
+"53" "gultyaeva ei, 2016, austral plant pathol" 12 "20.500" 0.00382 0.01707 3 2 2 2.5 "GULTYAEVA EI, 2016, AUSTRAL PLANT PATHOL" "10.1007/s13313-016-0395-6"
+"54" "gultyaeva e, 2022, agriculture-basel" 12 "21.500" 0.00236 0.01074 2 3 4 3.5 "GULTYAEVA E, 2022, AGRICULTURE-BASEL" "10.3390/agriculture12111957"
+"55" "gultyaeva ei, 2017, russ j genet" 12 " 0.000" 0.00197 0.01441 4 4 3 4 "GULTYAEVA EI, 2017, RUSS J GENET" "10.1134/S1022795417070031"
+"56" "magomedov nr, 2017, south russ-ecol dev" 13 "0.500" 0.33333 0.00914 1 1 3 2 "MAGOMEDOV NR, 2017, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2017-2-171-179"
+"57" "aytemirov aa, 2018, south russ-ecol dev" 13 "0.000" 0.25 0.01846 3 3 1 3 "AYTEMIROV AA, 2018, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2018-2-144-155"
+"58" "teimurov sa, 2021, arid ecosyst" 13 "0.500" 0.33333 0.00914 2 2 4 3 "TEIMUROV SA, 2021, ARID ECOSYST" "10.1134/S2079096121030148"
+"59" "aytemirov aa, 2017, south russ-ecol dev" 13 "0.000" 0.25 0.01846 4 4 2 4 "AYTEMIROV AA, 2017, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2017-2-180-189"
+"60" "caradus jr, 1996, genet resour crop evol" 14 "0.500" 0.33333 0.01084 1 1 3 2 "CARADUS JR, 1996, GENET RESOUR CROP EVOL" "10.1007/BF00126758"
+"61" "nasirovna at, 2018, proceedings of the international symposium engineering and earth sciences: applied and fundamental research (isees 2018)" 14 "0.000" 0.25 0.01676 3 3 1 3 "NASIROVNA AT, 2018, PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ENGINEERING AND EARTH SCIENCES: APPLIED AND FUNDAMENTAL RESEARCH (ISEES 2018)" "10.1017/S146342361800035X"
+"62" "rasulov sm, 2016, high temp" 14 "0.500" 0.33333 0.01084 2 2 4 3 "RASULOV SM, 2016, HIGH TEMP" "10.1134/S0018151X16020164"
+"63" "ashurbekova tn, 2018, proceedings of the international symposium engineering and earth sciences: applied and fundamental research (isees 2018)" 14 "0.000" 0.25 0.01676 4 4 2 4 "ASHURBEKOVA TN, 2018, PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ENGINEERING AND EARTH SCIENCES: APPLIED AND FUNDAMENTAL RESEARCH (ISEES 2018)" ""
+"64" "kazenin k, 2023, j int migr integr" 15 "0.000" NA 0.00207 1 1 1 1 "KAZENIN K, 2023, J INT MIGR INTEGR" "10.1007/s12134-021-00848-8"
+"65" "ozdemirov aa, 2023, south russ-ecol dev" 16 "0.000" NA 0.00207 1 1 1 1 "OZDEMIROV AA, 2023, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2023-3-196-200"
+"66" "ermilov sg, 2023, acarologia" 17 "0.000" NA 0.00207 1 1 1 1 "ERMILOV SG, 2023, ACAROLOGIA" "10.24349/131f-vr0l"
 
 
 
@@ -48,585 +72,921 @@
 
 
 
-	Vertex name = guseynova za, 2023, south russ-ecol dev; Cluster = 1;
-	Betweenness Centrality (BC) = 212.033;  Closeness Centrality (CC) = 0.004270; PageRank (PR) score = 0.010;
-	BC rank = 1; CC Rank = 1; PR rank = 1 
+	Vertex name = bazzicalupo e, 2022, divers distrib; Cluster = 1;
+	Betweenness Centrality (BC) = 138.529;  Closeness Centrality (CC) = 0.008850; PageRank (PR) score = 0.026;
+	BC rank = 1; CC Rank = 1; PR rank = 2 
 
-                   	DOI :10.18470/1992-1098-2023-3-60-68
+                   	DOI :10.1111/ddi.13439
 
 ABSTRACT:
-Aim. Study of the structure of intra- and interpopulation variability of salvia canescens c.a. Mey. Along an altitudinal gradient. Material and methods. To study the morphological traits of salvia canescens, a generative shoot was used as a ``module''. In four geographically isolated populations of the species, one generative shoot from 30 individuals was taken. 11 signs were taken into account on the shoots. Statistical analysis of the obtained data was carried out using the statistica 5.5 program. The levels of variation were assessed according to g.m. Zaitsev. Results. The structure of intra- and interpopulation variability of s. Canescens, a characteristic representative of mountain-xerophyte vegetation and an endemic of the greater caucasus, was studied. According to the data obtained, the mean values of most of the studied traits of s. Canescens increase with altitude. The variability of the studied traits of the species, both intra- and interpopulation, has an average and high levels. Most of the traits of s. Canescens are positively correlated with each other at the p=0.05 level. All traits, except for the number of internodes and leaves, are in a positive significant correlation (p=0.001; p=0.01) with height above sea level. The results of one-way anova and regression analyses showed significant differences between populations for most traits of the generative shoot. The maximum differentiation of populations was noted according to the traits ``mass of stems'' and ``mass of inflorescences''. Conclusions. The intra- and interpopulation variability of the morphological traits of salvia canescens revealed along the altitudinal gradient is due to the ecological conditions of the species' habitat. The variability of the traits and the increase in the parameters of the generative sphere reflect the adaptation of the species along the altitudinal gradient.
+Aim genome-wide genetic data can provide key input for both taxonomy and conservation, but its use in this context remains limited. In this study, we performed the first genome-wide assessment of genetic variation in two populations of the eurasian lynx, the balkan population, the most threatened, and the caucasian population, a possible glacial refugium, with the aim to place them in the context of the species, investigate their demographic history and evaluate their genetic status. Location the balkans and the caucasus. Methods we obtained whole genome resequencing data from seven balkan and 12 caucasian lynx, and analysed them along with novel and existing data from other populations. Based on a total 105 whole genome and 114 mitogenome sequences, we reconstructed phylogenetic and historical relationships, ancient and recent demography, and patterns of genetic diversity and inbreeding. Results both the balkan and the caucasian lynx appear as distinct mitochondrial lineages that diverged from the rest of the eurasian lynx lineages ca. 92.6 kya, and from each other ca. 46.4 kya. Autosomal data suggest, however, that the balkan lynx is closely related with the carpathian population, and revealing alarmingly low genetic diversity and high inbreeding. In contrast, the caucasian lynx shows a longer history of relative isolation from the rest of lynx populations and high genetic diversity, consistent with its large long-term effective population size. Main conclusions the taxonomic status of the balkan lynx remains unresolved due to the evidence of long-term isolation in the mitogenome, contrasting with extensive autosomal admixture and intense recent genetic drift in the nuclear genome. Our results alert on genetic risks and call for the consideration of genetic rescue from closely related carpathian lynxes. In contrast, substantial mitogenomic and autosomal divergence with no signs of genetic drift supports the identification of the caucasian lynx as a separate subspecies with good genetic health.
 
 
 -----------------------------------
 
 
 
-	Vertex name = mazanaeva lf, 2020, russ j herpetol; Cluster = 1;
-	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003260; PageRank (PR) score = 0.009;
-	BC rank = 2; CC Rank = 2; PR rank = 2 
+	Vertex name = deniskova te, 2022, russ j genet; Cluster = 1;
+	Betweenness Centrality (BC) = 109.845;  Closeness Centrality (CC) = 0.008550; PageRank (PR) score = 0.026;
+	BC rank = 3; CC Rank = 2; PR rank = 1 
 
-                   	DOI :10.30906/1026-2296-2020-27-2-70-80
+                   	DOI :10.1134/S1022795422050040
 
 ABSTRACT:
-Distribution and biotopic allocation of pseudopus apodus in republic of dagestan (north-eastern caucasus, russia) were studied. During multiple surveys in 2004 - 2018 in lowland and piedmont parts of the republic, 81 new localities were recorded. The majority of previously known records (33 from 36) were confirmed. The area of known range of p. Apodus is about 7467.4 km(2). It is about 15\% of territory of the republic. Such biotopic characteristics of p. Apodus as elevation range, various climatic and vegetation characters, soils, and syntopic herpetofauna were analyzed.
+For the first time, the analysis of polymorphism of complete mitochondrial genomes was performed in three dagestan local goat populations (n = 37), which were characterized by high genetic and haplotype diversity. We found that 90.88\% of the total genetic variability was due to intragroup differences and 4.86\% was due to intergroup differences. For the studied sample of goats, significant negative values of the tajima's d and fu's fs neutrality indices were calculated (p < 0.05). We performed a phylogenetic analysis using the nucleotide sequences of domestic goats and bezoars belonging to different haplogroups. Our study revealed that all studied samples of dagestan local goats belonged to haplogroup a, which is the most frequent one in domestic goats.
 
 
 -----------------------------------
 
 
 
-	Vertex name = balamirzoev ma, 2008, eurasian soil sci; Cluster = 1;
-	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003260; PageRank (PR) score = 0.009;
+	Vertex name = deniskova t, 2020, animals; Cluster = 1;
+	Betweenness Centrality (BC) = 31.398;  Closeness Centrality (CC) = 0.008260; PageRank (PR) score = 0.024;
+	BC rank = 11; CC Rank = 4; PR rank = 3 
+
+                   	DOI :10.3390/ani10091603
+
+ABSTRACT:
+Simple summary russia has diverse specifically selected and multipurpose goat resources. However, the origin of the local goats is still enigmatic. In this study, we sequenced and analyzed mitochondrial dna (mtdna) fragments of seven russian local goat populations to provide the first insight into their maternal lineage. The territory of modern russia lies on the crossroads of east and west and covers various geographical environments where diverse groups of local goats originated. In this work, we present the first study on the maternal origin of russian local goats, including altai mountain (n= 9), dagestan downy (n= 18), dagestan local (n= 12), dagestan milk (n= 15), karachaev (n= 21), orenburg (n= 10), and soviet mohair (n= 7) breeds, based on 715 bp d-loop mitochondrial dna (mtdna) sequences. Saanen goats (n= 5) were used for comparison. Our findings reveal a high haplotype (hd = 0.843-1.000) and nucleotide diversity (pi = 0.0112-0.0261). A total of 59 haplotypes were determined in the russian goat breeds, in which all differed from the haplotypes of the saanen goats. The haplotypes identified in altai mountain, orenburg, soviet mohair, and saanen goats were breed specific. Most haplotypes (56 of 59) were clustered together with samples belonging to haplogroup a, which was in accordance with the global genetic pattern of maternal origin seen in most goats worldwide. The haplotypes that were grouped together with rare haplogroups d and g were found in the altai mountain breed and haplogroup c was detected in the soviet mohair breed. Thus, our findings revealed that local goats might have been brought to russia via various migration routes. In addition, haplotype sharing was found in aboriginal goat populations from overlapping regions, which might be useful information for their official recognition status.
+
+
+-----------------------------------
+
+
+
+	Vertex name = seidl a, 2020, flora; Cluster = 1;
+	Betweenness Centrality (BC) = 107.663;  Closeness Centrality (CC) = 0.008260; PageRank (PR) score = 0.019;
+	BC rank = 4; CC Rank = 3; PR rank = 8 
+
+                   	DOI :10.1016/j.flora.2019.151504
+
+ABSTRACT:
+Krascheninnikovia ceratoides (chenopodiaceae) is a steppe and semi-desert plant with two subspecies, k. Ceratoides subsp. Ceratoides, which is widespread in eurasia, and k. Ceratoides subsp. Lanata, which grows in western and central north america. A few disjunct populations of k. Ceratoides subsp. Ceratoides are found in anatolia, europe and north africa to the west of its otherwise continuous eurasian distribution. To understand the evolutionary history of this characteristic steppe and semi-desert plant, we analysed its phylogeny and biogeography. We sequenced several loci including its, ets and the chloroplast intergenic spacer regions atpb-rbcl, rpl32-tra and trnl-trnf to establish a time-calibrated phylogeny and reconstruct intraspecific relationships. Furthermore, we identified the ploidy level of individuals. While diploid, tetraploid and hexaploid individuals have been reported in the literature, we were only able to find diploids and tetraploids. The diploids were found in the east of mongolia, kazakhstan, kyrgyzstan, russia and the usa. The tetraploids were located in the west of mongolia, kazakhstan, tajikistan, russia, and europe. Populations were uniformly di- or tetraploid. Our results indicate that the species may have spread from the area of mongolia, northern china and middle asia (i.e., the altai mountains region) in two opposite directions - on the one hand, diploids migrated to the east, to eastern asia and north america, and on the other hand diploids and tetraploids migrated to the west, to western asia and europe. Fossil-calibrated gene trees were used to estimate the age of the species. Diversification within the species is probably of pleistocene age. Our dated analysis indicates that the first split among extant lineages of the species took place in the early pleistocene (gelasian). The spread of the main lineages is likely related to major phases of steppe and semi-desert expansions during glacial periods of the pleistocene.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bazzicalupo e, 2023, evol appl; Cluster = 1;
+	Betweenness Centrality (BC) = 118.239;  Closeness Centrality (CC) = 0.007410; PageRank (PR) score = 0.020;
+	BC rank = 2; CC Rank = 13; PR rank = 6 
+
+                   	DOI :10.1111/eva.13570
+
+ABSTRACT:
+Local adaptations to the environment are an important aspect of the diversity of a species and their discovery, description and quantification has important implications for the fields of taxonomy, evolutionary and conservation biology. In this study, we scan genomes from several populations across the distributional range of the eurasian lynx, with the objective of finding genomic windows under positive selection which may underlie local adaptations to different environments. A total of 394 genomic windows are found to be associated to local environmental conditions, and they are enriched for genes involved in metabolism, behaviour, synaptic organization and neural development. Adaptive genetic structure, reconstructed from snps in candidate windows, is considerably different than the neutral genetic structure of the species. A widespread adaptively homogeneous group is recovered occupying areas of harsher snow and temperature climatic conditions in the north-western, central and eastern parts of the distribution. Adaptively divergent populations are recovered in the westernmost part of the range, especially within the baltic population, but also predicted for different patches in the western and southern part of the range, associated with different snow and temperature regimes. Adaptive differentiation driven by climate does not correlate much with the subspecies taxonomic delimitations, suggesting that subspecific divergences are mostly driven by neutral processes of genetic drift and gene flow. Our results will aid the selection of source populations for assisted gene flow or genetic rescue programs by identifying what climatic patterns to look for as predictors of pre-adaptation of individuals. Particularly, the carpathian population is confirmed as the best source of individuals for the genetic rescue of the endangered, isolated and genetically eroded balkan population. Additionally, reintroductions in central and western europe, currently based mostly on carpathian lynxes, could consider the baltic population as an additional source to increase adaptive variation and likely improve adaptation to their milder climate.
+
+
+-----------------------------------
+
+
+
+	Vertex name = khederzadeh s, 2019, ecol evol; Cluster = 1;
+	Betweenness Centrality (BC) = 58.922;  Closeness Centrality (CC) = 0.008200; PageRank (PR) score = 0.015;
+	BC rank = 5; CC Rank = 5; PR rank = 11 
+
+                   	DOI :10.1002/ece3.5415
+
+ABSTRACT:
+The phylogeography of the european wild boar was mainly determined by postglacial recolonization patterns from mediterranean refugia after the last ice age. Here we present the first analysis of snp polymorphism within the complete mtdna genome of west russian (n = 8), european (n = 64), and north african (n = 5) wild boar. Our analyses provided evidence of unique lineages in the east-caucasian (dagestan) region and in central italy. A phylogenetic analysis revealed that these lineages are basal to the other european mtdna sequences. We also show close connection between the western siberian and eastern european populations. Also, the north african samples were clustered with the iberian population. Phylogenetic trees and migration modeling revealed a high proximity of dagestan sequences to those of central italy and suggested possible gene flow between western asia and southern europe which was not directly related to northern and central european lineages. Our results support the presence of old maternal lineages in two southern glacial refugia (i.e., caucasus and the italian peninsula), as a legacy of an ancient wave of colonization of southern europe from an eastern origin.
+
+
+-----------------------------------
+
+
+
+	Vertex name = crous pw, 2021, persoonia; Cluster = 1;
+	Betweenness Centrality (BC) = 53.600;  Closeness Centrality (CC) = 0.008060; PageRank (PR) score = 0.021;
+	BC rank = 6; CC Rank = 6; PR rank = 5 
+
+                   	DOI :10.3767/persoonia.2021.46.11
+
+ABSTRACT:
+Novel species of fungi described in this study include those from various countries as follows: algeria, phaeoacremonium adelophialidum from vitis vinifera. Antarctica, comoclathris antarctica from soil. Australia, coniochaeta salicifolia as endophyte from healthy leaves of geijera salicifolia, eremothecium peggii in fruit of citrus australis, microdochium ratticaudae from stem of sporobolus natalensis, neocelosporium corymbiae on stems of corymbia variegata, phytophthora kelmanii from rhizosphere soil of ptilotus pyramidatus, pseudosydowia backhousiae on living leaves of backhousia citriodora, pseudosydowia indooroopillyensis, pseudosydowia louisecottisiae and pseudosydowia queenslandica on living leaves of eucalyptus sp. Brazil, absidia montepascoalis from soil. Chile, ilyonectria zarorii from soil under maytenus boaria. Costa rica, colletotrichum filicis from an unidentified fern. Croatia, mollisia endogranulata on deteriorated hardwood. Czech republic, arcopilus navicularis from tea bag with fruit tea, neosetophoma buxi as endophyte from buxus sempervirens, xerochrysium bohemicum on surface of biscuits with chocolate glaze and filled with jam. France, entoloma cyaneobasale on basic to calcareous soil, fusarium aconidiale from triticum aestivum, fusarium juglandicola from buds of juglans regia. Germany, tetraploa endophytica as endophyte from microthlaspi perfoliatum roots. India, castanediella ambae on leaves of mangifera indica, lactifluus kanadii on soil under castanopsis sp., penicillium uttarakhandense from soil. Italy, penicillium ferraniaense from compost. Namibia, bezerromyces gobabebensis on leaves of unidentified succulent, cladosporium stipagrostidicola on leaves of stipagrostis sp., cymostachys euphorbiae on leaves of euphorbia sp., deniquelata hypolithi from hypolith under a rock, hysterobrevium walvisbayicola on leaves of unidentified tree, knufia hypolithi and knufia walvisbayicola from hypolith under a rock, lapidomyces stipagrostidicola on leaves of stipagrostis sp., nothophaeotheca mirabibensis (incl. Nothophaeotheca gen. Nov.) On persistent inflorescence remains of blepharis obmitrata, paramyrothecium salvadorae on twigs of salvadora persica, preussia procaviicola on dung of procavia sp., sordaria equicola on zebra dung, volutella salvadorae on stems of salvadora persica. Netherlands, entoloma ammophilum on sandy soil, entoloma pseudocruentatum on nutrient poor (acid) soil, entoloma pudens on plant debris, amongst grasses. New zealand, amorocoelophoma neoregeliae from leaf spots of neoregelia sp., aquilomyces metrosideri and septoriella callistemonis from stem discolouration and leaf spots of metrosideros sp., cadophora neoregeliae from leaf spots of neoregelia sp., flexuomyces asteliae (incl. Flexuomyces gen. Nov.) And mollisia asteliae from leaf spots of astelia chathamica, ophioceras freycinetiae from leaf spots of freycinetia banksii, phaeosphaeria caricis-sectae from leaf spots of carex secta. Norway, cuphophyllus flavipesoides on soil in semi-natural grassland, entoloma coracis on soil in calcareous pinus and tilia forests, entoloma cyaneolilacinum on soil semi-natural grasslands, inocybe norvegica on gravelly soil. Pakistan, butyriboletus parachinarensis on soil in association with quercus baloot. Poland, hyalodendriella bialowiezensis on debris beneath fallen bark of norway spruce picea abies. Russia, bolbitius sibiricus on. Moss covered rotting trunk of populus tremula, crepidotus wasseri on debris of populus tremula, entoloma isborscanum on soil on calcareous grasslands, entoloma subcoracis on soil in subalpine grasslands, hydropus lecythiocystis on rotted wood of betula pendula, meruliopsis faginea on fallen dead branches of fagus orientalis, metschnikowia taurica from fruits of ziziphus jujube, suillus praetermissus on soil, teunia lichenophila as endophyte from cladonia rangiferina. Slovakia, hygrocybe fulgens on mowed grassland, pleuroflammula pannonica from corticated branches of quercus sp. South africa, acrodontium burrowsianum on leaves of unidentified poaceae, castanediella senegaliae on dead pods of senegalia ataxacantha, cladophialophora behniae on leaves of behnia sp., colletotrichum cliviigenum on leaves of clivia sp., diatrype dalbergiae on bark of dalbergia armata, falcocladium heteropyxidicola on leaves of heteropyxis canescens, lapidomyces aloidendricola as epiphyte on brown stem of aloidendron dichotomum, lasionectria sansevieriae and phaeosphaeriopsis sansevieriae on leaves of sansevieria hyacinthoides, lylea dalbergiae on diatrype dalbergiae on bark of dalbergia armata, neochaetothyrina syzygii (incl. Neochaetothyrina gen. Nov.) On leaves of syzygium chordatum, nothophaeomoniella ekebergiae (incl. Nothophaeomoniella gen. Nov.) On leaves of ekebergia pterophylla, paracymostachys euphorbiae (incl. Paracymostachys gen. Nov.) On leaf litter of euphorbia ingens, paramycosphaerella pterocarpi on leaves of pterocarpus angolensis, paramycosphaerella syzygii on leaf litter of syzygium chordatum, parateichospora phoenicicola (incl. Parateichospora gen. Nov.) On leaves of phoenix reclinata, seiridium syzygii on twigs of syzygium chordatum, setophoma syzygii on leaves of syzygium sp., starmerella xylocopis from larval feed of an afrotropical bee xylocopa caffra, teratosphaeria combreti on leaf litter of combretum kraussii, teratosphaericola leucadendri on leaves of leucadendron sp., toxicocladosporium pterocarpi on pods of pterocarpus angolensis. Spain, cortinarius bonachei with quercus ilex in calcareus soils, cortinarius brunneovolvatus under quercus ilex subsp. Ballota in calcareous soil, extremopsis radicicola (incl. Extremopsis gen. Nov.) From root-associated soil in a wet heathland, russula quintanensis on acidic soils, tubaria vulcanica on volcanic lapilii material, tuber zambonelliae in calcareus soil. Sweden, elaphomyces borealis on soil under pinus sylvestris and betula pubescens. Tanzania, curvularia tanzanica on inflorescence of cyperus aromaticus. Thailand, simplicillium niveum on ophiocordyceps camponoti-leonardi on underside of unidentified dicotyledonous leaf. Usa, calonectria californiensis on leaves of umbellularia californica, exophiala spartinae from surface sterilised roots of spartina alterniflora, neophaeococcomyces oklahomaensis from outside wall of alcohol distillery. Vietnam, fistulinella aurantioflava on soil. Morphological and culture characteristics are supported by dna barcodes.
+
+
+-----------------------------------
+
+
+
+	Vertex name = kozlova ap, 2023, viruses-basel; Cluster = 1;
+	Betweenness Centrality (BC) = 51.923;  Closeness Centrality (CC) = 0.008060; PageRank (PR) score = 0.007;
+	BC rank = 7; CC Rank = 7; PR rank = 16 
+
+                   	DOI :10.3390/v15081701
+
+ABSTRACT:
+Soil sinorhizobium phage ap-16-3, a strain phylogenetically close to rhizobium phage 16-3, was isolated in a mountainous region of dagestan, belonging to the origin of cultivated plants in the caucasus, according to vavilov n.i. The genome of phage ap-16-3 is 61 kbp in size and contains 62 orfs, of which 42 orfs have homologues in the genome of rhizobium phage 16-3, which was studied in the 1960s-1980s. A search for rhizobium phage 16-3-related sequences was performed in the genomes of modern strains of root nodule bacteria belonging to different species, genera, and families. A total of 43 prophages of interest were identified out of 437 prophages found in the genomes of 42 strains, of which 31 belonged to sinorhizobium meliloti species. However, almost all of the mentioned prophages contained single orfs, and only two prophages contained 51 and 39 orfs homologous to phages related to 16-3. These prophages were detected in s. Meliloti nv1.1.1 and rh. Leguminosarum oyalib strains belonging to different genera; however, the similarity level of these two prophages did not exceed 14.7\%. Analysis of the orphan genes in these prophages showed that they encoded predominantly virion structural elements, but also enzymes and an extensive group of hypothetical proteins belonging to the l, s, and e regions of viral genes of phage 16-3. The data obtained indicate that temperate phages related to 16-3 had high infectivity against nodule bacteria and participated in intragenomic recombination events involving other phages, and in horizontal gene transfer between rhizobia of different genera. According to the data obtained, it is assumed that the repetitive lysogenic cycle of temperate bacteriophages promotes the dissolution of the phage genetic material in the host bacterial genome, and radical updating of phage and host bacterial genomes takes place.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dotsev a, 2021, diversity-basel; Cluster = 1;
+	Betweenness Centrality (BC) = 21.636;  Closeness Centrality (CC) = 0.007630; PageRank (PR) score = 0.019;
+	BC rank = 13; CC Rank = 11; PR rank = 7 
+
+                   	DOI :10.3390/d13070312
+
+ABSTRACT:
+Caucasian tur (capra caucasica) is native to greater caucasus mountain chain from azerbaijan and georgia in the east to krasnodar region of russia in the west. This species is divided into two subspecies (by some authors into species)-east-caucasian tur and west-caucasian tur and a subpopulation referred to as mid-caucasian tur. Up to date most of the genetic studies of caucasian tur are based on mitochondrial dna sequences and comprehensive investigation based on nuclear dna is required for clarification of its genetic diversity and population structure. In our work, we assessed the applicability of illumina goat snp50 beadchip for genetic studies of caucasian tur. Total of 15 specimens of capra caucasica including east-caucasian tur from dagestan (e\_tur, n = 5), west-caucasian tur from karachay-cherkessia (w\_tur, n = 5), and mid-caucasian tur from kabardino-balkaria (m\_tur, n = 5) were genotyped. After quality control, 5544 polymorphic loci, which were distributed all over 29 autosomes, were detected. The lowest number of snps was found on the 25th chromosome-68, and the highest on the 1st chromosome-348. It was shown that all the three groups of caucasian tur clustered separately. A total of 2061 snps were common for all the populations, 594 were found only in w\_tur, 689 in e\_tur, and 530 in m\_tur. Individual heterozygosity ranged from 0.273 to 0.282 in w\_tur, from 0.217 to 0.253 in e\_tur, and from 0.255 to 0.283 in m\_tur. A clinal pattern of genetic variation was revealed. It was suggested to consider caucasian tur a single species with several ecotypes. Thus, in our study we demonstrated that the illumina goat snp50 beadchip developed for domestic goats can be used as a useful tool for genetic studies of caucasian tur.
+
+
+-----------------------------------
+
+
+
+	Vertex name = volkova vv, 2022, diversity-basel; Cluster = 1;
+	Betweenness Centrality (BC) = 47.626;  Closeness Centrality (CC) = 0.006850; PageRank (PR) score = 0.018;
+	BC rank = 9; CC Rank = 18; PR rank = 9 
+
+                   	DOI :10.3390/d14070569
+
+ABSTRACT:
+The dagestan mountain (dm) cattle breed was established to provide cheese and milk products to mountain dwellers in the specific conditions of the republic of dagestan in southern russia. Only 650 head of dm cattle were registered in 2020, and their ``breed purity'' is questionable. We aimed to assess the genetic diversity and population structure of modern dm cattle using short tandem repeat (str) markers. The sample included 150 animals collected from private owners in dagestan during a scientific expedition (n = 32) and provided by a gene pool farm (n = 118). An additional 166 samples from other cattle breeds distributed in the breeding zone of dm cattle were used as the comparison groups. The genotypes for the 11 str loci recommended by isag were obtained using a genetic analyzer. We identified a high level of genetic diversity as revealed by allelic richness calculations (ar = 6.82 vs. 4.38-5.82 in other cattle breeds) and observed heterozygosity indices (uhe = 0.76 vs. 0.65-0.72). Based on the structure results, animals with low levels of admixture with other breeds were found within the dm cattle, which can be considered as candidates for use in germplasm conservation programs.
+
+
+-----------------------------------
+
+
+
+	Vertex name = fritz u, 2008, j evol biol; Cluster = 2;
+	Betweenness Centrality (BC) = 28.791;  Closeness Centrality (CC) = 0.008000; PageRank (PR) score = 0.028;
+	BC rank = 2; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1111/j.1420-9101.2007.01485.x
+
+ABSTRACT:
+In recent years many cases of hybridization and introgression became known for chelonians, requiring a better understanding of their speciation mechanisms. Phylogeographic investigations offer basic data for this challenge. We use the sister species mauremys caspica and m. Rivulata, the most abundant terrapins in the near and middle east and south-east europe, as model. Their phylogeographies provide evidence that speciation of chelonians fits the allopatric speciation model, with both species being in the parapatric phase of speciation, and that intrinsic isolation mechanisms are developed during speciation. Hybridization between m. Caspica and m. Rivulata is very rare, suggesting that the increasing numbers of hybrids in other species are caused by human impact on environment (breakdown of ecological isolation). Genetic differentiation within m. Caspica and m. Rivulata resembles the paradigm of southern genetic richness and northern purity of european biota. However, in west asia this pattern is likely to reflect dispersal and vicariance events older than the holocene. For m. Caspica three distinct pleistocene refuges are postulated (central anatolia, south coast of caspian sea, gulf of persia). Morphologically defined subspecies within m. Caspica are not supported by genetic data. This is one of the few studies available about the phylogeography of west and central asian species.
+
+
+-----------------------------------
+
+
+
+	Vertex name = fritz u, 2007, amphib reptil; Cluster = 2;
+	Betweenness Centrality (BC) = 54.594;  Closeness Centrality (CC) = 0.007870; PageRank (PR) score = 0.025;
+	BC rank = 1; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1163/156853807779799135
+
+ABSTRACT:
+Tortoises of the testudo graeca complex inhabit a patchy range that covers part of three continents (africa, europe, asia). It extends approximately 6500 kin in an east-west direction from eastern iran to the moroccan atlantic coast and about 1600 km in a north-south direction from the danube delta to the libyan cyrenaica peninsula. Recent years have seen a rapid increase of recognized taxa. Based on morphological investigations, it was suggested that this group consists of as many as 20 distinct species and is paraphyletic with respect to t. Kleinmanni sensu lato and t marginata. Based on samples from representative localities of the entire range, we sequenced the mitochondrial cytochrome b gene and conducted nuclear genomic fingerprinting with issr pcr. The t graeca complex is monophyletic and sister to a taxon consisting of t kleinmanni sensu lato and t marginata. The t graeca complex comprises six well-supported mtdna clades (a-f). Highest diversity is found in the caucasian region, where four clades occur in close neighbourhood. This suggests, in agreement with the fossil record, the caucasian region as a radiation centre. Clade a corresponds to haplotypes from the east caucasus. It is the sister group of another clade (b) from north africa and western mediterranean islands. Clade c includes haplotypes from western asia minor, the southeastern balkans and the western and central caucasus region. Its sister group is a fourth, widely distributed clade (d) from southern and eastern asia minor and the levantine region (near east). Two further clades are distributed in iran (e, northwestern and central iran; f, eastern iran). Distinctness of these six clades and sister group relationships of (a + b) and (c + d) are well-supported; however, the phylogeny of the resulting four clades (a + b), (c + d), e and f is poorly resolved. While in a previous study (fritz et a]., 2005a) all traditionally recognized testudo species were highly distinct using mtdna sequences and issr fingerprints, we detected within the t graeca complex no nuclear genomic differentiation paralleling mtdna clades. We conclude that all studied populations of the t graeca complex are conspecific under the biological species concept. There is major incongruence between mtdna clades and morphologically defined taxa. Morphologically well-defined taxa, like t g. Armeniaca or t g. Floweri, nest within clades comprising also geographically neighbouring, but morphologically distinctive populations of other taxa (clade a: t g. Armeniaca, t g. Ibera, t g. Pallasi; clade d: t g. Anamurensis, t g. Antakyensis, t g. Floweri, t g. Ibera, t g. Terrestris), while sequences of morphologically similar tortoises of the same subspecies (t g. Ibera sensu stricto or t g. Ibera sensu lato) scatter over two or three genetically distinct clades (a, c or a, c, d, respectively). This implies that pronounced morphological plasticity, resulting in phenotypes shaped by environmental pressure, masks genetic differentiation. To achieve a more realistic taxonomic arrangement reflecting mtdna clades, we propose reducing the number of t graeca subspecies considerably and regard in the eastern part of the range five subspecies as valid (t g. Armeniaca, t g. Buxtoni, t g. Ibera, t g. Terrestris, t g. Zarudnyi). As not all north african taxa were included in the present study, we refrain from synonymizing north african taxa with t g. Graeca (mtdna clade b) that represents a further valid subspecies.
+
+
+-----------------------------------
+
+
+
+	Vertex name = seregin ap, 2020, biodiver data j; Cluster = 2;
+	Betweenness Centrality (BC) = 8.260;  Closeness Centrality (CC) = 0.006620; PageRank (PR) score = 0.005;
 	BC rank = 3; CC Rank = 3; PR rank = 3 
 
-                   	DOI :10.1134/S1064229308060033
+                   	DOI :10.3897/BDJ.8.e59249
 
 ABSTRACT:
-Soil-agroecological zoning is based on the comprehensive landscape-genetic approach, which makes it possible to study each region of a particular taxonomic level both as a whole and as a combination of smaller heterogenic natural complexes comprising latitudinal and altitudinal natural belts. A map of soil-agroecological zoning of the dagestan republic has been developed on a scale of 1:200 000. The ecological status of the soil cover of the republic is analyzed, and measures for nature protection and rational land use are suggested.
+Background the ``flora of russia'' project on inaturalist brought together professional scientists and amateur naturalists from all over the country. Over 10,000 people were involved in the data collection. New information within 20 months, the participants accumulated 750,143 photo observations of 6,857 species of the russian flora. This constitutes the largest dataset of open spatial data on the country's biodiversity and a leading source of data on the current state of the national flora. About 87\% of all project data, i.e. 652,285 observations, are available under free licences (cc0, cc-by, cc-by-nc) and can be freely used in scientific, educational and environmental activities.
 
 
 -----------------------------------
 
 
 
-	Vertex name = ryabogina n, 2019, quat int; Cluster = 2;
-	Betweenness Centrality (BC) = 75.508;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.007;
-	BC rank = 1; CC Rank = 1; PR rank = 1 
-
-                   	DOI :10.1016/j.quaint.2018.06.020
-
-ABSTRACT:
-The mountainous dagestan region has a unique historical development, likely based in independent cereal domestication and terraced agriculture. However, there is little to no data on the nature and timing of environmental changes throughout the settlement history of this region. In contrast to the much studied neighboring caucasus regions, dagestan remains mostly unexplored from the standpoint of paleoecology. Here we present a detailed radiocarbon-dated 185 cm long pollen record from the shotota swamp located in the mountainous zone of the eastern caucasus (dagestan). Peat and soil deposits of the swamp span most of the holocene from the neolithic to the middle ages, and this study, for the first time, presents an analysis of holocene vegetation history and the populating of the eastern caucasus. Our analysis reveals three basic stages of transformation of natural conditions: a stage of predominantly warm and dry climate, open meadow and steppe landscapes of 9200-7300 bp associated with the neolithic period; a warm and humid climate of 7300-6000 bp which accompanied the appearance of deciduous forests in the chalcolithic period; and cooling and several phases of humidification oscillations with the constant rise of pine forests with 5000 bp, which are associated with the bronze age, early iron age and middle ages. With the data obtained on the dynamics of vegetation, we conducted a coupled analysis of climate dynamics, populating and economy in dagestan. The results of the study show significant discrepancies in the timing and sequence of the expansion of tree species in the holocene in comparison with transcaucasia and the western caucasus. Despite the low settlement density pollen results reveal signs of agricultural development in the khunzakh plateau in the chalcolithic, the late bronze age and the early iron age that are not documented in archaeological surveys and require further investigation.
-
-
------------------------------------
-
-
-
-	Vertex name = vilkov ev, 2011, arid ecosyst; Cluster = 2;
-	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003250; PageRank (PR) score = 0.004;
-	BC rank = 2; CC Rank = 2; PR rank = 2 
-
-                   	DOI :10.1134/S2079096111020090
-
-ABSTRACT:
-The species composition of winter avifauna in an arid province of intramountain dagestan, which integrates a transitive complex of birds inhabiting submountain and high-mountain areas of the republic, is studied. The dynamics of population density is determined, and peculiarities of spatial distribution of birds in five dominating types of landscapes (territorial units) are revealed.
-
-
------------------------------------
-
-
-
-	Vertex name = kaliszewska i, 2020, contemp islam; Cluster = 3;
-	Betweenness Centrality (BC) = 506.884;  Closeness Centrality (CC) = 0.005780; PageRank (PR) score = 0.008;
-	BC rank = 1; CC Rank = 1; PR rank = 20 
-
-                   	DOI :10.1007/s11562-019-00436-9
-
-ABSTRACT:
-Republic of daghestan is the most multiethnic and troublesome region in the russian federation. The social, religious and political landscape of this republic has radically changed over the last two decades. Daghestan appears in academic and analytical papers mostly in relation to terrorism or security issues. The everyday religiosity is, for the most part, out of the picture. This paper aims to fill the gap by focusing on everyday islam in this republic. It is intended as a contribution to the anthropology of islam and post-soviet area studies. What can we learn about the social changes in the given setting if we re-focus our attention from religious figures, organizations and institutions and drift towards the everyday perceptions and experiences of ordinary muslims, towards religiosity as embedded in everyday life but not within a clearly identifiable group? Religious life in daghestan is usually viewed through official categories of ``traditional islam'' and ``non-traditional islam'' the former equated with ``sufism'' the latter with ``wahhabism''. As will be clear from this paper these theology driven qualifiers are usually used in a secular sense, with no clear religious content attached to them. However, as a part of powerful discourses they affect religious life of ordinary muslims. How do they relate to these categories? In my paper i show how attitudes towards salafi-oriented muslims changed in daghestan between 2007 and 2017: they drifted from being informed by official categories to being informed by everyday experiences. I will also show how and in what contexts daghestani muslims engaged and played with the categories, bringing in some comparisons with late-socialism. Eventually, i will engage with the concept of ``everyday islam'' its potentials and limitations as an analytical category used for the analysis of social life in the north caucasus where an organized religious and political activity is limited and where the clearly identifiable groups are not those that are behind the most vital social changes. The paper is based on ethnographic fieldwork conducted between 2007 and 2017 among daghestani muslims in makhachkala and beyond.
-
-
------------------------------------
-
-
-
-	Vertex name = yemelianova gm, 2020, routledge handbook of the caucasus; Cluster = 3;
-	Betweenness Centrality (BC) = 328.122;  Closeness Centrality (CC) = 0.005030; PageRank (PR) score = 0.016;
-	BC rank = 2; CC Rank = 3; PR rank = 6 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = shnirelman v, 2018, eur-asia stud; Cluster = 3;
-	Betweenness Centrality (BC) = 320.590;  Closeness Centrality (CC) = 0.005080; PageRank (PR) score = 0.013;
-	BC rank = 3; CC Rank = 2; PR rank = 10 
-
-                   	DOI :10.1080/09668136.2018.1487681
-
-ABSTRACT:
-Dagestan is inhabited by numerous ethnic communities with their own languages, cultures and histories. However, despite its ethnic and cultural diversity, the republic's authorities have consistently sought to promote a unified concept of dagestani identity. This policy has been challenged by local ethnic nationalists concerned about the future of their ethnic communities, which they saw as being endangered by assimilation and marginalisation. This struggle to secure political and social benefits began in the soviet period and reached its height in the early 1990s. Resentment was particularly widespread among the kumyks and lezgins. Their dissatisfaction with the status quo resulted in a competition between inclusive (national) and exclusive (ethnic) approaches, which in turn manifested themselves in debates over historiography. This essay analyses the development and outcomes of this struggle from the 1950s through to the early 2000s, with an emphasis on the early 1990s.
-
-
------------------------------------
-
-
-
-	Vertex name = holland ec, 2010, communist post-communist stud; Cluster = 3;
-	Betweenness Centrality (BC) = 76.473;  Closeness Centrality (CC) = 0.004420; PageRank (PR) score = 0.021;
-	BC rank = 4; CC Rank = 6; PR rank = 3 
-
-                   	DOI :10.1016/j.postcomstud.2010.07.006
-
-ABSTRACT:
-Previous academic work on stability in dagestan has focused on two potential cleavages, the republics ethnic diversity and the challenge from radical islamist groups. Using results from a december 2005 survey, and focusing on dagestan's six main ethnic groups, this paper investigates attitudes towards the dual topics of the politicization of ethnicity and the relationship between terrorism and islamism. We find that dagestanis maintain layered conceptions of identity, and do not attribute violence predominantly to radical islam in the republic or the wider north caucasus. Scholars should be aware of rogers brubaker's concept of groupism in analyzing not just ethnic groups, but religious movements as well. (C) 2010 published by elsevier ltd on behalf of the regents of the university of california.
-
-
------------------------------------
-
-
-
-	Vertex name = eldarov em, 2007, eurasian geogr econ; Cluster = 3;
-	Betweenness Centrality (BC) = 46.279;  Closeness Centrality (CC) = 0.004850; PageRank (PR) score = 0.014;
-	BC rank = 5; CC Rank = 4; PR rank = 8 
-
-                   	DOI :10.2747/1538-7216.48.2.226
-
-ABSTRACT:
-This paper investigates migratory patterns in the north caucasian republic of dagestan. It relies on prior literature, both in russian and english, to establish the basic form of migration in the republic and recent census data to describe these patterns. The authors then analyze responses from a december 2005 survey of dagestani residents about their migration intentions to investigate the motivations underlying these patterns. The paper investigates the extent to which economic incentives vis-a-vis other traditional assumptions associated with migration theory maintain in the case of dagestan, and explores the impact of migration on interethnic relations in the republic.
-
-
------------------------------------
-
-
-
-	Vertex name = o'loughlin j, 2011, eurasian geogr econ; Cluster = 3;
-	Betweenness Centrality (BC) = 23.078;  Closeness Centrality (CC) = 0.003910; PageRank (PR) score = 0.023;
-	BC rank = 7; CC Rank = 18; PR rank = 2 
-
-                   	DOI :10.2747/1539-7216.52.5.596
-
-ABSTRACT:
-Three u. S. Geographers analyze the temporal and spatial trends of 17,438 violent events in russia's north caucasus region from august 1999 to july 2011, demonstrating that the diffusion of conflict away from chechnya intensified during the period 2007-2011, as levels of violence rose in neighboring republics. An increasing number of casualties are civilians in dagestan, ingushetia, and kabardino-balkaria, the three republics that are the focus of the paper. Employing multiple methods of spatial pattern analysis and geographically sensitive regression models, the authors examine the spatial fragmentation of violence from the perspective of rebel groups operating in the three republics. The analysis documents how the incidence of violence varies dramatically over space (i.e., reflecting the influence of urbanization, strategic location, and physical geographic factors such as elevation and extent of forest cover). Although violence in the north caucasus region as a whole has declined in absolute terms over the past four years, the authors show how new geographies of violence are developing in the region, underscoring the emergence of republic-based insurgent operations against the various organs of the russian state. Journal of economic literature, classification numbers: h560, h770, o180. 9 figures, 3 tables, 1 appendix, 103 references:
-
-
------------------------------------
-
-
-
-	Vertex name = souleimanov ea, 2018, ethnicities; Cluster = 3;
-	Betweenness Centrality (BC) = 29.297;  Closeness Centrality (CC) = 0.004460; PageRank (PR) score = 0.013;
-	BC rank = 6; CC Rank = 5; PR rank = 11 
-
-                   	DOI :10.1177/1468796817700933
-
-ABSTRACT:
-Drawing on unique interviews with former jihadists from russia's autonomous republic of dagestan, this article is the first to examine the impact of ethnicity on jihadist groups' methods of organization and operations, primarily in terms of their target selection, local support, and recruitment and leadership policies. It distinguishes between largely monoethnic rural jamaatsor jihadist groupsand multiethnic urban jamaats, pointing to the contested nature of ethnicity, particularly in the latter group. It examines the steps taken by the leadership of urban jamaats to overcome ethnic cleavages and avoid interethnic tension both within the jihadists' ranks and with regard to the local population. The article illustrates that, as a divisive phenomenon in multiethnic urban jamaats, ethnic identity has been deliberately downplayed by the leadership of these groups at the expense of strengthening supra-ethnic salafi-jihadist identity. The article also highlights the significance of ethnic identity in jihadist groups, in spite of it being contradictory to salafi-jihadist doctrine.
-
-
------------------------------------
-
-
-
-	Vertex name = holland ec, 2012, cent asian surv; Cluster = 3;
-	Betweenness Centrality (BC) = 12.340;  Closeness Centrality (CC) = 0.003920; PageRank (PR) score = 0.016;
-	BC rank = 8; CC Rank = 17; PR rank = 5 
-
-                   	DOI :10.1080/02634937.2012.739819
-
-ABSTRACT:
-This article addresses temporary labour migration - known in russian as otkhodnichestvo (going away on foot) - from the russian republic of dagestan. The discussion is situated within reviews of current work on migration in the former soviet union, push-pull factors determining migration behaviour in the north caucasus, and the historical importance of otkhodnichestvo in imperial russia and the ussr. The paper then turns to the results of a census conducted in summer 2006, which found that most migrants come from dagestan's mountainous southwest, frequently obtain work at locations characterized by economic growth and high pay, and rely on ethnic or communal networks as a basis for choosing employment sector and destination when searching for work.
-
-
------------------------------------
-
-
-
-	Vertex name = ratelle jf, 2017, terror polit violence; Cluster = 3;
-	Betweenness Centrality (BC) = 7.522;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.016;
-	BC rank = 9; CC Rank = 7; PR rank = 7 
-
-                   	DOI :10.1080/09546553.2015.1005076
-
-ABSTRACT:
-This article posits that the remnants of archaic sociocultural norms, particularly the honour-imposed custom of retaliation, play a crucial role in the process of insurgent engagement in russia's autonomous republic of dagestan. Through a series of interviews with former insurgents, this study outlines two retaliation-centred mechanisms: individual retaliation and spiritual retaliation in order to explain the microcosm of motives behind insurgent activity in dagestan. In doing so, this study problematizes the role of salafi/jihadist ideology as the main impetus for insurgent violence. Reversing the traditional causal link between violence and religion, this study also demonstrates that the development of jihadist ideology is a by-product of insurgent mobilization rather than its cause.
-
-
------------------------------------
-
-
-
-	Vertex name = souleimanov e, 2015, osteuropa; Cluster = 3;
-	Betweenness Centrality (BC) = 1.649;  Closeness Centrality (CC) = 0.003600; PageRank (PR) score = 0.020;
-	BC rank = 11; CC Rank = 21; PR rank = 4 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = kessel ds, 2022, arid ecosyst; Cluster = 4;
-	Betweenness Centrality (BC) = 70.467;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.011;
-	BC rank = 1; CC Rank = 1; PR rank = 1 
-
-                   	DOI :10.1134/S2079096122030052
-
-ABSTRACT:
-The results of analysis and comparison of cenofloras of birch trees (betula litwinowii doluch., b. Raddeana trautv) and pine (pinus kochiana klotsch ex g. Koch.) Trees of the forests of the gunib plateau (intramontane limestone dagestan) are presented. The forests on the plateau are mainly confined to the northern, northeastern, and northwestern slopes; they are found at altitudes of 1400-2170 m above sea level. The analysis was carried out on the basis of data from field studies in 2011-2013 and 2018-2020 of 53 standard geobotanical descriptions. During the collection of the material the task was to reflect the diversity of the communities of birch and pine forests of the gunib plateau as fully as possible. The species composition of vascular plants of birch (251 species) and pine (226 species) forests was revealed. The spectra of the leading families of both coenofloras belonging to the rosaceae type, which are characteristic of the central european group of floras, have been compared. The leading six families account for 50\% of birch and pine forest cenoflora species (129 and 113 species, respectively); 130 species are common for communities of both birch and pine forests. The species composition of the dominants and codominants of the grass-shrub layer of birch and pine forests was analyzed. The communities of both formations occupy similar ecotopes; in most cases, the same species are the dominants and codominants of the herbaceous-shrub layer. At the same time, species have been identified that play a significant role in the communities of only one of the considered formations. The ratio of florocenoelements in the grass-shrub layer of birch and pine forests was determined. Species of the meadow florocenotype predominate in the cenofloras of the studied formations of the gunib plateau. At the same time, species characteristic of meadows, including subalpine and alpine ones, are less common in birch (57\%) forests than in pine forests (64\%). A greater number of species belonging to the forest cenotype grow in birch forests: 29\% of the forest species of the total number of species grow in birch forests while 21\% grow in pine forests. As well, a smaller number of ruderal species (2.5\%) were found in birch forests than in pine forests (4.5\%). In our opinion, one of the reasons for this ratio of species of forest, meadow, and ruderal florocenotypes in the cenofloras of birch and pine forests is the peculiarities of the renewal of these forest-forming species on the gunib plateau. This analysis made it possible to reveal differences in the habitats occupied by birch and pine forests on the territory of the gunib plateau at extreme values of light and moisture.
-
-
------------------------------------
-
-
-
-	Vertex name = sadykova ga, 2023, arid ecosyst; Cluster = 4;
-	Betweenness Centrality (BC) = 3.000;  Closeness Centrality (CC) = 0.003290; PageRank (PR) score = 0.010;
-	BC rank = 2; CC Rank = 3; PR rank = 2 
-
-                   	DOI :10.1134/S2079096123040121
-
-ABSTRACT:
-The results of the analysis of the flora of paliurus communities of piedmont dagestan from the extreme southern site (the spurs of the main caucasian ridge near the village of novoe karakyure) to the extreme northern site of their growth at the boundary with the chechen republic (kizilyurt district, the vicinity of the villages of mutsal-aul and gadari) are given. The floristic composition of plant communities is studied on the basis of 17 geobotanical descriptions. The taxonomic analysis of the flora has been performed and the spectrum of the leading families, poaceae, asteraceae, lamiaceae, and fabaceae (po-as-la + fa spectrum), typical for the central asian type with a significant effect of the mediterranean flora has been revealed. The biomorphological analysis shows the predominance of hemicryptophytes (45.4\%) and therophytes (33\%). The latter are an indicator of arid conditions and anthropogenic impacts on cenoses. Geographical analysis reveals the predominance of species of the boreal (30.4\%) and the ancient mediterranean (27\%) types and shows the position of the region at the contact of the boreal and xerophilous vegetation types. It reflects the development of the flora at the boundary between the euro-siberian and iranian-turanian regions, followed by the penetration of the western asian flora, which is typical for the caucasus. We suppose that the paliurus communities of piedmont dagestan are primary based on the results of floristic studies, on the xerophytic composition of species in the shrub layer, and on the absence or single participation of species of the genus quercus in the group of paliuretagraminosa associations and the paliuretum ass. (Tarki-tau mountain near makhachkala) and in the group of the paliuretabryosa ass. And the paliuretum bryosum ass. (Beyukdere ridge, tabasaran district). We also take into account the long-term stability (5000-6000 years according to published data) of the geoclimate conditions of the area. Individual trees of the genus quercus and of ulmus campestris in piedmont communities of paliurus, in our opinion, are not preserved representatives of the previously expanded tree flora of oak forests. Communities with paliurus spina-christi grow here in the lower belt of mountain slopes, border on oak forests, and are the result of an ecotone effect, when accidentally brought oak seeds may grow under optimal ecological conditions of the microniche together with p. Spina-christi. Forest boundaries and the altitude of ecotone plots depend on slope steepness and aspect. In a broader spatial-temporal aspect, the change in the altitude gradient of the boundaries of paliurus communities and of forests dominated by quercus and ulmus campestris in piedmont dagestan depends on changes in aridization or humidization climate trends.
-
-
------------------------------------
-
-
-
-	Vertex name = volobuev sv, 2021, south russ-ecol dev; Cluster = 4;
-	Betweenness Centrality (BC) = 1.233;  Closeness Centrality (CC) = 0.003300; PageRank (PR) score = 0.006;
-	BC rank = 3; CC Rank = 2; PR rank = 3 
-
-                   	DOI :10.18470/1992-1098-2021-3-68-80
-
-ABSTRACT:
-Aim. Polypores are an integral part of forest ecosystems, but to date there is no sufficient information on diversity and ecology of this group of basidiomycetes in many mountain areas. The aim of this study is to reveal species composition and characterize substrate preferences of poroid fungi of the gunib plateau (the republic of dagestan, northeast caucasus, russia). Material and methods. All fungal specimens were collected by the authors during field surveys in 2018-2020, which were carried out within pine, birch, hornbeam, alder, aspen, and mixed forests as well as juniper woodlands. The identification of fungi was performed predominantly by a light microscopy techniques, but also by an analysis of the its1-5.8s-its2 nrdna to verify specimens from postia caesia-species complex. Results. A total of 73 species of poroid fungi from 43 genera and 7 orders of the class agaricomycetes (basidiomycota) have been identified in the territory of the gunib plateau within the upper gunib nature park. Among them, there are 29 new species for the republic of dagestan, of which 11 species are cited for the caucasus for the first time. An annotated species list with detailed information on substrata, habitats, localities, and links to herbarium specimens (le) is provided. Conclusion. The revealed species richness of polypores has expanded the current knowledge on the mycobiota of the gunib plateau and its links with plant communities. The range of leading genera (antrodia s. L., ceriporia, gloeophyllum, phellinus s. L., postia, trometes s. L.) Is characteristic of the boreal zone and determined by the predominance of pinus kochiana forests in the surveyed area.
-
-
------------------------------------
-
-
-
-	Vertex name = petherbridge g, 2021, south russ-ecol dev-a; Cluster = 5;
-	Betweenness Centrality (BC) = 602.111;  Closeness Centrality (CC) = 0.005950; PageRank (PR) score = 0.027;
-	BC rank = 2; CC Rank = 2; PR rank = 3 
-
-                   	DOI :NA
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = bulayeva kb, 2006, am j hum biol; Cluster = 5;
-	Betweenness Centrality (BC) = 935.642;  Closeness Centrality (CC) = 0.006760; PageRank (PR) score = 0.026;
-	BC rank = 1; CC Rank = 1; PR rank = 4 
-
-                   	DOI :10.1002/ajhb.20531
-
-ABSTRACT:
-Autosomal short-tandem repeats (strs) were typed in ethnic populations of kubachians, dargins, avars, lezgins, kumiks, and nogais of the caucasus (daghestan, russia) at the university of utah. Daghestan ethnic populations demonstrated differences in str allele frequency distributions, but these differences were much lower among these ethnic groups compared to worldwide ethnic groups. The observed genetic diversity was low while fst values were high, both of which provided supporting evidence for small population sizes and high levels of isolation among the ethnic groups. An analysis of genetic distance from the three major continents, encompassing daghestan populations and groups, reveals three distinct clusters: all populations of african affiliation, european and daghestan populations except the nogais, and asian populations with ethnic nogais.
-
-
------------------------------------
-
-
-
-	Vertex name = karafet tm, 2016, j hum genet; Cluster = 5;
-	Betweenness Centrality (BC) = 275.288;  Closeness Centrality (CC) = 0.005460; PageRank (PR) score = 0.027;
-	BC rank = 3; CC Rank = 4; PR rank = 2 
-
-                   	DOI :10.1038/jhg.2015.132
-
-ABSTRACT:
-As a result of the combination of great linguistic and cultural diversity, the highland populations of daghestan present an excellent opportunity to test the hypothesis of language-gene coevolution at a fine geographic scale. However, previous genetic studies generally have been restricted to uniparental markers and have not included many of the key populations of the region. To improve our understanding of the genetic structure of daghestani populations and to investigate possible correlations between genetic and linguistic variation, we analyzed similar to 550 000 autosomal single nucleotide polymorphisms, phylogenetically informative y chromosome markers and mtdna haplotypes in 21 ethnic daghestani groups. We found high levels of population structure in daghestan consistent with the hypothesis of long-term isolation among populations of the highland caucasus. Highland daghestani populations exhibit extremely high levels of between-population diversity for all genetic systems tested, leading to some of the highest f-st values observed for any region of the world. In addition, we find a significant positive correlation between gene and language diversity, suggesting that these two aspects of human diversity have coevolved as a result of historical patterns of social interaction among highland farmers at the community level. Finally, our data are consistent with the hypothesis that most daghestanian-speaking groups descend from a common ancestral population (similar to 6000-6500 years ago) that spread to the caucasus by demic diffusion followed by population fragmentation and low levels of gene flow.
-
-
------------------------------------
-
-
-
-	Vertex name = petherbridge g, 2022, south russ-ecol dev; Cluster = 5;
-	Betweenness Centrality (BC) = 198.578;  Closeness Centrality (CC) = 0.005620; PageRank (PR) score = 0.023;
-	BC rank = 4; CC Rank = 3; PR rank = 6 
-
-                   	DOI :10.18470/1992-1098-2022-2-150-209
-
-ABSTRACT:
-Aim. Following the discovery of a number of iconographically unique masonry petroglyphs depicting a red deer solar stag (i.e. Bearing the sun between its antlers) in settlements of the chamalal ethno-linguistic group in the upper andiiskoe koisu region of the tsumadinskiy district of dagestan, the aim of the research has been: (1) to survey the region to ascertain whether other images of this nature existed and to understand the relationship of the corpus to other petroglyphs produced within the avar-ando-dido metacultural zone and of neighbouring ethnic groups in the caucasus; (2) to study the evolution and meaning to the community of the petroglyphic imagery and (3) to understand the mechanisms by which peoples of the caucasus shared and adapted polytheistic belief systems arising from the deep past following their conversion to christianity and islam.materials and methods. Research activities involved field surveys of traditional buildings within the ethno-linguistic enclaves of the upper andiiskoe koisu which might contain masonry petroglyphs and their photographic documentation. A thorough survey of the scientific literature impacting on this field in the caucasus was undertaken in the libraries and institutions of dagestan, moscow and saint petersburg. This data added to the documentation of masonry petroglyphs already undertaken in the gidatli communities of the upper avarskoe koisu region.results. Field surveys resulted in the discovery of more petroglyphs of the solar stag iconography both within chamalal territory and that of the neighbouring tindals as well as other petroglyphs of interest in neighbouring republics of the north caucasus. A socio-ecological assessment of local habitats which might have sustained both red deer and bezoar goat (the principal game animals since human presence in the region) indicated that the bezoar goat inhabited the territories of both groups but were now rarely found in chamalal lands. While red deer did inhabit the forests of the tindals, it appears that they never frequented those of the chamalals, who must have travelled to hunt them in forests further to the south. Conclusion. The research confirmed the presence of a unique corpus of petroglyphic imagery attesting to beliefs in a solar stag which may date back to period of man's re-inhabiting the upper andiiskoe koisu region in the early holocene. Indigenous beliefs relating both to the red deer and the bezoar goat initially represented in rock face petroglyphs of the eastern dagestan piedmonts and rock paintings of the mountainous regions were by the late bronze age represented on masonry blocks used in building in the avar-ando-dido metacultural zone. As christianity spread in transcaucasia and the great caucasus range, including north-western dagestan, indigenous images representing the solar stag were conflated with those of the popular christian cult of the miracle of saint eustace, resulting in the unique petroglyphs of the solar stag common to the chamalals, tindals and the communities of the gidatli area of the avarskoe koisu basin.
-
-
------------------------------------
-
-
-
-	Vertex name = bulayeva k, 2012, turk psikiyatr derg; Cluster = 5;
-	Betweenness Centrality (BC) = 93.471;  Closeness Centrality (CC) = 0.005260; PageRank (PR) score = 0.013;
-	BC rank = 6; CC Rank = 6; PR rank = 18 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = bulaeva kb, 1996, genetika; Cluster = 5;
-	Betweenness Centrality (BC) = 65.253;  Closeness Centrality (CC) = 0.005410; PageRank (PR) score = 0.012;
-	BC rank = 7; CC Rank = 5; PR rank = 20 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = kurbatova ol, 2012, russ j genet; Cluster = 5;
-	Betweenness Centrality (BC) = 134.302;  Closeness Centrality (CC) = 0.005240; PageRank (PR) score = 0.010;
-	BC rank = 5; CC Rank = 7; PR rank = 24 
-
-                   	DOI :10.1134/S1022795412100043
-
-ABSTRACT:
-Using the 2002 all-russian population census data, the parameters of differential fertility as a component of natural selection (crow's indices) have been calculated for women of seven age cohorts of the seven most numerous ethnic groups of the republic of dagestan. It has been shown that in the population of dagestan in the second half of the 20th century the intensities of two types of selection tended to decrease, viz., intragroup selection relaxed in each ethnic group due to considerable reduction of interfamily variance in fertility and intergroup selection relaxed due to reduction of interethnic differences in fertility. A reduction of the average number of offspring (k) was observed in all ethnic groups, suggesting the spread of birth regulation practices (abortion and contraception). Nevertheless, all muslim groups (aboriginal dagestan ethnic groups and azerbaijanis) are still characterized by an extended pattern of reproduction (2.7 < k < 3.3); in russians k = 2.1. Interethnic differentials in natural reproduction rates, along with migration processes, account for the dynamics of the ethnic composition and gene-pool structure of the population of the republic of dagestan.
-
-
------------------------------------
-
-
-
-	Vertex name = bulayeva kb, 2011, cent eur j med; Cluster = 5;
-	Betweenness Centrality (BC) = 53.258;  Closeness Centrality (CC) = 0.005100; PageRank (PR) score = 0.016;
-	BC rank = 9; CC Rank = 9; PR rank = 13 
-
-                   	DOI :10.2478/s11536-011-0071-8
-
-ABSTRACT:
-We conducted a 10-cm genome-wide linkage scan in two extended pedigrees, ascertained from two diverse dagestan genetic isolates with high aggregation of major depressive disorder (mdd) and suicides. Using genome wide multipoint parametric linkage analyses with short tandem repeat markers, we found two previously undetected genomic regions with significant linkage in isolate \#6007 with lods=3.1-3.4 at 2p13.2-p11.2 (and some signal in same region for \#6008) and in 14q31.12-q32.13. We also obtained suggestive evidence for linkage with mdd at 9q33.3-q34.2 (\#6008), 13q31.1-q31.2(\#6007), 11p15(\#6008), 17q25.3(\#6007) and 19q13.31-q13.33 (\#6008). Five regions (1p36.1-p35.2, 2p13.2-p11.2, 17q25.3, 18q22 and 22q12.3) demonstrated at least nominal linkage in both isolates' pedigrees, while all other linkage regions demonstrated population-specific genetic heterogeneity.
-
-
------------------------------------
-
-
-
-	Vertex name = mirzaev kb, 2017, genet test mol biomark; Cluster = 5;
-	Betweenness Centrality (BC) = 55.057;  Closeness Centrality (CC) = 0.005050; PageRank (PR) score = 0.011;
-	BC rank = 8; CC Rank = 12; PR rank = 22 
-
-                   	DOI :10.1089/gtmb.2017.0036
-
-ABSTRACT:
-Aim: the objective of this study was to investigate the prevalence of polymorphic markers of the cyp2c19, cyp2c9, cyp2d6, slco1b1, and abcb1 genes among the three ethnic groups in dagestan and compare it with the carrier frequency of these markers among the russian population living in moscow. Methods: the study involved 186 healthy, unrelated, and chronic medication-free volunteers (53 males and 133 females) of the three ethnic groups in the dagestan republic: 46 laks, 90 avars, and 50 dargins. Genotyping was performed using real-time polymerase chain reaction-based methods. The allelic prevalences of the three dagestan peoples were compared with ethnic russians from the moscow region. Results: statistically significant differences for the following gene polymorphisms: cyp2c19*17, cyp2c9*3, abcb1 (c3435t), slco1b1*5 were found between the russian population and the three ethnic groups of the dagestan republic. Conclusion: the data obtained from this study will help with prioritization genotyping in the region.
-
-
------------------------------------
-
-
-
-	Vertex name = bulayeva kb, 2002, russ j genet; Cluster = 5;
-	Betweenness Centrality (BC) = 50.789;  Closeness Centrality (CC) = 0.005080; PageRank (PR) score = 0.009;
-	BC rank = 10; CC Rank = 10; PR rank = 25 
-
-                   	DOI :10.1023/A:1021107429746
-
-ABSTRACT:
-Original results of the analysis of genetic linkage between some genomic markers and two complex clinical phenotypes, schizophrenia and mental retardation, in pedigrees from daghestan genetic isolates are described. Interpopulation differences in the epidemiology of the complex phenotypes were studied and in their genetic linkage was demonstrated. These differences are evidently related to the genetic structure of the isolates determined by their demographic history. The epidemiological index mr characterizing the lifetime morbid risk of schizophrenia varies in the daghestan isolates studied from 0 to 4.95\%, which is almost five times higher than the average worldwide population rate, 1\%. Comparative genetic mapping in different isolates permitted determination of the most probable genetic linkages and associations of loci in chromosomal regions 17p11.1-12, 3q13.3, and a locus from 22q with schizophrenia and locus 12q23 with mental retardation. There is evidence that this approach is effective for detailed study of the relationship between the genetic (allele and locus) and clinical heterogeneity of complex diseases, which favors successful identification of the genes determining them. The study of linkage disequilibrium (ld) in genetic isolates of daghestan ethnic populations (which have a common genetic background) may be an effective methodological approach for revealing the numerous contradictory results of mapping of genes of the same complex disease performed by different researchers in different regions of the world.
-
-
------------------------------------
-
-
-
-	Vertex name = gammer m, 2005, cent asian surv; Cluster = 6;
-	Betweenness Centrality (BC) = 361.965;  Closeness Centrality (CC) = 0.005880; PageRank (PR) score = 0.017;
-	BC rank = 1; CC Rank = 2; PR rank = 1 
-
-                   	DOI :10.1080/02634930500154701
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = sahakyan ne, 2022, muslim reformers and the bolsheviks: case of daghestan-a; Cluster = 6;
-	Betweenness Centrality (BC) = 239.433;  Closeness Centrality (CC) = 0.005990; PageRank (PR) score = 0.014;
-	BC rank = 2; CC Rank = 1; PR rank = 3 
-
-                   	DOI :NA
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = gammer m, 2005, middle east stud; Cluster = 6;
-	Betweenness Centrality (BC) = 63.761;  Closeness Centrality (CC) = 0.005460; PageRank (PR) score = 0.015;
-	BC rank = 3; CC Rank = 3; PR rank = 2 
-
-                   	DOI :10.1080/00263200500261829
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = barrett tm, 1995, slavic rev; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 4; CC Rank = 4; PR rank = 6 
-
-                   	DOI :10.2307/2501750
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = hewitt g, 1996, bull sch orient afr stud-univ london; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 5; CC Rank = 5; PR rank = 12 
-
-                   	DOI :10.1017/S0041977X0002886X
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = lambert a, 1995, j strateg stud; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 6; CC Rank = 6; PR rank = 7 
-
-                   	DOI :10.1080/01402399508437622
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = rhinelander a, 1995, int hist rev; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 7; CC Rank = 7; PR rank = 13 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = lazzerini ej, 1995, russ rev; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 8; CC Rank = 8; PR rank = 8 
-
-                   	DOI :10.2307/131634
-
-ABSTRACT:
-NA
-
-
------------------------------------
-
-
-
-	Vertex name = sidorko cp, 1999, jahrb gesch osteur; Cluster = 6;
-	Betweenness Centrality (BC) = 0.077;  Closeness Centrality (CC) = 0.005320; PageRank (PR) score = 0.010;
-	BC rank = 12; CC Rank = 12; PR rank = 5 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = turi mt, 1996, historian; Cluster = 6;
-	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
-	BC rank = 9; CC Rank = 9; PR rank = 9 
-
-                   	DOI :
-
-ABSTRACT:
-
-
-
------------------------------------
-
-
-
-	Vertex name = daniel m, 2021, language; Cluster = 7;
-	Betweenness Centrality (BC) = 0.374;  Closeness Centrality (CC) = 0.004180; PageRank (PR) score = 0.013;
-	BC rank = 2; CC Rank = 2; PR rank = 2 
-
-                   	DOI :10.1353/lan.2021.0046
-
-ABSTRACT:
-This article looks at the correlation between the use of a langugage as l2 and the amount of lexical material borrowed from it. Our data come from the highlands of daghestan. By matching loanword counts with data on multilingualism, the study quantitatively supports the suggestion that lexical borrowing from a lingua franca is more intense than from other languages in a multilingual repertoire (brown 1996, 2011). Brown hypothesizes that the importance of lingua francas as lexical donors is linked to a high rate of bilingualism. In our data. Knowledge of languages other than the lingua franca was high at some locations but did not lead to substantial borrowing. We discuss the social conditions of a lingua franca that make it a likely donor. Among other factors, a lingua franca might not be as strongly associated with an ethnic identity as languages that are used only in communicating with l1 speakers of that language, and lexical borrowing from it does not threaten anyone's identity (cf. Epps 2018, vaughan 2019).*
-
-
------------------------------------
-
-
-
-	Vertex name = dobrushina n, 2019, j multiling multicult develop; Cluster = 7;
-	Betweenness Centrality (BC) = 153.573;  Closeness Centrality (CC) = 0.005130; PageRank (PR) score = 0.012;
-	BC rank = 1; CC Rank = 1; PR rank = 3 
-
-                   	DOI :10.1080/01434632.2018.1493113
-
-ABSTRACT:
-The paper traces the level of bilingualism in several highland villages of daghestan (northeast caucasus) through the twentieth century. We show that historically, men were more multilingual than women, but this was not true to the same extent for all languages. Highlanders' repertoires suggest a correlation between the social function of the second language and the degree to which its command was gendered. We also explore the dynamics of multilingualism from the generation born at the end of the nineteenth century to the generation born in the 1990s. We show that during the twentieth century local l2s were gradually displaced by russian, and daghestanian multilingualism lost its gendered character. We argue that these changes were caused by the introduction of soviet schooling.
-
-
------------------------------------
-
-
-
-	Vertex name = dobrushina n, 2021, int j biling; Cluster = 7;
-	Betweenness Centrality (BC) = 0.374;  Closeness Centrality (CC) = 0.004180; PageRank (PR) score = 0.014;
-	BC rank = 3; CC Rank = 3; PR rank = 1 
-
-                   	DOI :10.1177/1367006920959717
-
-ABSTRACT:
-Aims and objectives: in dagestan, russian is the language of education, urban way of life, and upward social mobility, and the means of communication between speakers of different languages. This is a result of a quick and drastic change. At the end of the 19th century, russian was spoken by less than 1\% of the population. The aim of this paper is to understand how such rapid spread of russian as an l2 became possible. Approach: the study uses quantitative data on dagestanians' language repertoires. We relate the command of russian to certain facts from people's biographies, such as the level of education, migration, warfare and military service, and other professional experience, and run regression analysis. Data and analysis: the data were collected by the method of retrospective family interviews during numerous field trips to highland dagestan. We use information on 3519 individuals collected in 27 villages. Findings/conclusions: we conclude that the compulsory school education introduced in dagestan in the 1930s is the social mechanism that resulted in the spread of russian and its later development into a lingua franca. Russian was imposed from above and supported by the ideology that associated it with future and progress. Originality: this is the first attempt to apply quantitative methods to a large collection of field data to reveal social mechanisms underlying the spread of a single l2 instead of local bilingualism. Significance/implications: the spread of one lingua franca across a large territory is attested in many areas. We suppose that lingua francas of different origin result from different constellations of social factors and show that in dagestan lingua franca was imposed by the authorities via a systematic educational campaign. We also suggest it was the extreme linguistic diversity of dagestan that brought russian from a widely known l2 to a lingua franca.
-
-
------------------------------------
-
-
-
-	Vertex name = dobrushina n, 2023, j socioling; Cluster = 7;
-	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.004070; PageRank (PR) score = 0.008;
+	Vertex name = von raab-straube e, 2023, willdenowia; Cluster = 2;
+	Betweenness Centrality (BC) = 1.667;  Closeness Centrality (CC) = 0.006290; PageRank (PR) score = 0.004;
 	BC rank = 4; CC Rank = 4; PR rank = 4 
 
-                   	DOI :10.1111/josl.12590
+                   	DOI :10.3372/wi.53.53104
 
 ABSTRACT:
-Studies of multilingual systems found in indigenous small-scale communities often assume that exogamous marriages are the norm in such societies and contribute to their linguistic diversity. This paper is an account of the language ideology of endogamous societies in rural highland daghestan (northeast caucasus). By studying language policing and language choice in infrequent mixed marriages, the paper uncovers the beliefs that support endogamy and reveals issues of linguistic identity and attitudes toward the usage of the matrilect within the family and the village. Interviews show that in-married women do not bring new languages to the villages, because they quickly acquire the local language new to them and use it with all their in-laws and their children. A strong association between villages and languages together with the ideology supporting linguistic homogeneity within the village contributes to the maintenance of the regional linguistic diversity.
+This is the sixteenth of a series of miscellaneous contributions, by various authors, where hitherto unpublished data relevant to both the med-checklist and the euro+med (or sisyphus) projects are presented. This instalment deals with the families caryophyllaceae, compositae, euphorbiaceae, gramineae, iridaceae, leguminosae, malvaceae, portulacaceae, rosaceae, solanaceae and umbelliferae. It includes new country and area records and taxonomic and distributional considerations for taxa in bromus, datura, daucus, erigeron, euphorbia, iris, minuartia, paspalum, portulaca, sida and vigna, and a new combination in prunus.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bazhenov ms, 2020, plants-basel; Cluster = 3;
+	Betweenness Centrality (BC) = 277.496;  Closeness Centrality (CC) = 0.008470; PageRank (PR) score = 0.015;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.3390/plants9121696
+
+ABSTRACT:
+Gibberellin-insensitive reduced height genes are widely spread in modern wheat varieties, making them resistant to lodging under conditions of intensive farming. However, the limited diversity of these genes present in wheat germplasm can limit the adaptability of newly created cultivars to the changing climate. The diversity of the gibberellin signaling pathway genes involved in plant height control-reduced height 1 (rht-d1), gibberellin-insensitive dwarf 1 (gid1-d) and gibberellin-insensitive dwarf 2 (gid2-d)-was studied in the diploid wild goatgrass aegilops tauschii coss., one of the ancestral species of the bread wheat (triticum aestivum l.) And the donor of its d subgenome, using high-throughput sequencing. The examination of 24 ae. Tauschii accessions of different geographical origins revealed a large number of new alleles (haplotypes) not found in bread wheat varieties. Some of the detected polymorphisms lead to changes in the amino acid sequence of proteins. Four isoforms (amino acid sequence variants) were found for the rht-d1 protein, and two isoforms-for the gid1 and gid2 proteins, each. An analysis of the co-occurrence frequencies of various isoforms of the three proteins showed that their combinations were not random in ae. Tauschii, which may indicate the functional significance of their differences. New alleles of the rht-d1, gid1-d, and gid2-d genes are promising for introgression into bread wheat and studying their effect on plant height and adaptability.
+
+
+-----------------------------------
+
+
+
+	Vertex name = kimeklis ak, 2019, genes; Cluster = 3;
+	Betweenness Centrality (BC) = 56.072;  Closeness Centrality (CC) = 0.007750; PageRank (PR) score = 0.010;
+	BC rank = 3; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.3390/genes10120991
+
+ABSTRACT:
+Twenty-two rhizobia strains isolated from three distinct populations (north ossetia, dagestan, and armenia) of a relict legume vavilovia formosa were analysed to determine their position within rhizobium leguminosarum biovar viciae (rlv). These bacteria are described as symbionts of four plant genera pisum, vicia, lathyrus, and lens from the fabeae tribe, of which vavilovia is considered to be closest to its last common ancestor (lca). In contrast to biovar viciae, bacteria from rhizobium leguminosarum biovar trifolii (rh) inoculate plants from the trifolieae tribe. Comparison of house-keeping (hkg: 16s rrna, glnii, glt a, and dnak) and symbiotic (sym: noda, nodc, nodd, and nifh) genes of the symbionts of v. Formosa with those of other rlv and rlt strains reveals a significant group separation, which was most pronounced for sym genes. A remarkable feature of the strains isolated from v. Formosa was the presence of the nodx gene, which was commonly found in rlv strains isolated from afghanistan pea genotypes. Tube testing of different strains on nine plant species, including all genera from the fabeae tribe, demonstrated that the strains from v. Formosa nodulated the same cross inoculation group as the other rlv strains. Comparison of nucleotide similarity in sym genes suggested that their diversification within sym-biotypes of rlv was elicited by host plants. Contrariwise, that of hkg genes could be caused by either local adaptation to soil niches or by genetic drift. Long-term ecological isolation, genetic separation, and the ancestral position of v. Formosa suggested that symbionts of v. Formosa could be responsible for preserving ancestral genotypes of the rlv biovar.
+
+
+-----------------------------------
+
+
+
+	Vertex name = derko aa, 2021, south russ-ecol dev; Cluster = 3;
+	Betweenness Centrality (BC) = 59.906;  Closeness Centrality (CC) = 0.006850; PageRank (PR) score = 0.008;
+	BC rank = 2; CC Rank = 3; PR rank = 3 
+
+                   	DOI :10.18470/1992-1098-2021-3-81-87
+
+ABSTRACT:
+Aim. The work is aimed at exploring the molecular and genetic properties of avian paramyxovirus 4 (apmv-4) isolated from the mallard duck. Material and methods. In 2018, as a part of an influenza a virus surveillance programme, biological samples were collected from wild birds on lake adzhi (papas) in the republic of dagestan. The isolation of virus strains from biological samples was performed using 10-day-old special pathogen free chicken eggs. The primary detection of hemagglutinating agents in the fluid of the allantoic cavity was carried out via hemagglutination assay. The presence of rna of the influenza a virus was determined using real time pcr. Then, for samples negative in pcr for the influenza a virus, the complete genome dna sequences were established using ngs sequencing. It was determined that the apmv-4 strain obtained belonged to intraspecific genetic lines was determined using phylogenetic analysis. Results. Apmv 4 strain was isolated for the first time in the western caspian region. Phylogenetic analysis of the complete genome and gene f showed that the apmv-4/mallard/dagestan/52d/2018 strain belongs to the eurasian glade of subgenotypes. Analysis of amino add substitutions showed that the cleavage site of the fusion protein is monobasic which is characteristic of lentogenic strains. Conclusion. During the surveillance program for influenza a viruses in autumn 2018, the apmv 4 strain was isolated from the mallard duck. Analysis revealed that the apmv-4 strain was closely phylogenetically related to strains isolated from two wild and one domestic duck from china. This suggests an interconnection between the bird populations in china and the western caspian region within the west asian-east african migration route.
+
+
+-----------------------------------
+
+
+
+	Vertex name = van schalkwyk a, 2022, transbound emerg dis; Cluster = 3;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.006760; PageRank (PR) score = 0.006;
+	BC rank = 4; CC Rank = 4; PR rank = 4 
+
+                   	DOI :10.1111/tbed.14326
+
+ABSTRACT:
+Research into the phylogenetic relationships of lumpy skin disease virus (lsdv) strains was long overlooked, partially due to its original restricted distribution to sub-saharan africa. However, recent incursions into northern latitudes, and a rapid spread causing major economic losses worldwide, have intensified additional research on the disease and the causative virus. This study delineates the phylogeny of lsdv in the context of full genome sequences of strains recovered in the field, as well as strains highly passaged in cell culture. We sequenced the oldest known field strain to date (isolate lsdv/haden/rsa/1954 [south africa] recovered from an outbreak in 1954), a recent field isolate (lsdv/280-kzn/rsa/2018 [south africa] sequenced directly from blood during an outbreak in 2018) and strain lsdv/russia/dagestan-75 (a high-passaged cell culture strain derived from the field strain, lsdv/russia/dagestan/2015 [russia]). Sequence analysis placed the field strain lsdv/haden/rsa/1954 in the same cluster (cluster 1.1) with attenuated neethling-type commercial vaccine viruses, with eight snp differences, discrediting the previously held hypothesis that cluster 1.1 vaccine strains were derived from cluster 1.2 field viruses via the process of attenuation between them. In contrast, the recent lsdv/280-kzn/rsa/2018 isolate grouped with other recent field isolates in cluster 1.2, providing evidence that cluster 1.1 strains were displaced by cluster 1.2 strains in south africa. Based on the field isolates between 1954 and 2018, the substitution rate of 7.4 x 10(-6) substitutions/site/year was established, with mutations occurring in either synonymous sites or intergenic regions. This is the first evolutionary metric recorded for lsdv. Comparing the genome sequences of high-passage strains of lsdv showed that propagation in vitro without animal host selective pressure generates mainly non-synonymous snps in virus-replication genes. These results improve our understanding of lsdv evolution and demonstrate that the population dynamics of circulating isolates is not constant, with lsdv associated with different genetic clusters dominating the landscape during specific periods in time.
+
+
+-----------------------------------
+
+
+
+	Vertex name = sharshov k, 2019, microorganisms; Cluster = 4;
+	Betweenness Centrality (BC) = 23.344;  Closeness Centrality (CC) = 0.006670; PageRank (PR) score = 0.012;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.3390/microorganisms7120643
+
+ABSTRACT:
+Wild waterfowl birds are known to be the main reservoir for a variety of avian influenza viruses of different subtypes. Some subtypes, such as h2nx, h8nx, h12nx, and h14nx, occur relatively rarely in nature. During 10-year long-term surveillance, we isolated five rare h12n5 and one h12n2 viruses in three different distinct geographic regions of northern eurasia and studied their characteristics. H12n2 from the far east region was a double reassortant containing hemagglutinin (ha), non-structural (ns) and nucleoprotein (np) segments of the american lineage and others from the classical eurasian avian-like lineage. H12n5 viruses contain eurasian lineage segments. We suggest a phylogeographical scheme for reassortment events associated with geographical groups of aquatic birds and their migration flyways. The h12n2 virus is of particular interest as this subtype has been found in common teal in the russian far east region, and it has a strong relation to north american avian influenza virus lineages, clearly showing that viral exchange of segments between the two continents does occur. Our results emphasize the importance of avian influenza virus (aiv) surveillance in northern eurasia for the annual screening of virus characteristics, including the genetic constellation of rare virus subtypes, to understand the evolutionary ecology of aiv.
+
+
+-----------------------------------
+
+
+
+	Vertex name = marhaev ag, 2023, south russ-ecol dev; Cluster = 4;
+	Betweenness Centrality (BC) = 22.600;  Closeness Centrality (CC) = 0.005410; PageRank (PR) score = 0.009;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.18470/1992-1098-2023-1-17-33
+
+ABSTRACT:
+Aim. The work was to compile a list of bird species and their status in the forest-steppe and steppe of the middle irtysh region at the present time and to analyse their potential ability in terms of the transmission of influenza viruses that pose a danger to humans and farm animals.materials and methods. The study of avifauna and their status in the forest-steppe and steppe of the middle irtysh region has been conducted by us from 1973 to the present. The analysis of literary sources has been carried out since the time of p.s. Pallas's travels in the region in 1871. In addition, information on the wetlands of the irtysh region which is freely available on the internet was used.results. At the beginning of the 20th century, about 200 species of birds were recorded in the vicinity of omsk, 125 of them being breeding species. At present about 150 species of birds have been recorded in omsk and its environs. Of the 290 bird species of the middle irtysh region, 48 species (16.6\%) belong among the natural hosts of influenza a viruses. Of these, at least 40 species are migratory and 25 species nest there. In addition to the prinicipal influenza virus host species, the list of birds of the middle irtysh region includes several species of scavengers and predators, as well as synanthropic bird species. These species may share habitat or food resources with the main host species of influenza viruses. Influenza a viruses can be transmitted between species either by direct or indirect contact through mechanical propagation or contamination of nutritional resources.conclusion. As the 3 largest bird migratory flyways run through the middle irtysh region where there is a significant number of wetlands, the prerequisites are created for a mass simultaneous accumulation of different populations and species of migratory birds carrying viruses and, accordingly, a high probability of exchanging viral genomes with each other and their further spread to new regions.
+
+
+-----------------------------------
+
+
+
+	Vertex name = li x, 2021, south russ-ecol dev; Cluster = 4;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.004690; PageRank (PR) score = 0.007;
+	BC rank = 3; CC Rank = 3; PR rank = 3 
+
+                   	DOI :10.18470/1992-1098-2021-1-45-52
+
+ABSTRACT:
+Aim. The aim is to explore the molecular and biological characteristics of influenza virus subtype h6n8. Material and methods. Regular collecting of biological samples from wild birds was carried out in 2016 in the south of western siberia. Isolation of avian influenza virus strains from birds' cloacal swabs was performed using three passages in embryonated chicken eggs. Hemagglutination assay was used to detect viruses in the allantoic fluid. Type and subtype of influenza viruses were identified using reverse transcription pcr (rt-pcr). Results. This is the first time the avian influenza virus h6n8 subtype has been isolated in russia. Phylogenetic analysis revealed that hemagglutinin (ha) and neuraminidase (na) segments of a/gadwall/chany/97/2016(h6n8) strain genome belonged to the eurasian lineages of avian influenza viruses. Phylogenetic analysis showed that the ha sequence of the strain was closely related to the strain isolated from a duck in bangladesh in 2015 (a/duck/bangladesh/25767/2015(h6n1). Conclusion. Avian influenza viruses subtype h6n8 have the ability to circulate among wild waterfowl and poultry, increasing the chance of reassortment and transmission of h6 virus strains among birds. For this reason, it is of crucial importance to strengthen surveillance for avian influenza h6 subtype among wild birds in the south of western siberia.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dufresnes c, 2019, mol phylogenet evol; Cluster = 5;
+	Betweenness Centrality (BC) = 104.412;  Closeness Centrality (CC) = 0.007810; PageRank (PR) score = 0.032;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1016/j.ympev.2019.106615
+
+ABSTRACT:
+The radiation of palearctic green toads (bufotes) holds great potential to evaluate the role of hybridization in phylogeography at multiple stages along the speciation continuum. With fifteen species representing three ploidy levels, this model system is particularly attractive to examine the causes and consequences of allopoly-ploidization, a prevalent yet enigmatic pathway towards hybrid speciation. Despite substantial efforts, the evolutionary history of this species complex remains largely blurred by the lack of consistency among the corresponding literature. To get a fresh, comprehensive view on bufotes phylogeography, here we combined genome-wide multilocus analyses (rad-seq) with an extensive compilation of mitochondrial, genome size, niche modelling, distribution and phenotypic (bioacoustics, morphometrics, toxin composition) datasets, representing hundreds of populations throughout eurasia. We provide a fully resolved nuclear phylogeny for bufotes and highlight exceptional cyto-nuclear discordances characteristic of complete mtdna replacement (in 20\% of species), mitochondrial surfing during post-glacial expansions, and the formation of homoploid hybrid populations. Moreover, we traced the origin of several allopolyploids down to species level, showing that all were exclusively fathered by the west himalayan b. Latastii but mothered by several diploid forms inhabiting central asian lowlands, an asymmetry consistent with hypotheses on mate choice and dobzhansky-muller incompatibilities. Their intermediate call phenotypes potentially allowed for rapid reproductive isolation, while toxin compositions converged towards the ecologically-closest parent. Across the radiation, we pinpoint a stepwise progression of reproductive isolation through time, with a threshold below which hybridizability is irrespective of divergence (< 6my), above which species barely admix and eventually evolve different mating calls (6-10my), or can successfully cross-breed through allopolyploidization (> 15my). Finally, we clarified the taxonomy of bufotes (including genetic analyses of type series) and formally described two new species, b. Cypriensis sp. Nov. (Endemic to cyprus) and b. Perrini sp. Nov. (Endemic to central asia). Embracing the genomic age, our framework marks the advent of a new exciting era for evolutionary research in these iconic amphibians.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dufresnes c, 2019, mol ecol; Cluster = 5;
+	Betweenness Centrality (BC) = 27.221;  Closeness Centrality (CC) = 0.007460; PageRank (PR) score = 0.024;
+	BC rank = 3; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1111/mec.15133
+
+ABSTRACT:
+Cryptic phylogeographic diversifications provide unique models to examine the role of phylogenetic divergence on the evolution of reproductive isolation, without extrinsic factors such as ecological and behavioural differentiation. Yet, to date very few comparative studies have been attempted within such radiations. Here, we characterize a new speciation continuum in a group of widespread eurasian amphibians, the pelobates spadefoot toads, by conducting multilocus (restriction site associated dna sequencing and mitochondrial dna) phylogenetic, phylogeographic and hybrid zone analyses. Within the p. Syriacus complex, we discovered species-level cryptic divergences (>5 million years ago [my]) between populations distributed in the near-east (hereafter p. Syriacus sensu stricto [s.s.]) And southeastern europe (hereafter p. Balcanicus), each featuring deep intraspecific lineages. Altogether, we could scale hybridizability to divergence time along six different stages, spanning from sympatry without gene flow (p. Fuscus and p. Balcanicus, >10 my), parapatry with highly restricted hybridization (p. Balcanicus and p. Syriacus s.s., >5 my), narrow hybrid zones (\~15 km) consistent with partial reproductive isolation (p. Fuscus and p. Vespertinus, \~3 my), to extensive admixture between pleistocene and refugial lineages (<= 2 my). This full spectrum empirically supports a gradual build up of reproductive barriers through time, reversible up until a threshold that we estimate at \~3 my. Hence, cryptic phylogeographic lineages may fade away or become reproductively isolated species simply depending on the time they persist in allopatry, and without definite ecomorphological divergence.
+
+
+-----------------------------------
+
+
+
+	Vertex name = kidov aa, 2023, russ j herpetol-a; Cluster = 5;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.005680; PageRank (PR) score = 0.010;
+	BC rank = 4; CC Rank = 4; PR rank = 4 
+
+                   	DOI :NA
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = andersen d, 2022, ecol model; Cluster = 5;
+	Betweenness Centrality (BC) = 28.255;  Closeness Centrality (CC) = 0.006370; PageRank (PR) score = 0.007;
+	BC rank = 2; CC Rank = 3; PR rank = 5 
+
+                   	DOI :10.1016/j.ecolmodel.2022.109986
+
+ABSTRACT:
+Latitudinal variations in species niche due to factors such as phenotypic plasticity and local adaptation pose fundamental problems for ecological niche modelling at large geographic scales. Species adaptation to varying climates across latitudes thus necessitates the latitudinal adjustment of climatic variables for incorporation into more accurate models of habitat suitability and species distribution. Previous studies have identified changes in species' elevational distributions across latitudes, however few studies incorporate latitude-adjusted variables into suitability or distribution models. In this study, we utilized generalized additive models (gams) to adjust bioclimatic variables by latitude in order to remove latitudinal variation in ecological niche models. We incorporated these latitude-adjusted variables into maximum entropy (maxent) models of two species of toad, bufo sachalinensis (previously bufo gargarizans) and bufo stejnegeri, in northeast asia. We additionally identified thresholds in bioclimatic and terrain variables that delineate boundaries between the two bufo species where their ranges overlap. We found that gam adjustment of bioclimatic variables effectively removed latitudinal variation in said variables. Maxent models incorporating these latitude-adjusted variables had significantly improved model fit (auc and tss) for both bufo species. We identified a potential sympatric area shared by the two species and delineated a geographic boundary thresholding the probable presence of one species over the other. This study shows a clear improvement for distribution models with the inclusion of latitude-adjusted bioclimatic variables for both narrow and wide-ranging species. This has implications for future distribution modelling practices, especially for geographically widespread species, and has potential for modelling species distributions in climate change scenarios. Further, the methodology for delimiting species thresholds has future use in modelling contact zones of related species.
+
+
+-----------------------------------
+
+
+
+	Vertex name = darul r, 2022, j mamm evol; Cluster = 5;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.005080; PageRank (PR) score = 0.010;
+	BC rank = 5; CC Rank = 5; PR rank = 3 
+
+                   	DOI :10.1007/s10914-021-09580-7
+
+ABSTRACT:
+We studied the relationship between the variability and contemporary distribution of pelage phenotypes in one of most widely distributed felid species and an array of environmental and demographic conditions. We collected 672 photographic georeferenced records of the eurasian lynx throughout eurasia. We assigned each lynx coat to one of five phenotypes. Then we fitted the coat patterns to different environmental and anthropogenic variables, as well as the effective geographic distances from inferred glacial refugia. A majority of lynx were either of the large spotted (41.5\%) or unspotted (uniform, 36.2\%) phenotype. The remaining patterns (rosettes, small spots and pseudo-rosettes) were represented in 11.0\%, 7.4\%, and 3.9\% of samples, respectively. Although various environmental variables greatly affected lynx distribution and habitat suitability, it was the effect of least-cost distances from locations of the inferred refugia during the last glacial maximum that explained the distribution of lynx coat patterns the best. Whereas the occurrence of lynx phenotypes with large spots was explained by the proximity to refugia located in the caucasus/middle east, the uniform phenotype was associated with refugia in the far east and central asia. Despite the widely accepted hypothesis of adaptive functionality of coat patterns in mammals and exceptionally high phenotypic polymorphism in eurasian lynx, we did not find well-defined signs of habitat matching in the coat pattern of this species. Instead, we showed how the global patterns of morphological variability in this large mammal and its environmental adaptations may have been shaped by past climatic change.
+
+
+-----------------------------------
+
+
+
+	Vertex name = nabozhenko vm, 2022, j insect biodivers; Cluster = 6;
+	Betweenness Centrality (BC) = 1.500;  Closeness Centrality (CC) = 0.090910; PageRank (PR) score = 0.023;
+	BC rank = 2; CC Rank = 4; PR rank = 1 
+
+                   	DOI :10.12976/jib/2022.32.1.2
+
+ABSTRACT:
+This study is based on the material of darkling beetles (tenebrionidae) collected from different localities of turkey between 1966 and 2020 and deposited in biodiversity science museum, atat??Rk university (erzurum, turkey). In total, 80 species and subspecies of the family tenebrionidae were listed. The following five species are recorded for turkey for the first ropatroides hirtulus (baudi di selve, 1876). In addition, new localities have been indicated for many species and subspecies, which have already been reported from turkey. The new synonymy is proposed: blaps tibialis reiche \& saulcy, 1857 = blaps ecaudata seidlitz, 1893, syn. Nov. The invasive population of the mediterranean species euboeus mimonti boieldieu, 1865 was found in erzurum but the species has not naturalised in eastern anatolia.
+
+
+-----------------------------------
+
+
+
+	Vertex name = nabozhenko m, 2020, zootaxa; Cluster = 6;
+	Betweenness Centrality (BC) = 4.500;  Closeness Centrality (CC) = 0.111110; PageRank (PR) score = 0.011;
+	BC rank = 1; CC Rank = 1; PR rank = 5 
+
+                   	DOI :10.11646/zootaxa.4896.2.10
+
+ABSTRACT:
+Species of the genus helopelius reitter, 1922 (type species: stenomax aeneipennis allard, 1876) were known from rhodes and north africa. We found that two species described from rhodes belong to the genus stenohelops reitter, 1922, and helopelius can be interpreted as a subgenus within latter, guided by the article 23.2 of iczn. The following synonyms are proposed: helopelius, stat. N. (From genus to subgenus) = stenomaleis espanol, 1957, syn. N.; Stenohelops reitter, 1922 = gunarellus reitter, 1922, syn. N.; Stenohelops (helopelius) aeneipennis (allard, 1876) = helopelius disgregus reitter, 1922, syn. N., = gunarus gayirbegi nabozhenko \& keskin, 2009, syn. N. As a result, the following species are transferred from the former genus helopelius to the genus stenohelops: stenohelops (helopelius) nodifer (kraatz, 1880), comb. N.; Stenohelops (helopelius) otini (antoine, 1949), comb. N.; Stenohelops (helopelius) subsinuatus (antoine, 1951), comb. N.; Stenohelops (helopelius) verrucosus (vauloger de beaupre, 1900), comb. N.; Stenohelops (helopelius) zaianus (antoine, 1949), comb. N. Thus, the subgenus helopelius contains 11 species from three isolated geographical exclaves: western mediterranean, eastern mediterranean and china lectotypes of stenomax aeneipennis allard, 1876, helops gratus j. Frivaldszky, 1894 and cylindrinotus (helopelius) disgregus reitter, 1922 are designated. Data on fossil species of the genus and the allied extinct taxa, as well as on bionomics of extant species of the subgenus helopelius are presented. The check-list for extant and extinct species of stenohelops is given.
+
+
+-----------------------------------
+
+
+
+	Vertex name = chigray i, 2023, acta zool acad sci hung; Cluster = 6;
+	Betweenness Centrality (BC) = 1.500;  Closeness Centrality (CC) = 0.100000; PageRank (PR) score = 0.019;
+	BC rank = 4; CC Rank = 3; PR rank = 3 
+
+                   	DOI :10.17109/AZH.69.3.213.2023
+
+ABSTRACT:
+Years of research of the subtribe blaptina made it possible to clarify relations between some species and propose changes in supraspecific structure of this subtribe. Blaps scabiosa baudi di selve, 1874 is designated as a type species of caraboblaps bauer, 1921, the new synonymy is proposed: blaps fabricius, 1775 = caraboblaps bauer, 1921, syn. N. Blaps nitens nitens laporte, 1840 is designated as a type species of periblaps bauer, 1921, blaps ominosa menetries, 1832 is designated as a type species of holoblaps bauer, 1921; type species of periblaps and holoblaps are transferred here to genus lithoblaps, as a result the following new synonymy is proposed: lithoblaps motschulsky, 1860 = periblaps bauer, 1921, syn. N. = holoblaps bauer, 1921, syn. N. The similarity of the structure of the aedeagus of ablapsis compressipes reitter, 1887 and some species of the subgenus prosoblapsia skopin et kaszab, 1978 (genus blaps fabricius, 1775) gives a base to transfer the taxon ablapsis reitter, 1887 into the genus blaps as a separate subgenus (ablapsis stat. Resurr.). Blaps tentyrioides seidlitz, 1893 (= blaps socia seidlitz, 1893) is designated as a type species of the subgenus protoblaps bauer, 1921. As the genera protoblaps bauer, 1921 and genoblaps bauer, 1921 have one type species and the aedeagal structure of type species of ablapsis, protoblaps and prosoblapsia is similar, the new synonymy is proposed: ablapsis reitter, 1887 = protoblaps bauer, 1921 syn. N. = genoblaps bauer, 1921 syn. N. = prosoblapsia skopin et kaszab, 1978, syn. N. Analysis of imaginal and larval structures of the species here united in the taxon lithoblaps motschulsky, 1860 and other members of blaps showed that differences between these two groups are comparable with those between other genera of the subtribe and, therefore, the former taxon is here regarded as a distinct genus lithoblaps gen. Resurr. Thus, 100 species and subspecies (marked as comb. N. Or comb. Resurr.) Are transferred from blaps to lithoblaps. The additional new combination is established: dila platythorax (gemminger, 1870), comb. N. (From blaps). The key to genera and the catalogue of the subtribe blaptina are given.
+
+
+-----------------------------------
+
+
+
+	Vertex name = nabozhenko m, 2016, ann zool; Cluster = 6;
+	Betweenness Centrality (BC) = 1.500;  Closeness Centrality (CC) = 0.100000; PageRank (PR) score = 0.006;
+	BC rank = 3; CC Rank = 2; PR rank = 6 
+
+                   	DOI :10.3161/00034541ANZ2016.66.4.013
+
+ABSTRACT:
+Six new species of the pimeliine genus ceratanisus gebien, 1937 are described from transcaucasia and anatolia: c. Talyshensis sp. Nov. (Azerbaijan: talysh), c. Transcaucasicus sp. Nov. (Azerbaijan: nakhchivan; armenia: ararat prov.), c. Khnzoriani sp. Nov. (Armenia: megri), c. Costipennis sp. Nov. (Turkey: ankara), c. Keskini sp. Nov. (Turkey: malatya province), c. Purcharti sp. Nov. (Turkey: kayseri province, taurus mts.). A lectotype for c. Tristis (faldermann, 1837) from the peloponnese peninsula is designated. One new synonymy is established: ceratanisus gemminger, 1870 = haemerophygus baudi di selve, 1876, syn. Nov. The follow new combinations are also established (all species are transferred from the genus haemerophygus): ceratanisus mucoreus (waltl, 1838), comb. Nov., ceratanisus graecus (kraatz, 1877), comb. Nov., ceratanisus allardi (reitter, 1884), comb. Nov., ceratanisus taygetanus (reitter, 1898), comb. Nov., ceratanisus osellai (scupola, 1984), comb. Nov., ceratanisus guerroumii (f. Soldati et l. Soldati, 2002), comb. Nov.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bai xl, 2019, zootaxa; Cluster = 6;
+	Betweenness Centrality (BC) = 1.500;  Closeness Centrality (CC) = 0.090910; PageRank (PR) score = 0.006;
+	BC rank = 5; CC Rank = 5; PR rank = 7 
+
+                   	DOI :10.11646/zootaxa.4609.1.4
+
+ABSTRACT:
+The genus platyscelis latreille, 1818 (coleoptera: tenebrionidae: platyscelidini) from china is revised. Sixteen valid species (subspecies) are recognized in this study, including three new ones: p. (S. Str.) Acutipenis sp. Nov. From gansu and ningxia, p. (S. Str.) Densipunctata sp. Nov. From gansu, and p. (S. Str.) Helanensis sp. Nov. From inner mongolia and ningxia. A synonymy between p. (S. Str.) Brevis baudi di selve, 1876 and p. Ballioni reitter, 1889 is proposed based on the examination of type and additional specimens. Lectotypes are designated for p. Hauseri reitter, 1899, p. Gebieni schuster, 1915, p. (S. Str.) Angusticollis kaszab, 1940, p. (S. Str.) Licenti kaszab, 1940, p. (S. Str.) Platytarsis kaszab, 1940 and p. (S. Str.) Suiyuana kaszab, 1940. Furthermore, new distribution records, images of adults and male aedeagus, and a key to chinese species are presented.
+
+
+-----------------------------------
+
+
+
+	Vertex name = chigray sn, 2022, eur j taxon; Cluster = 6;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.071430; PageRank (PR) score = 0.019;
+	BC rank = 6; CC Rank = 7; PR rank = 2 
+
+                   	DOI :10.5852/ejt.2022.809.1719
+
+ABSTRACT:
+A taxonomic review of tenebrionid platyopoid genera of the subfamily pimeliinae from eastern europe, central asia, afghanistan, iran and pakistan is given. This group of taxa was known before 1994 as the tribe platyopini motschulsky, 1849, which is now interpreted as a junior synonym of pimeliini latreille, 1802. The group is different from other pimeliini in having dorso-lateral eyes, located above the level of the genae, and it includes the following ultrapsammophilic genera at least from central and southern asia: apatopsis semenov, 1891, habrochiton semenov-tjan-shansky, 1907, habrobates semenov, 1903 [= kawiria schuster, 1935 syn. Nov.], dietomorpha reymond, 1938, przewalskia semenov, 1893, mantichorula reitter, 1889, platyope fischer von waldheim, 1820 [= homopsis semenov, 1893 syn. Nov.], earophanta semenov, 1903. These genera are distributed in almost all large deserts of palaearctic asia: karakum, kyzylkum, muyunkum, taklamakan, gobi, registan, dasht-e-kawir, dasht-e-lut, as well as in other arid and semi-arid sandy landscapes from european russia to the south of eastern siberia. The group of platyopoid genera is polyphyletic. We propose at least two monophyletic branches: the habrobates genus group (the first four genera mentioned above), which represents the subtribe habrobatina nabozhenko \& s. Chigray subtrib. Nov. And the platyope genus group (latter four genera) within the nominotypical subtribe. A new species is described from pakistan (balochistan): dietomorpha gonzalesi s. Chigray \& nabozhenko sp. Nov. Platyope granulata fischer von waldheim, 1820 is recorded for kazakhstan for the first time. The following synonymy is resurrected: apatopsis grombczewskii semenov, 1890 = apatopsis conradti semenov, 1890, syn. Resurr. Two new combinations resulting from the synonymy of genera are given: habrobates gabrieli schuster, 1935 comb. Nov. (From kawiria), platyope grumi semenov, 1893 comb. Nov. (From homopsis). Lectotypes are designated for the following taxa: apatopsis grombczewskii (semenov, 1891), apatopsis conradti semenov, 1891, habrochiton vernus semenov-tjan-shansky, 1907, habrobates vernalis semenov, 1903, kawiria gabrieli schuster, 1935, platyope dilatata reitter, 1887; mantichorula semenowi reitter, 1889, mantichorula grandis semenov, 1893, homopsis grumi semenov, 1893, platyope serrata semenov, 1893, platyope planidorsis reitter, 1889, platyope tomentosa semenov, 1893. Additional information for type specimens studied by the authors is given for habrochiton primaeveris semenov-tjan-shansky, 1907 (holotype), habrobates vejisovi kelejnikova, 1977, platyope ordossica semenov-tjan-shansky, 1907 (holotype), earophanta autumnalis semenov, 1903 (holotype, junior synonym of e. Planidorsis reitter, 1889), earophanta loudoni semenov, 1903 (holotype, junior synonym of earophanta pilosissima reitter, 1895), earophanta pubescens skopin, 1960 (holotype, paratypes), earophanta beludzhistana bogatchev, 1957 (holotype).
+
+
+-----------------------------------
+
+
+
+	Vertex name = bai xl, 2023, zookeys; Cluster = 6;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.076920; PageRank (PR) score = 0.012;
+	BC rank = 7; CC Rank = 6; PR rank = 4 
+
+                   	DOI :10.3897/zookeys.1161.97440
+
+ABSTRACT:
+The relationship between the genera colasia koch, 1965 and belousovia medvedev, 2007 within the tribe blaptini is discussed, and a new synonymy is proposed: belousovia medvedev, 2007, syn. Nov. Of colasia koch, 1965. As a result, three new combinations are established: colasia helenae (medvedev, 2007), comb. Nov., c. Kabaki intermedia (medvedev, 2007), comb. Nov., and c. Kabaki kabaki (medve-dev, 2007), comb. Nov. Colasia akisoides koch, 1965 is redescribed, and a lectotype is designated. Three new species of the genus colasia are described and illustrated from china: c. Bijica sp. Nov. (Guizhou), c. Medvedevi sp. Nov. (Yunnan), and c. Pilosa sp. Nov. (Yunnan). A distribution map and a key to species of the revised genus colasia are presented.
+
+
+-----------------------------------
+
+
+
+	Vertex name = chepurnov gy, 2023, plants-basel; Cluster = 7;
+	Betweenness Centrality (BC) = 161.500;  Closeness Centrality (CC) = 0.004520; PageRank (PR) score = 0.010;
+	BC rank = 1; CC Rank = 2; PR rank = 1 
+
+                   	DOI :10.3390/plants12203596
+
+ABSTRACT:
+The duration of the vegetative period is an important agronomic characteristic of cereal crops. It is mainly influenced by the vrn (response to vernalization) and ppd (response to photoperiod) genes. In this work, we searched for alleles of several known genes of these two systems of response to external conditions in 15 accessions of aegilops tauschii coss. (Syn. Ae. Squarrosa l.), with the aim of studying the impact these alleles have on the vegetative period duration and growth habit. As a result, three allelic variants have been found for the vrn-d1 gene: (i) one intact (winter type), (ii) one with a 5437 bp deletion in the first intron and (iii) one previously undescribed allele with a 3273 bp deletion in the first intron. It has been shown that the spring growth habit of ae. Tauschii can be developed due to the presence of a new allele of the vrn-d1 gene. Significant differences in expression levels between the new allelic variant of the vrn-d1 gene and the intact allele vrn-d1 were confirmed by qpcr. The new allele can be introgressed into common wheat to enhance the biodiversity of the spring growth habit and vegetative period duration of plants.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dudnikov aj, 2018, genet resour crop evol; Cluster = 7;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.005150; PageRank (PR) score = 0.007;
+	BC rank = 2; CC Rank = 1; PR rank = 2 
+
+                   	DOI :10.1007/s10722-017-0575-4
+
+ABSTRACT:
+Polymorphism of gliadins was investigated in aegilops tauschii from primary habitats ``4'' near hily, and ``6'' near rukel, in dagestan, russia 205 individual plants were analysed (53/50 and 54/48 plants of subsp. Tauschii/subsp. Strangulata from the habitats ``4'' and ``6'' respectively) and 1/7 and 18/14 different haplotypes were found among the plants of subsp. Tauschii/subsp. Strangulata from the habitats ``4'' and ``6'' respectively. No direct evidences of cross-pollination were pointed out, although gliadins electrophoretic phenotypes obtained allowed to suggest that it occur in ae. Tauschii with very low frequency. The data obtained revealed that during ae. Tauschii evolutionary history a local habitat could be populated many times by different phylogenetic lineages of the species. It was found that in dagestan, at the very edge of the species area, several different lineages belonging to different subspecies could for a long time co-exist together in a local habit, and in such case a very high level of genetic variation in ae. Tauschii could be accumulated on a square of less than one hectare. The further studies of genetic variation in ae. Tauschii local populations, based on molecular genetic methods seems to be very prospective for understanding of peculiarities of the species evolution.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ilnitskaya et, 2021, vavilovskii zhurnal genet sel; Cluster = 8;
+	Betweenness Centrality (BC) = 5.448;  Closeness Centrality (CC) = 0.007410; PageRank (PR) score = 0.009;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.18699/VJ21.092
+
+ABSTRACT:
+Local grape cultivars from different countries of the world are an important part of the gene pool of this culture. Of particular interest are the genotypes of the most ancient regions of viticulture. The territories of the subtropical zone of georgia and the central part of abkhazia belong to one of the centers of origin of the cultural grapevine. The purpose of the work was to genotype native abkhazian grape cultivars, to study their genetic diversity based on dna profiling data and to compare them with the genotypes of local varieties of other viticultural regions. Samples of plants were taken on the territory of the republic of abkhazia in private farmsteads and in the collection of the agricultural firm ``vina i vody abkhazii'' (''wines and waters of abkhazia'').The genotyping of the abkhazian cultivars avasirhva, agbizh, azhapsh, azhizhkvakva, azhikvaca, atvizh, atyrkuazh, achkykazh, kachich was carried out using 14 dna markers, 9 of which are standard microsatellite markers recommended for the identification of grape varieties. To improve our knowledge about the sizes of the identified alleles, we used the dna of grape cultivars with a known allelic composition at the analyzed loci. Statistical analysis of the data showed that the observed heterozygosity for the analyzed loci exceeded expected values, which indicates a genetic polymorphism of the studied sample of varieties. Evaluation of genetic similarity within the analyzed group based on the results of genotyping at 14 loci showed that the cultivars kachich and azhapsh differed from the other abkhazian varieties. The obtained dna profiles of the abkhazian cultivars were checked for compliance with dna-fingerprints of grape varieties in the vitis international variety catalogue. The georgian varieties azhizhkvakva and tsitska turned out to be synonyms according to dna profiles, two varieties from the database (italian albana bianca and georgian ojaleshi) have differences in dna fingerprints from the varieties atyrkuazh and azhikvatsa only in one allele, respectively. When comparing the identified abkhazian grape genotypes, their difference from the sample of dagestan, don, greek, turkish, italian, spanish, and french varieties and genetic similarity with the genotypes of georgian grapes were shown.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gorbunov i, 2020, iop conf ser earth envir sci; Cluster = 8;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.005290; PageRank (PR) score = 0.005;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1088/1755-1315/548/4/042050
+
+ABSTRACT:
+Recently, the importance of studying the biodiversity of the vitaceae juss family. Increases markedly, while new data appear on the gene pool of cultivated and wild-growing grapes vitis vinifera l. Modern methods of analyzing the polymorphism of populations of grape plants, both wild-growing and cultural, are actively used. According to the literature, a number of studies have been conducted in the russian federation to study native varieties and wild forms of grapes in the crimea, dagestan, along the banks of the don and other regions, but there is very little information about kuban wild and ancient forms of grapes. The article presents the results of a study of wild forms of the genus vitis l., growing in places of ancient human settlements on the territory of the utrish state nature reserve of the krasnodar territory. For the first time, ampelographically and genetically samples of isolated populations of wild grapes growing on the territory of the utrish state nature reserve have been studied and described. Several habitats of wild grapes, presumably belonging to the vitis vinifera ssp species, have been studied. Silvestris gmel. Or its variants var. Tipica negr. - typically wild forest grapes. A detailed description of phytocenoses in which the studied plant forms grow is carried out. Ecological and geographical characteristics of their habitats are given. Samples were taken for further genetic analysis. Dna-marker analysis of plant genotypes by microsatellite loci vvmd27, vvmd5, vs2, vrzag79 recommended for genotyping of grapes was performed. It was shown that some of the samples are polymorphic to each other, while others are genetically close. When analyzing genotypes, rare alleles were detected for the analyzed ssr loci.
+
+
+-----------------------------------
+
+
+
+	Vertex name = balamirzoyev ma, 2014, arid ecosyst; Cluster = 9;
+	Betweenness Centrality (BC) = 3.000;  Closeness Centrality (CC) = 0.200000; PageRank (PR) score = 0.017;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1134/S2079096114010016
+
+ABSTRACT:
+The fertility indices of the main soil types of the tersk-sulak lowland used in irrigated husbandry are considered. Intensive anthropogenic impacts on irrigated soils result in a decrease in their fertility. Agriculture is conducted with a negative balance of humus and nourishing elements in handle soils. The dependence of productivity on the humus content, adsorptive capacity, granulometric composition and extent of soil salinization is established.
+
+
+-----------------------------------
+
+
+
+	Vertex name = alichaev mm, 2021, arid ecosyst; Cluster = 9;
+	Betweenness Centrality (BC) = 1.000;  Closeness Centrality (CC) = 0.166670; PageRank (PR) score = 0.014;
+	BC rank = 2; CC Rank = 2; PR rank = 3 
+
+                   	DOI :10.1134/S2079096121030033
+
+ABSTRACT:
+Materials are presented for route, stationary soil, and ecological studies carried out in the high-mountainous zone of dagestan with the characteristics of (a) the modern features of the development of the soil cover and (b) the ecological parameters of the soil cover and their changes under the influence of climatic warming. The variety of natural and economic conditions of the object of study resulted in significant diversity of the soil cover. The soil distribution was greatly influenced by the terrain height and the exposure and steepness of slopes. Based on soil erosion studies from previous periods, it can be noted that improper land use and climatic warming have led to radical changes in the composition of the soil cover in terms of defining indicators-soil erosion. In recent years, the area of eroded land has doubled, and the area with heavily eroded soils has increased by a third. This led to a decrease in the thickness of humus horizons in almost all soils to an average of 20 cm, and the loss of humus reserves in soils amounted to 60\% of the original content. The presented analysis of soil-cover degradation and the established patterns of soil evolution on the slope lands of high mountains serve as a theoretical basis for the reproduction of soil fertility and preservation of the ecological role of soil protection from erosion and other degradation processes.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gasanov gn, 2023, south russ-ecol dev; Cluster = 9;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.142860; PageRank (PR) score = 0.017;
+	BC rank = 4; CC Rank = 4; PR rank = 2 
+
+                   	DOI :10.18470/1992-1098-2023-2-33-43
+
+ABSTRACT:
+Aim. Determination of phytocenosis productivity, nitrogen concentration and reserves in blocks of plant associations and by soil types in the north-western precaspian region of russia. Methods. Comprehensive research on the accumulation of organic matter and nitrogen in five blocks of plant matter, six plant associations and three types of soil by season using well-known methods of accounting and analysis of soils and plants.results. The regularities of phytomass formation, changes in nitrogen concentration and reserves in the main soil types and six plant associations for the 2011-2018 seasons were revealed. Conclusions. Ephemeroid-wormwood-cereal, ephemeroid-wormwood, cereal-wormwood, forb-campfire and mixed-grass-campfire plant communities formed on light chestnut soil are the most productive, with a total productivity of 24.34 t/ha. The maximum nitrogen concentration was observed in the cereal-wormwood, wormwood-saltwort, forb-saltwort and cereal-saltwort associations - 1.9, 1.97, 2.2, and 2.57\%, respectively, which is due to the predominance of artemisia taurica willd., artemisia lercheana web.ex stechm. And salsola iberica sennen \& pau. In associations where there are representatives of the poaceae, brassicaceae and caryophyllaceae, nitrogen decreases to 1.72-1.74\%. Its value was higher on light-chestnut soil, being 1.82\% of absolutely dry mass, while on meadow-chestnut soil it decreased to 1.75 and on saline soil is typically 1.38\%. In the root mass of plant associations, its indicators were 3.2 times less than in the above ground mass. Nitrogen reserves by blocks of plant matter formed the following decreasing series: roots >\_ green mass >\_ rags >\_ felt. In the input part of the balance in plant associations, 171.6 nitrogen accumulates on light-chestnut soil, 63.1 on meadow-chestnut soil, 49.1 kg/ha on automorphic typical saline soil, and 171.9; 64.3 and 58.1 kg/ha in the expenditure part, respectively. The balance of nitrogen in the first type of soil is formed with a minimum deficit of 0.6 kg/ha, 1.2 and 9 kg/ha, respectively.
+
+
+-----------------------------------
+
+
+
+	Vertex name = balamirzoev ma, 2013, arid ecosyst; Cluster = 9;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.142860; PageRank (PR) score = 0.011;
+	BC rank = 3; CC Rank = 3; PR rank = 5 
+
+                   	DOI :10.1134/S2079096113010071
+
+ABSTRACT:
+The ecological and genetic features of the formation and dispersion of soils of mountain river valleys of high-altitude zones and their difference from similar deltaic plains of caspian lowlands are considered. Based on complex studies of agricultural soils, the altitude limits for perennial crops depending on the position of sun-exposure of the adjoining slopes and hydrothermal conditions of mountain river valleys are determined.
+
+
+-----------------------------------
+
+
+
+	Vertex name = vlasova ok, 2017, arid ecosyst; Cluster = 9;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.142860; PageRank (PR) score = 0.011;
+	BC rank = 5; CC Rank = 5; PR rank = 6 
+
+                   	DOI :10.1134/S207909611702010X
+
+ABSTRACT:
+The qualitative composition and quantitative content of mineral substances in the soils and fruits of prunus armeniaca l. And malus domestica borkh. Cultivated in the environmental conditions of the plains and foothills of central daghestan has been estimated. The adaptation of apricot and apple trees to the natural factors of the lower foothills results in higher sugar concentrations in their fruits in comparison with trees growing on plains; the apricot and apple trees growing on lower foothills concentrate more ca and p, while the contents of k, na, mg, and cu in their fruits are reduced. Plants of the same species growing on soils with different contents of mineral substances differ by the total content of macro-and microelements in their fruits but accumulate roughly equivalent levels of p, na, ca, cu, ni, and pb.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gasanov gn, 2019, south russ-ecol dev; Cluster = 9;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.125000; PageRank (PR) score = 0.014;
+	BC rank = 6; CC Rank = 6; PR rank = 4 
+
+                   	DOI :10.18470/1992-1098-2019-4-86-97
+
+ABSTRACT:
+Aim. To reveal the basic patterns and principles of formation on the surface of crusty solonchak of an aeolian-accumulative horizon and its positive transformation at the taxonomic level. Material and methods. On the surface of crusty solonchak there is formed a layer of silt-sand fractions with seeds of wild phytocenoses which move/(sic) over the surface of the soil under the influence of atmospheric processes with the utilization of wood. Material protruding above the soil surface to 0.2 m. Analyses, surveys and observations were carried out of the key parts (for investigation - under the aeolian layer) of the crusty solonchak transformed through the dynamics of humidity, lowering of soil moisture (sc), granulometric composition, chemistry and level of soil salinity, as well as determination of the species composition of the phytocenoses and the accumulation of phytomass by plants. Results. The possibility was revealed of a positive transformation within eight years of a layer of silt-sand fractions with seeds of wild phytocenoses in the w-ael humus horizon with a capacity of 5 cm +/- 0.8 cm and containing 1.26\% of humus. The type of salinization remains sulphate-chloride but the level of salinization decreases from very strong in the 0-5 layer to weak one in the 6-15 cm layer - on average. The profile of the crusty solonchak c-k(k)[aj(k) - aj,s - bca,s - cca,s] is changed to that of regraded solonchak c-k(w) [w-ael - aj,s - bca,s - cca,s]. The granulometric composition of the soil is improved and a productive phytocenosis is formed. Conclusion. The positive transformation of crusty solonchak to regraded contributes to the reduction of soil deflation and of aerial contamination by dust particle fractions, the lowering of carbon emissions from the soil and of the natural greenhouse effect, the increase of the utilization coefficient of photosynthetically active radiation (par) and the prevention of excessive overheating of the soil and atmosphere.
+
+
+-----------------------------------
+
+
+
+	Vertex name = kidov aa, 2023, russ j herpetol; Cluster = 10;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.005710; PageRank (PR) score = 0.016;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.30906/1026-2296-2023-30-2-79-87
+
+ABSTRACT:
+The paper reports the results of the first skeletochronological study of age structure and distinguishing characteris-tics of growth in the triploid toad bufotes baturae, inhabitant of sasyk-bulak hot spring in the pamir mountains (3797 m a.s.l.). Minimal and maximum ages of males of the species were three and seven years, respectively. The age of females ranged from three to six years. Mean age for both sexes was 4.0 years. The majority of males (46.2\%) were three years old, most females (58.8\%) were four years old. The age of sexual maturity was reached after three hibernations (46\% in males and 24\% in females). The majority of toads breed once at the age of three or four years. Only few (18\% in females and 23\% in males) individuals in this population were older. Harsh high-alti-tude cold desert conditions and limited food resources may cause high mortality of the toads. The correlation be-tween the minimal age at sexual maturity and the degree of dryness of climate was demonstrated among species of the genus bufotes. As a rule, toads which live in more humid climatic conditions mature earlier. Perhaps, this ex-plains that substantial part of semi-aquatic individuals of b. Baturae in the hot spring mature at earlier age (3 years) than other polyploid species (4 - 5 years) that inhabit arid environments. In both sexes of b. Baturae, growth rate was similar to that of other closely related high-mountain species, diploid b. Latastii and triploid b. Pseudoraddei.
+
+
+-----------------------------------
+
+
+
+	Vertex name = lyapkov sm, 2021, russ j herpetol; Cluster = 10;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.004670; PageRank (PR) score = 0.012;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.30906/1026-2296-2021-28-3-138-144
+
+ABSTRACT:
+The paper provides the first data about age structure and growth of the zamda toad, bufotes zamdaensis (boulenger, 1882), from the himachal pradesh state (india). The study of age structure of toads was carried out using skeletochronology. The minimal and maximal ages in males of b. Zamdaensis were 4 and 7 years, respectively, with mean age of 5.4 years. The majority of males (60\%) were 5 years old. The age in females ranged from 5 to 9 years with mean value of 6.1 years. The majority of females (71\%) were 5 - 6 years old. Males of b. Zamdaensis can reach maturation after four winterings and females after five winterings. Unlike closely related species b. Latastii, the growth rate in both sexes does not decrease significantly after the 1st and 2nd wintering and remains high after the 3rd and 4th wintering.
+
+
+-----------------------------------
+
+
+
+	Vertex name = panov vp, 2021, zool zhurnal; Cluster = 11;
+	Betweenness Centrality (BC) = 2.000;  Closeness Centrality (CC) = 0.111110; PageRank (PR) score = 0.015;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.31857/S0044513421070084
+
+ABSTRACT:
+The histological structure and clinical blood parameters of mature female and male beaked redfish, sebastes mentella, from the pelagic zone of the irminger sea, northeast atlantic allowed for the first time to describe the features of the morphological structure of their bodies and to present the characteristics of blood cells. The diameter of white and red muscle fibers along the body (from head to tail) in females and males is significantly different. In addition, females differ from males in the distribution of fiber density along the body. The morphology and sizes of erythropoietic cells and leukocytes in females and males of the beaked redfish are similar to those of other fish species. However, erythropoiesis and leukopoiesis in males and females are not the same. Significant differences in the composition of the somatic muscles of females and males indicate a higher rate of metabolic processes in females. In the leukogram of females, the proportion of mature segmented neutrophils is significantly higher than that in males. Therefore, females have a higher cellular factor of innate immunity. Segmented neutrophils are the main microphages with high antigenic activity, providing phagacytosis due to defensin in lysosomes and performing direct killer actions.
+
+
+-----------------------------------
+
+
+
+	Vertex name = pronina g, 2021, biol bull; Cluster = 11;
+	Betweenness Centrality (BC) = 1.500;  Closeness Centrality (CC) = 0.111110; PageRank (PR) score = 0.014;
+	BC rank = 3; CC Rank = 3; PR rank = 3 
+
+                   	DOI :10.1134/S1062359021030134
+
+ABSTRACT:
+The hematological and cytochemical parameters of the peripheral blood of the spotted barracudina arctozenus risso and the sharpchin barracudina paralepis coregonoides (paralepididae) are studied for the first time from the materials of a survey in the irminger sea in 2018. It was shown that erythropoiesis in both fish species studied is approximately the same. Normoblasts and erythrocytes are present. The lymphoid character of the blood of both fish species was established by comparative analysis of leukograms. It was noted that a large proportion of mature segmented forms, i.e., neutrophils responsible for noncongenital nonspecific cellular immunity, is characteristic of sharpchin barracudina.
+
+
+-----------------------------------
+
+
+
+	Vertex name = panov vp, 2019, j ichthyol; Cluster = 11;
+	Betweenness Centrality (BC) = 2.500;  Closeness Centrality (CC) = 0.111110; PageRank (PR) score = 0.005;
+	BC rank = 1; CC Rank = 1; PR rank = 6 
+
+                   	DOI :10.1134/S0032945219060092
+
+ABSTRACT:
+The morphological and functional characteristics of the somatic musculature's histological structure have been studied for three species of deep-sea fish from the myctophidae family: spotted lanternfish myctophum punctatum, lancet fish notoscopelus kroyeri, and rakery beaconlamp lampanyctus macdonaldi. The average diameter of fast-twitch and slow-twitch muscle fibers in all studied species is large, and this indicator is highest in rakery beaconlamp. All species are characterized by a craniocaudal gradient of a decrease in the size of white muscle fibers. The shape of the fibers, from angular polygonal (spotted lanternfish) to the oval (rakery beaconlamp) and round (lancet fish), is a distinctive feature from other species of bony fish. In spotted lanternfish, a group of fibers of very small diameter, which are presumably small, slow-twitch oxidizing fibers, was also noted between the white and red muscles. The red muscles in the studied fish are poorly identified, since they are poorly developed. The studied species have a well-developed connective tissue carcass of white muscles, which indicates a certain friability of fast-twitch muscles. Both the red and white muscles in lanternfishes are a place of intense deposition of lipid reserves. Apparently, the high lipid content in muscle tissue helps to reduce the specific gravity of fish and increase their buoyancy.
+
+
+-----------------------------------
+
+
+
+	Vertex name = pronina gi, 2022, j ichthyol; Cluster = 11;
+	Betweenness Centrality (BC) = 1.000;  Closeness Centrality (CC) = 0.100000; PageRank (PR) score = 0.006;
+	BC rank = 4; CC Rank = 4; PR rank = 5 
+
+                   	DOI :10.1134/S0032945222060248
+
+ABSTRACT:
+The results of hematological, cytochemical, and biochemical surveys for fish blood in the specimen ocellate river stingray potamotrygon motoro and two specimens of cat sharks including the halmahera epaulette shark hemiscyllium halmahera and the grey bambooshark chiloscyllium griseumare have been reported. A comparison in the parameters analyzed in the survey between the common carp cyprinus carpio, the wels catfish silurus glanis, and the sterlet acipenser ruthenus has been performed. A high percentage of eosinophils involved in antiparasite immunity in the cartilaginous fishes is recorded. A high content of cationic protein in lysosomes of neutrophils in these fish species can indicate a considerable potent phagocytic activity of the latter. A low amount of alanine aminotransferase in the analyzed shark and ray specimens compared to the bony fish was recorded, which indicate the strength of membranes in hepatocytes and cardiomyocytes.
+
+
+-----------------------------------
+
+
+
+	Vertex name = nikitenko ai, 2022, biol bull; Cluster = 11;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.090910; PageRank (PR) score = 0.013;
+	BC rank = 5; CC Rank = 5; PR rank = 4 
+
+                   	DOI :10.1134/S1062359022060115
+
+ABSTRACT:
+The hematological parameters of the peripheral blood of the atlantic chub mackerel scomber colias, bonito sarda sarda, and splendid alfonsino beryx splendens are presented based on materials of scientific monitoring on board the fishing vessels in the exclusive economic zones of morocco and mauritania in the years 2004-2017. A larger number of immature erythropoietic cells was recorded in the alfonsino, which is probably due to its possible vertical feeding migrations to greater depths with high pressure and low oxygen content. The analysis of erythropoiesis and the leukocyte formula revealed features of physiological and immunological aspects. Bonito has a higher monocyte content than atlantic chub mackerel and alfonsino, which indicates a high level of innate cellular immunity, represented by phagocytosis.
+
+
+-----------------------------------
+
+
+
+	Vertex name = panov vp, 2022, biol bull; Cluster = 11;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.050000; PageRank (PR) score = 0.029;
+	BC rank = 6; CC Rank = 6; PR rank = 1 
+
+                   	DOI :10.1134/S1062359022070135
+
+ABSTRACT:
+Materials of the histostructure and clinical parameters of the blood of sexually mature females and males of the beaked redfish (sebastes mentella) from the pelagial zone of the irminger sea (northeastern atlantic) made it possible for the first time to describe the features of the morphological structure of the body and present the characteristics of blood cells. The diameter of white and red muscle fibers along the body (from head to tail) in females and males of the beaked redfish differs significantly. In addition, females differ from males in the distribution of the fiber density along the body. The morphology and size of erythropoietic cells and leukocytes in beaked females and males are similar to those of other fish species. Nevertheless, erythropoiesis and leukopoiesis of males and females proceed differently. Significant differences in the composition of the somatic muscles of females and males indicate a higher rate of metabolic processes in females. In the leukogram of females, the proportion of mature segmented neutrophils, which are the main microphages with high antigenic activity, is significantly higher than in males. Therefore, females have a higher cellular factor of innate immunity.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gultyaeva ei, 2018, austral plant pathol; Cluster = 12;
+	Betweenness Centrality (BC) = 62.000;  Closeness Centrality (CC) = 0.003850; PageRank (PR) score = 0.018;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1007/s13313-018-0542-3
+
+ABSTRACT:
+Genetic variation between different populations of puccinia triticina from russia and kazakhstan was evaluated, based on 18 simple sequence repeat (ssr) markers. Seventeen collections of p. Triticina (181 single-uredinial isolates, in total) obtained from 15 different host species belonging to aegilops and triticum were included in the study. All single-uredinial isolates were obtained from naturally infected plants in experimental fields in dagestan (caucasus region of russia), novosibirsk (west siberian region of russia) and shortandy (northern kazakhstan). Regional differentiation of p. Triticina ssr genotypes was detected. Collections from host plants with the same ploidy and/or genetically similar background were genetically similar. Collections from the hexaploid species in dagestan were highly similar to those from common wheat. Collections from tetraploid species t. Aethiopinum, t. Turaninum, t. Dicoccum (genome bd'a(u)a(u)) from dagestan were moderately different from the collections originated from the hexaploid species. Puccinia triticina from ae. Crassa ((ddmm)-d-c-m-c) collected in dagestan was genetically similar to populations from common wheat and other hexaploid species. Collections from ae. Tauschii (2n = 2x = 14) were significantly different from those obtained from tetraploid (2n = 4x =28) and hexaploid (2n = 6x =42) host species collected on the experimental field in dagestan. Ssr genotypes of p. Triticina isolates from t. Durum in kazakhstan were highly dissimilar to those sampled from all other hosts. A low association was established between the ssr genotypes of p. Triticina identified in the present study and the virulence phenotypes for the same set of collections, as observed in a previous study.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gultyaeva ei, 2016, austral plant pathol; Cluster = 12;
+	Betweenness Centrality (BC) = 20.500;  Closeness Centrality (CC) = 0.003820; PageRank (PR) score = 0.017;
+	BC rank = 3; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1007/s13313-016-0395-6
+
+ABSTRACT:
+Virulence of 347 single-uredinial isolates of puccinia triticina from 16 species of aegilops and triticum grown in experimental fields with natural inoculum in dagestan (caucasus region of russia) and novosibirsk (west siberian region of russia) and in an artificially inoculated field in shortandy (northern kazakhstan) was analyzed with 20 near-isogenic wheat differential lines. All isolates were avirulent to lr9, lr19, and lr24, and virulent to lr11, lr14a, lr17a, and lr30 genes. The p. Triticina isolates varied for virulence on resistance genes lr1, lr2a, lr2b, lr2n, lr3a, lr3bg, lr3ka, lr14b, lr15, lr16, lr18, lr20, and lr26. Forty virulence phenotypes of p. Triticina were identified, of which seven virulence phenotypes were shared by at least two hosts. The virulence analysis revealed differences between p. Triticina from diploid, tetraploid and hexaploid species of wheat. Collections from the hexaploid species in dagestan were more similar to those from common wheat. Isolates from tetraploid species were less virulent. Asian isolates (novosibirsk and northern kazakhstan) originating from common wheat and t. Dicoccum were more virulent than those from caucasus.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gultyaeva e, 2022, agriculture-basel; Cluster = 12;
+	Betweenness Centrality (BC) = 21.500;  Closeness Centrality (CC) = 0.002360; PageRank (PR) score = 0.011;
+	BC rank = 2; CC Rank = 3; PR rank = 4 
+
+                   	DOI :10.3390/agriculture12111957
+
+ABSTRACT:
+Yellow (stripe) rust, caused by puccinia striiformis f. Sp. Tritici (pst), is a major disease of common wheat worldwide. Disease epidemics in russia have been frequent and destructive, mostly in the north caucasus. However, over the last 5 years, the significance of pst has markedly increased in other russian regions. Therefore, the pst virulence diversity was investigated in triticum aestivum in six geographically distant regions of the european (north caucasus, north-west, low volga, central black earth region, and volga-vyatka) and asian (west siberia) parts of russia, with strongly different climates, environmental conditions, and growing wheat genotypes. Seventy-nine virulence pathotypes among 117 isolates were identified using the 12 avocet yr gene lines (yr1, yr5, yr6, yr7, yr8, yr9, yr10, yr15, yr17, yr24, yr27, and yrsp) and eight supplemental wheat differentials (heines vii, vilmorin 23, hybrid 46, strubes dickkopf, carstens v, suwon 92/omar, nord desprez, and heines peko). Only four pathotypes occurred in two or more regions. High variability was detected within pst populations from dagestan, central, north-west, and west siberia that postulated to form an intrapopulation subdivision of each of them into several subgroups. Most regional virulence groups of pathotypes were closely related, except for several small subgroups of pathotypes from west siberia, dagestan, north-west, and central european regions. All pst isolates were avirulent in lines with yr5, yr10, yr15, and yr24 genes. Virulence to yr17 was detected for several isolates of two pathotypes, one each from the north-west and low volga regions. Variation in virulence frequency was observed in other differential lines.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gultyaeva ei, 2017, russ j genet; Cluster = 12;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.001970; PageRank (PR) score = 0.014;
+	BC rank = 4; CC Rank = 4; PR rank = 3 
+
+                   	DOI :10.1134/S1022795417070031
+
+ABSTRACT:
+A collection of puccinia triticina isolates was characterized for polymorphism of microsatellite loci and estimated for their differentiation by geographic origin. The collection included 20 isolates from the ural region, 31 from west siberia, 53 from central europe, 32 from the northwest region, 32 from the volga region, and 40 from the north caucasus (24 from dagestan and 16 from krasnodar and stavropol). The studied isolates were represented by 65 virulence phenotypes. In the polymorphism analysis of 18 microsatellite loci, 69 genotypes were determined. The index values of genetic distances (fst, rst, kbc) between populations for microsatellite loci indicated differentiation of p. Triticina isolates according to geographical origin, and they were clustered into three groups: (1) asian, (2) european, and (3) north caucasian. The north caucasian isolates from krasnodar and stavropol regions were closer in similarity to european isolates than the dagestan ones. Current analysis confirmed the assumption made earlier on the basis of the virulence analysis about the existence of several geographic fungi populations in russia.
+
+
+-----------------------------------
+
+
+
+	Vertex name = magomedov nr, 2017, south russ-ecol dev; Cluster = 13;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.333330; PageRank (PR) score = 0.009;
+	BC rank = 1; CC Rank = 1; PR rank = 3 
+
+                   	DOI :10.18470/1992-1098-2017-2-171-179
+
+ABSTRACT:
+Aim. The aim of the research was to improve the elements of agro-technology for cultivating new high-yielding varieties of winter wheat under conditions of the plain zone irrigation depending on the doses and the terms of introducing mineral nitrogen-phosphorus fertilizers. Methods. Research was carried out on chestnut heavy loamy soils. Sampling of soils and plants, as well as agro-chemical properties of soils were determined according to standard generally accepted methods. Mathematical processing of data on the yield of cereals was carried out by analysis-of-variance method using computer technology. Results. Our studies showed that the most productive of the studied varieties was grom, which, on average for three years (2012-2015) gave a grain yield of 7.6 t/ha with nitrogen-phosphorus fertilizers introduced at a dose of n180p100 against 5.6 t/ha in a similar version to the control during sowing of the tanya variety. Vassa and sila varieties were also inferior to grom variety for yields, respectively, by 1.1 t/ha and 1.4 t / ha. It was also revealed that with the grom variety, when applying an increased dose of mineral fertilizers (n180p100), on average for three years, the best indicators were by the area of the leaf surface (63.6 thousand m(2)/ha), photosynthetic index of crops was 2765.6 thousand m(2)/ha and net productivity of photosynthesis was 6.3 g/m(2), day. For other varieties of winter wheat and doses of mineral fertilizers, these indicators were lower. Conclusion. In steady-state experiment, when studying the potential of new high-yielding varieties of winter wheat at different levels and times of introducing mineral nutrition, the grom variety showed the best yields.
+
+
+-----------------------------------
+
+
+
+	Vertex name = aytemirov aa, 2018, south russ-ecol dev; Cluster = 13;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.250000; PageRank (PR) score = 0.018;
+	BC rank = 3; CC Rank = 3; PR rank = 1 
+
+                   	DOI :10.18470/1992-1098-2018-2-144-155
+
+ABSTRACT:
+Aim. The aim of the research was to identify the effect of types of fertilizer on increasing soil fertility and corn yield of grain and sorghum in conditions of irrigation of the tersko-sulak subprovince. Methods. Carrying out some field experiments: conducting observations and laboratory tests, selection of soil and plant samples was carried out according to generally accepted methods: statistical processing of yield data was carried out by the method of variance analysis based on kirov federal state unitary enterprise and fsbsi dagestan agricultural research institute named after f.g. Kisriev. Results. Studies showed that in the post-harvest period after harvesting winter wheat, it is better to cultivate green manure with the presence of legumes. A valuable biological feature of them is the ability to absorb atmospheric nitrogen. The powerful root system of the seeding pea improves the physical properties of the soil, as well as microbiological activity. The most favorable conditions are created for the growth and development of maize and sorghum, after plowing of fertilizers in the stubble period in the conditions of irrigation of the tersko-sulak subprovince, by applying mineral fertilizers at a dose of n-150 p-75 k-75, seeding peas, manure (30 t / ha), in these cases, on average, over two years, the highest yield of maize was 5.6-5.7-5.5 t / ha and grain sorghum, respectively, 4.7-4.8-4.5 t / ha. Conclusion. For the first time, in conditions of irrigation of the tersko-sulak subprovince, were obtained the results on the effectiveness of different types of fertilizers introduced into the soil.
+
+
+-----------------------------------
+
+
+
+	Vertex name = teimurov sa, 2021, arid ecosyst; Cluster = 13;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.333330; PageRank (PR) score = 0.009;
+	BC rank = 2; CC Rank = 2; PR rank = 4 
+
+                   	DOI :10.1134/S2079096121030148
+
+ABSTRACT:
+The physical properties of plowed and fallow chestnut and meadow-chestnut soils were studied in the terek-sulak plain. It is shown that soil density depends both on the aggregate size and specific features of the soil formation process. In each particular case, this dependence is closely linked to the soil genesis and agricultural use. Analysis of the aggregate porosity estimated based on the percentage content of fractions shows that the major share of interaggregate porosity is attributed to large aggregates. The results can be extrapolated to other parts of the soil cover in the study area. On each studied site, an experimental soil profile cut was established, the morphological soil properties were described, and soil samples were taken layer by layer (cm) from horizons a, b-1, b-2, and c-1 (a(plow), arable layer) for chestnut soils and from horizons a, b-1, and c-1 for meadow-chestnut soils. The structure index was computed based on the the sifting data as the ratio between the sum of macroaggregates (0.25-10 mm in size) and the sum of aggregates with diameters of more than 10 mm and less than 0.25 mm. The porosity of aggregate fractions 7-5, 5-3, 3-2, 2-1, 1-0.5, and 0.5-0.25 mm in size was determined from randomly selected samples of the respective fractions. Mechanical sampling was used to ensure the random selection of samples for analysis. In all of studied soils, the porosity of aggregates of the same size decreases down the profile. The sharpest decrease is observed in large (7-5 mm) aggregates: their porosity drops from 37\% in horizon a to 31\% in horizon c-1. In small aggregates, this trend is manifested not so clearly. In chestnut soils, aggregate porosity gradually decreases with depth, while the minimum porosity in meadow-chestnut soils is observed in the b-1 and c-1 horizons. This pattern is manifested most clearly in aggregates 2-1 mm in size. However, the minimum aggregate porosity in horizon b-1 is pronounced quite clearly not only in the 2-1 mm fraction but also in all other fractions up to 7-5 mm in size. In the c-1 horizon, the aggregate porosity drops to almost identical values that are close to the computed close-packed porosity (a method involving mutual coupling of mineral particles in a clastic rock). Earlier studies have shown that aggregate porosity is closely linked to the soil composition, structure, and origin, as well as the general soil genesis that determines the fertility.
+
+
+-----------------------------------
+
+
+
+	Vertex name = aytemirov aa, 2017, south russ-ecol dev; Cluster = 13;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.250000; PageRank (PR) score = 0.018;
+	BC rank = 4; CC Rank = 4; PR rank = 2 
+
+                   	DOI :10.18470/1992-1098-2017-2-180-189
+
+ABSTRACT:
+Aim. The aim of the research is to substantiate the role of nutrients in increasing soil fertility which contribute to the growth of economic efficiency of the main spring corn crops for grain and grain sorghum in the linkages of crop rotation under conditions of irrigation of the tersko-sulak subprovince. Methods. Sampling of the soil and plants was carried out according to standard methods; statistical processing of yield data was carried out by the method of variance analysis using a standard method and computer program, thus based on the data obtained, the economic efficiency of the main spring corn crops for corn and grain sorghum was determined. Results. Studies (2015 - 2016) showed that the maximum net income was received during the growing season of corn for grain on options using a green mass of planting peas, amaranth, spring rapeseed, and winter wheat straw at the rate of 2 tons per hectare as well as mineral fertilizers of n150p75k75 treatment level, thus the net income amounted to 46.0 - 37.5 thousand rubles, respectively. While, with the cultivation of grain sorghum, the maximum net income was obtained on the variants of the green mass of amaranth, sowing peas, straw of winter wheat at the rate of 2 tons / ha, mineral fertilizers of n150p75k75 treatment level, thus the net income amounted to 58.9 - 44.1 thousand. Rub. Respectively. Conclusion. The cultivation of the main spring corn crops for grain and grain sorghum after the plowing of nutrients in the soil in the linkages of crop rotation under conditions of irrigation of the tersko-sulak subprovince proved to be profitable.
+
+
+-----------------------------------
+
+
+
+	Vertex name = caradus jr, 1996, genet resour crop evol; Cluster = 14;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.333330; PageRank (PR) score = 0.011;
+	BC rank = 1; CC Rank = 1; PR rank = 3 
+
+                   	DOI :10.1007/BF00126758
+
+ABSTRACT:
+White clover populations collected from the caucasus region and eastern turkey were compared with seven white clover cultivars in a moist, lowland, highly fertile environment. The caucasus collection came from 15 sites below 1000 m and 19 sites above 1000 m; all seven sites in turkey were above 1000 m. The populations were generally small leaved and except for those from low altitude sites in dagestan and azerbaijan populations were acyanogenic. None of the collected populations were significantly higher yielding than `grassland huia' in any season. However, several populations from the caucasus were higher yielding than `kent wild white' and similar to that of `grassland tahora.' Survival was poor with only four populations having more than 50\% of plants surviving after 18 months in this environment. High altitude caucasus populations were earlier flowering than low altitude populations, an adaptation to allow adequate seed set. There was a negative relationship between altitude of population origin and proportion of cyanogenic plants; and between altitude and both leaf size and canopy height. High incidence of no leaf mark (vv) was associated with populations from colder rather than warmer environments. Populations from sites with low rainfall were larger leaved and more upright than populations from wetter sites. Populations from severely grazed sites were less upright and less cyanogenic than populations from infrequently or nil defoliated sites.
+
+
+-----------------------------------
+
+
+
+	Vertex name = nasirovna at, 2018, proceedings of the international symposium engineering and earth sciences: applied and fundamental research (isees 2018); Cluster = 14;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.250000; PageRank (PR) score = 0.017;
+	BC rank = 3; CC Rank = 3; PR rank = 1 
+
+                   	DOI :10.1017/S146342361800035X
+
+ABSTRACT:
+The article presents the results of a study on the content of arsenic, lead, cadmium and mercury in water, soil and in plant products that are directly used by humans for nutrition. During four years of observation, water analysis demonstrates high arsenic concentrations. The arsenic content ranges from 0.033 to 0.048 mclkg versus 0.01 mac and exceeds almost 3.3-5 times. Lead content exceeds 10 times. In the course of the research, it was found that artesian water is the source of arsenic contamination of plant foods with arsenic. For many years, artesian water has been used by the population to irrigate cultivated plants. Arsenic is intensively accumulated by many plants: 9 out of 20 have its concentration above the maximum permissible. It was found that the most actively absorb and accumulate arsenic figs, potatoes and cucumber. The high content of lead is dominated in parsley, dill and watercress salad. All detected elements have a cumulative and toxic effect and are carcinogenic and belong to the first class of danger. Arsenic is a substance that has both carcinogenic and pronounced general toxic effects. With this in mind, scientists have identified correlations between oncological disease and the use of water containing elevated concentrations of arsenic as sources (alissa, ferns, 2011; gasanguseinava, 2010; 2018 putilova, 2006; ashurbekova et al., 2018). Comparison of the results of artesian water studies used in the terek-kumsky basin for domestic water supply, conducted earlier at the institute of geology, dsc of ras, and the results of our research show that the constant chemical composition of artesian water remains, the arsenic content exceeds the maximum permissible concentrations of who average 10.0 - 20.0 times, according to gost - an average of 1.8-2.0 times.
+
+
+-----------------------------------
+
+
+
+	Vertex name = rasulov sm, 2016, high temp; Cluster = 14;
+	Betweenness Centrality (BC) = 0.500;  Closeness Centrality (CC) = 0.333330; PageRank (PR) score = 0.011;
+	BC rank = 2; CC Rank = 2; PR rank = 4 
+
+                   	DOI :10.1134/S0018151X16020164
+
+ABSTRACT:
+The phase equilibria of immiscible binary systems (water-n-hexane, water-n-pentane) are investigated using a constant-volume piezometer. The measurements were performed under normal conditions, based on p,v,t,x-data obtained in the temperature range of 300-680 k, pressures up to 60 mpa, and in a wide range of densities. Based on the experimental data, we constructed phase diagrams in the p-t and t-x coordinates and determined the krichevskii parameters for the system of water-n-hexane near the critical point of the pure solvent.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ashurbekova tn, 2018, proceedings of the international symposium engineering and earth sciences: applied and fundamental research (isees 2018); Cluster = 14;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.250000; PageRank (PR) score = 0.017;
+	BC rank = 4; CC Rank = 4; PR rank = 2 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = kazenin k, 2023, j int migr integr; Cluster = 15;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = NaN; PageRank (PR) score = 0.002;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1007/s12134-021-00848-8
+
+ABSTRACT:
+This paper studies ethnic differences in the fertility of the descendants of migrants in a highly polyethnic region of russia, dagestan (north caucasus). That region gives a rather rare example of an urban population whose majority is formed by migrants and their second - and third-generation descendants of several ethnicities which differ in fertility in their rural places of origin. We take the opportunity to consider the key hypotheses on the fertility of the descendants of migrants in this rather non-standard setting. The central question we address is whether the ethnic differences in fertility observed among rural residents are also passed on to descendants of rural-to-urban migrants. Another question concerns the role of education in preserving vs. Weakening ethnic differences in fertility between descendants of migrants. We analyze the russian population census 2010 data on the region under study, running poisson models for the total number of children and logistic models for progressions to different parities. Our main conclusion is that ethnic differences in fertility remain significant among descendants of rural-to-urban migrants. Arguably, this supports the socialization hypothesis, because contacts between co-ethnics are intensive in the region and interethnic marriages are rather infrequent, which helps young urban people to adopt patterns of reproductive behavior typical for their ethnicity. Among highly educated women, however, the ethnic differences in fertility are weaker, which might be related to the ease in the departure of such women from fertility trajectories of their co-ethnics.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ozdemirov aa, 2023, south russ-ecol dev; Cluster = 16;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = NaN; PageRank (PR) score = 0.002;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.18470/1992-1098-2023-3-196-200
+
+ABSTRACT:
+Aim. The unique gene pool of indigenous breeds in the dagestan caucasus is threatened by the increasingly widespread use of commercial breeds, which in turn risks narrowing the genetic base necessary to increase and maintain existing genetic diversity. For this reason, our research aimed to study the polymorphism of the prl, pit-1, gh genes in red steppe and caucasian brown cattle raised in the conditions of dagestan. Methods. Genotyping of red steppe and caucasian brown cattle was carried out using pcr-rflp methods. Using these methods, genetic analysis was carried out and polymorphism of the prolactin, somatotropin and pituitary-specific transcription factor genes was studied. Results. As a result of the genotyping of an experimental group of red steppe cattle, it was found that the distribution of two alleles and three genotypes (pit-1a and pit-1b; pit-1aa, pit-1bb, pit-1ab) of the pit-1 gene has a specific character. The specificity of the allelic spectrum of the prl gene is expressed in the high (0.84) frequency of occurrence of the prla allele and low (0.16) frequency of the prlb allele. This is reflected in the presence of homo- and heterozygous genotypes with a frequency of occurrence of 73.0; 23.0; 4.0 \%, respectively. Conclusion. Applied genetic approaches to improve the productive and breed qualities of livestock, which are modern and based on a more complete analysis of the genetic diversity and genotype of the studied populations, contribute to the conservation of zoned breeds. At the same time, intrapopulation variability and good adaptability should ensure the sustainable development of dairy cattle breeding in various climatic zones.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ermilov sg, 2023, acarologia; Cluster = 17;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = NaN; PageRank (PR) score = 0.002;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.24349/131f-vr0l
+
+ABSTRACT:
+The supplementary description of the oribatid mite species discoppia (cylindroppia) cylindrica (perez-inigo, 1965) (oribatida, oppiidae) is presented, based on materials collected from deep layers of coastal sandy soils in the republic of dagestan, eastern caucasus. The morphology of exobothridial seta, gnathosoma and ovipositor, and the identification of leg setae and solenidia are given for the first time for this species. The revised generic diagnosis, identification key, distribution, and habitats of all known representatives of discoppia balogh, 1983 are presented. Some taxonomic nuances within discoppia are discussed, resulting in the following proposals: oppia bifidus bayoumi and al-khalifa, 1985 is a junior synonym of d. (C.) Cylindrica; oppia agricola fujikawa, 1982 is not synonym of d. (C.) Cylindrica and transferred to the genus microppia balogh, 1983; oppia tenuis hammer, 1958 is not representative of discoppia; discoppia (cylindroppia) rostroincisa subias and rodriguez, 1986 n. Stat. (Instead of the existing subspecies status). Together with d. (C.) Cylindrica, in the same samples, two rare oppiidae species were found: oxyoppia (oxyoppiella) minuscula hugo-coetzee, lotfollahi, abbasi-kalo and movahedzade, 1917 (known only from the open habitats in iran) is first recorded in russia; graptoppia (stenoppia) boucheri ermilov and frolov, 2021 (known from passalid beetles collected in ghana and gabon, west africa) is first found in the palaearctic. Both findings in dagestan are among the northernmost records of their semicosmopolitan subgenera.
