@@ -1,0 +1,632 @@
+"vertex" "cluster" "btw_centrality" "clos_centrality" "pagerank_centrality" "BC" "CC" "PR" "MD" "Paper" "DOI"
+"1" "guseynova za, 2023, south russ-ecol dev" 1 "212.033" 0.00427 0.00983 1 1 1 1 "GUSEYNOVA ZA, 2023, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2023-3-60-68"
+"2" "mazanaeva lf, 2020, russ j herpetol" 1 "  0.000" 0.00326 0.00943 2 2 2 2 "MAZANAEVA LF, 2020, RUSS J HERPETOL" "10.30906/1026-2296-2020-27-2-70-80"
+"3" "balamirzoev ma, 2008, eurasian soil sci" 1 "  0.000" 0.00326 0.00943 3 3 3 3 "BALAMIRZOEV MA, 2008, EURASIAN SOIL SCI" "10.1134/S1064229308060033"
+"4" "ryabogina n, 2019, quat int" 2 "75.508" 0.00426 0.00742 1 1 1 1 "RYABOGINA N, 2019, QUAT INT" "10.1016/j.quaint.2018.06.020"
+"5" "vilkov ev, 2011, arid ecosyst" 2 " 0.000" 0.00325 0.00358 2 2 2 2 "VILKOV EV, 2011, ARID ECOSYST" "10.1134/S2079096111020090"
+"6" "kaliszewska i, 2020, contemp islam" 3 "506.884" 0.00578 0.00809 1 1 20 2 "KALISZEWSKA I, 2020, CONTEMP ISLAM" "10.1007/s11562-019-00436-9"
+"7" "yemelianova gm, 2020, routledge handbook of the caucasus" 3 "328.122" 0.00503 0.01602 2 3 6 3 "YEMELIANOVA GM, 2020, ROUTLEDGE HANDBOOK OF THE CAUCASUS" ""
+"8" "shnirelman v, 2018, eur-asia stud" 3 "320.590" 0.00508 0.01311 3 2 10 3 "SHNIRELMAN V, 2018, EUR-ASIA STUD" "10.1080/09668136.2018.1487681"
+"9" "holland ec, 2010, communist post-communist stud" 3 " 76.473" 0.00442 0.0209 4 6 3 3.5 "HOLLAND EC, 2010, COMMUNIST POST-COMMUNIST STUD" "10.1016/j.postcomstud.2010.07.006"
+"10" "eldarov em, 2007, eurasian geogr econ" 3 " 46.279" 0.00485 0.01398 5 4 8 4.5 "ELDAROV EM, 2007, EURASIAN GEOGR ECON" "10.2747/1538-7216.48.2.226"
+"11" "o'loughlin j, 2011, eurasian geogr econ" 3 " 23.078" 0.00391 0.02314 7 18 2 5 "O'LOUGHLIN J, 2011, EURASIAN GEOGR ECON" "10.2747/1539-7216.52.5.596"
+"12" "souleimanov ea, 2018, ethnicities" 3 " 29.297" 0.00446 0.0129 6 5 11 5.5 "SOULEIMANOV EA, 2018, ETHNICITIES" "10.1177/1468796817700933"
+"13" "holland ec, 2012, cent asian surv" 3 " 12.340" 0.00392 0.01612 8 17 5 6.5 "HOLLAND EC, 2012, CENT ASIAN SURV" "10.1080/02634937.2012.739819"
+"14" "ratelle jf, 2017, terror polit violence" 3 "  7.522" 0.00426 0.01552 9 7 7 7 "RATELLE JF, 2017, TERROR POLIT VIOLENCE" "10.1080/09546553.2015.1005076"
+"15" "souleimanov e, 2015, osteuropa" 3 "  1.649" 0.0036 0.01972 11 21 4 7.5 "SOULEIMANOV E, 2015, OSTEUROPA" ""
+"16" "kessel ds, 2022, arid ecosyst" 4 "70.467" 0.00426 0.01082 1 1 1 1 "KESSEL DS, 2022, ARID ECOSYST" "10.1134/S2079096122030052"
+"17" "sadykova ga, 2023, arid ecosyst" 4 " 3.000" 0.00329 0.01033 2 3 2 2.5 "SADYKOVA GA, 2023, ARID ECOSYST" "10.1134/S2079096123040121"
+"18" "volobuev sv, 2021, south russ-ecol dev" 4 " 1.233" 0.0033 0.00603 3 2 3 3 "VOLOBUEV SV, 2021, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2021-3-68-80"
+"19" "petherbridge g, 2021, south russ-ecol dev-a" 5 "602.111" 0.00595 0.02682 2 2 3 2.5 "PETHERBRIDGE G, 2021, SOUTH RUSS-ECOL DEV-A" NA
+"20" "bulayeva kb, 2006, am j hum biol" 5 "935.642" 0.00676 0.026 1 1 4 2.5 "BULAYEVA KB, 2006, AM J HUM BIOL" "10.1002/ajhb.20531"
+"21" "karafet tm, 2016, j hum genet" 5 "275.288" 0.00546 0.02698 3 4 2 3.5 "KARAFET TM, 2016, J HUM GENET" "10.1038/jhg.2015.132"
+"22" "petherbridge g, 2022, south russ-ecol dev" 5 "198.578" 0.00562 0.02327 4 3 6 4.5 "PETHERBRIDGE G, 2022, SOUTH RUSS-ECOL DEV" "10.18470/1992-1098-2022-2-150-209"
+"23" "bulayeva k, 2012, turk psikiyatr derg" 5 " 93.471" 0.00526 0.01307 6 6 18 6 "BULAYEVA K, 2012, TURK PSIKIYATR DERG" ""
+"24" "bulaeva kb, 1996, genetika" 5 " 65.253" 0.00541 0.01206 7 5 20 6 "BULAEVA KB, 1996, GENETIKA" ""
+"25" "kurbatova ol, 2012, russ j genet" 5 "134.302" 0.00524 0.00958 5 7 24 6 "KURBATOVA OL, 2012, RUSS J GENET" "10.1134/S1022795412100043"
+"26" "bulayeva kb, 2011, cent eur j med" 5 " 53.258" 0.0051 0.01617 9 9 13 9 "BULAYEVA KB, 2011, CENT EUR J MED" "10.2478/s11536-011-0071-8"
+"27" "mirzaev kb, 2017, genet test mol biomark" 5 " 55.057" 0.00505 0.01082 8 12 22 10 "MIRZAEV KB, 2017, GENET TEST MOL BIOMARK" "10.1089/gtmb.2017.0036"
+"28" "bulayeva kb, 2002, russ j genet" 5 " 50.789" 0.00508 0.0094 10 10 25 10 "BULAYEVA KB, 2002, RUSS J GENET" "10.1023/A:1021107429746"
+"29" "gammer m, 2005, cent asian surv" 6 "361.965" 0.00588 0.01746 1 2 1 1.5 "GAMMER M, 2005, CENT ASIAN SURV" "10.1080/02634930500154701"
+"30" "sahakyan ne, 2022, muslim reformers and the bolsheviks: case of daghestan-a" 6 "239.433" 0.00599 0.01363 2 1 3 2.5 "SAHAKYAN NE, 2022, MUSLIM REFORMERS AND THE BOLSHEVIKS: CASE OF DAGHESTAN-A" NA
+"31" "gammer m, 2005, middle east stud" 6 " 63.761" 0.00546 0.01501 3 3 2 3 "GAMMER M, 2005, MIDDLE EAST STUD" "10.1080/00263200500261829"
+"32" "barrett tm, 1995, slavic rev" 6 "  0.637" 0.00535 0.00951 4 4 6 5 "BARRETT TM, 1995, SLAVIC REV" "10.2307/2501750"
+"33" "hewitt g, 1996, bull sch orient afr stud-univ london" 6 "  0.637" 0.00535 0.00951 5 5 12 5.5 "HEWITT G, 1996, BULL SCH ORIENT AFR STUD-UNIV LONDON" "10.1017/S0041977X0002886X"
+"34" "lambert a, 1995, j strateg stud" 6 "  0.637" 0.00535 0.00951 6 6 7 6 "LAMBERT A, 1995, J STRATEG STUD" "10.1080/01402399508437622"
+"35" "rhinelander a, 1995, int hist rev" 6 "  0.637" 0.00535 0.00951 7 7 13 7 "RHINELANDER A, 1995, INT HIST REV" ""
+"36" "lazzerini ej, 1995, russ rev" 6 "  0.637" 0.00535 0.00951 8 8 8 8 "LAZZERINI EJ, 1995, RUSS REV" "10.2307/131634"
+"37" "sidorko cp, 1999, jahrb gesch osteur" 6 "  0.077" 0.00532 0.0101 12 12 5 9 "SIDORKO CP, 1999, JAHRB GESCH OSTEUR" ""
+"38" "turi mt, 1996, historian" 6 "  0.637" 0.00535 0.00951 9 9 9 9 "TURI MT, 1996, HISTORIAN" ""
+"39" "daniel m, 2021, language" 7 "  0.374" 0.00418 0.01306 2 2 2 2 "DANIEL M, 2021, LANGUAGE" "10.1353/lan.2021.0046"
+"40" "dobrushina n, 2019, j multiling multicult develop" 7 "153.573" 0.00513 0.01165 1 1 3 2 "DOBRUSHINA N, 2019, J MULTILING MULTICULT DEVELOP" "10.1080/01434632.2018.1493113"
+"41" "dobrushina n, 2021, int j biling" 7 "  0.374" 0.00418 0.01399 3 3 1 3 "DOBRUSHINA N, 2021, INT J BILING" "10.1177/1367006920959717"
+"42" "dobrushina n, 2023, j socioling" 7 "  0.000" 0.00407 0.0083 4 4 4 4 "DOBRUSHINA N, 2023, J SOCIOLING" "10.1111/josl.12590"
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = guseynova za, 2023, south russ-ecol dev; Cluster = 1;
+	Betweenness Centrality (BC) = 212.033;  Closeness Centrality (CC) = 0.004270; PageRank (PR) score = 0.010;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.18470/1992-1098-2023-3-60-68
+
+ABSTRACT:
+Aim. Study of the structure of intra- and interpopulation variability of salvia canescens c.a. Mey. Along an altitudinal gradient. Material and methods. To study the morphological traits of salvia canescens, a generative shoot was used as a ``module''. In four geographically isolated populations of the species, one generative shoot from 30 individuals was taken. 11 signs were taken into account on the shoots. Statistical analysis of the obtained data was carried out using the statistica 5.5 program. The levels of variation were assessed according to g.m. Zaitsev. Results. The structure of intra- and interpopulation variability of s. Canescens, a characteristic representative of mountain-xerophyte vegetation and an endemic of the greater caucasus, was studied. According to the data obtained, the mean values of most of the studied traits of s. Canescens increase with altitude. The variability of the studied traits of the species, both intra- and interpopulation, has an average and high levels. Most of the traits of s. Canescens are positively correlated with each other at the p=0.05 level. All traits, except for the number of internodes and leaves, are in a positive significant correlation (p=0.001; p=0.01) with height above sea level. The results of one-way anova and regression analyses showed significant differences between populations for most traits of the generative shoot. The maximum differentiation of populations was noted according to the traits ``mass of stems'' and ``mass of inflorescences''. Conclusions. The intra- and interpopulation variability of the morphological traits of salvia canescens revealed along the altitudinal gradient is due to the ecological conditions of the species' habitat. The variability of the traits and the increase in the parameters of the generative sphere reflect the adaptation of the species along the altitudinal gradient.
+
+
+-----------------------------------
+
+
+
+	Vertex name = mazanaeva lf, 2020, russ j herpetol; Cluster = 1;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003260; PageRank (PR) score = 0.009;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.30906/1026-2296-2020-27-2-70-80
+
+ABSTRACT:
+Distribution and biotopic allocation of pseudopus apodus in republic of dagestan (north-eastern caucasus, russia) were studied. During multiple surveys in 2004 - 2018 in lowland and piedmont parts of the republic, 81 new localities were recorded. The majority of previously known records (33 from 36) were confirmed. The area of known range of p. Apodus is about 7467.4 km(2). It is about 15\% of territory of the republic. Such biotopic characteristics of p. Apodus as elevation range, various climatic and vegetation characters, soils, and syntopic herpetofauna were analyzed.
+
+
+-----------------------------------
+
+
+
+	Vertex name = balamirzoev ma, 2008, eurasian soil sci; Cluster = 1;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003260; PageRank (PR) score = 0.009;
+	BC rank = 3; CC Rank = 3; PR rank = 3 
+
+                   	DOI :10.1134/S1064229308060033
+
+ABSTRACT:
+Soil-agroecological zoning is based on the comprehensive landscape-genetic approach, which makes it possible to study each region of a particular taxonomic level both as a whole and as a combination of smaller heterogenic natural complexes comprising latitudinal and altitudinal natural belts. A map of soil-agroecological zoning of the dagestan republic has been developed on a scale of 1:200 000. The ecological status of the soil cover of the republic is analyzed, and measures for nature protection and rational land use are suggested.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ryabogina n, 2019, quat int; Cluster = 2;
+	Betweenness Centrality (BC) = 75.508;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.007;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1016/j.quaint.2018.06.020
+
+ABSTRACT:
+The mountainous dagestan region has a unique historical development, likely based in independent cereal domestication and terraced agriculture. However, there is little to no data on the nature and timing of environmental changes throughout the settlement history of this region. In contrast to the much studied neighboring caucasus regions, dagestan remains mostly unexplored from the standpoint of paleoecology. Here we present a detailed radiocarbon-dated 185 cm long pollen record from the shotota swamp located in the mountainous zone of the eastern caucasus (dagestan). Peat and soil deposits of the swamp span most of the holocene from the neolithic to the middle ages, and this study, for the first time, presents an analysis of holocene vegetation history and the populating of the eastern caucasus. Our analysis reveals three basic stages of transformation of natural conditions: a stage of predominantly warm and dry climate, open meadow and steppe landscapes of 9200-7300 bp associated with the neolithic period; a warm and humid climate of 7300-6000 bp which accompanied the appearance of deciduous forests in the chalcolithic period; and cooling and several phases of humidification oscillations with the constant rise of pine forests with 5000 bp, which are associated with the bronze age, early iron age and middle ages. With the data obtained on the dynamics of vegetation, we conducted a coupled analysis of climate dynamics, populating and economy in dagestan. The results of the study show significant discrepancies in the timing and sequence of the expansion of tree species in the holocene in comparison with transcaucasia and the western caucasus. Despite the low settlement density pollen results reveal signs of agricultural development in the khunzakh plateau in the chalcolithic, the late bronze age and the early iron age that are not documented in archaeological surveys and require further investigation.
+
+
+-----------------------------------
+
+
+
+	Vertex name = vilkov ev, 2011, arid ecosyst; Cluster = 2;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.003250; PageRank (PR) score = 0.004;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1134/S2079096111020090
+
+ABSTRACT:
+The species composition of winter avifauna in an arid province of intramountain dagestan, which integrates a transitive complex of birds inhabiting submountain and high-mountain areas of the republic, is studied. The dynamics of population density is determined, and peculiarities of spatial distribution of birds in five dominating types of landscapes (territorial units) are revealed.
+
+
+-----------------------------------
+
+
+
+	Vertex name = kaliszewska i, 2020, contemp islam; Cluster = 3;
+	Betweenness Centrality (BC) = 506.884;  Closeness Centrality (CC) = 0.005780; PageRank (PR) score = 0.008;
+	BC rank = 1; CC Rank = 1; PR rank = 20 
+
+                   	DOI :10.1007/s11562-019-00436-9
+
+ABSTRACT:
+Republic of daghestan is the most multiethnic and troublesome region in the russian federation. The social, religious and political landscape of this republic has radically changed over the last two decades. Daghestan appears in academic and analytical papers mostly in relation to terrorism or security issues. The everyday religiosity is, for the most part, out of the picture. This paper aims to fill the gap by focusing on everyday islam in this republic. It is intended as a contribution to the anthropology of islam and post-soviet area studies. What can we learn about the social changes in the given setting if we re-focus our attention from religious figures, organizations and institutions and drift towards the everyday perceptions and experiences of ordinary muslims, towards religiosity as embedded in everyday life but not within a clearly identifiable group? Religious life in daghestan is usually viewed through official categories of ``traditional islam'' and ``non-traditional islam'' the former equated with ``sufism'' the latter with ``wahhabism''. As will be clear from this paper these theology driven qualifiers are usually used in a secular sense, with no clear religious content attached to them. However, as a part of powerful discourses they affect religious life of ordinary muslims. How do they relate to these categories? In my paper i show how attitudes towards salafi-oriented muslims changed in daghestan between 2007 and 2017: they drifted from being informed by official categories to being informed by everyday experiences. I will also show how and in what contexts daghestani muslims engaged and played with the categories, bringing in some comparisons with late-socialism. Eventually, i will engage with the concept of ``everyday islam'' its potentials and limitations as an analytical category used for the analysis of social life in the north caucasus where an organized religious and political activity is limited and where the clearly identifiable groups are not those that are behind the most vital social changes. The paper is based on ethnographic fieldwork conducted between 2007 and 2017 among daghestani muslims in makhachkala and beyond.
+
+
+-----------------------------------
+
+
+
+	Vertex name = yemelianova gm, 2020, routledge handbook of the caucasus; Cluster = 3;
+	Betweenness Centrality (BC) = 328.122;  Closeness Centrality (CC) = 0.005030; PageRank (PR) score = 0.016;
+	BC rank = 2; CC Rank = 3; PR rank = 6 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = shnirelman v, 2018, eur-asia stud; Cluster = 3;
+	Betweenness Centrality (BC) = 320.590;  Closeness Centrality (CC) = 0.005080; PageRank (PR) score = 0.013;
+	BC rank = 3; CC Rank = 2; PR rank = 10 
+
+                   	DOI :10.1080/09668136.2018.1487681
+
+ABSTRACT:
+Dagestan is inhabited by numerous ethnic communities with their own languages, cultures and histories. However, despite its ethnic and cultural diversity, the republic's authorities have consistently sought to promote a unified concept of dagestani identity. This policy has been challenged by local ethnic nationalists concerned about the future of their ethnic communities, which they saw as being endangered by assimilation and marginalisation. This struggle to secure political and social benefits began in the soviet period and reached its height in the early 1990s. Resentment was particularly widespread among the kumyks and lezgins. Their dissatisfaction with the status quo resulted in a competition between inclusive (national) and exclusive (ethnic) approaches, which in turn manifested themselves in debates over historiography. This essay analyses the development and outcomes of this struggle from the 1950s through to the early 2000s, with an emphasis on the early 1990s.
+
+
+-----------------------------------
+
+
+
+	Vertex name = holland ec, 2010, communist post-communist stud; Cluster = 3;
+	Betweenness Centrality (BC) = 76.473;  Closeness Centrality (CC) = 0.004420; PageRank (PR) score = 0.021;
+	BC rank = 4; CC Rank = 6; PR rank = 3 
+
+                   	DOI :10.1016/j.postcomstud.2010.07.006
+
+ABSTRACT:
+Previous academic work on stability in dagestan has focused on two potential cleavages, the republics ethnic diversity and the challenge from radical islamist groups. Using results from a december 2005 survey, and focusing on dagestan's six main ethnic groups, this paper investigates attitudes towards the dual topics of the politicization of ethnicity and the relationship between terrorism and islamism. We find that dagestanis maintain layered conceptions of identity, and do not attribute violence predominantly to radical islam in the republic or the wider north caucasus. Scholars should be aware of rogers brubaker's concept of groupism in analyzing not just ethnic groups, but religious movements as well. (C) 2010 published by elsevier ltd on behalf of the regents of the university of california.
+
+
+-----------------------------------
+
+
+
+	Vertex name = eldarov em, 2007, eurasian geogr econ; Cluster = 3;
+	Betweenness Centrality (BC) = 46.279;  Closeness Centrality (CC) = 0.004850; PageRank (PR) score = 0.014;
+	BC rank = 5; CC Rank = 4; PR rank = 8 
+
+                   	DOI :10.2747/1538-7216.48.2.226
+
+ABSTRACT:
+This paper investigates migratory patterns in the north caucasian republic of dagestan. It relies on prior literature, both in russian and english, to establish the basic form of migration in the republic and recent census data to describe these patterns. The authors then analyze responses from a december 2005 survey of dagestani residents about their migration intentions to investigate the motivations underlying these patterns. The paper investigates the extent to which economic incentives vis-a-vis other traditional assumptions associated with migration theory maintain in the case of dagestan, and explores the impact of migration on interethnic relations in the republic.
+
+
+-----------------------------------
+
+
+
+	Vertex name = o'loughlin j, 2011, eurasian geogr econ; Cluster = 3;
+	Betweenness Centrality (BC) = 23.078;  Closeness Centrality (CC) = 0.003910; PageRank (PR) score = 0.023;
+	BC rank = 7; CC Rank = 18; PR rank = 2 
+
+                   	DOI :10.2747/1539-7216.52.5.596
+
+ABSTRACT:
+Three u. S. Geographers analyze the temporal and spatial trends of 17,438 violent events in russia's north caucasus region from august 1999 to july 2011, demonstrating that the diffusion of conflict away from chechnya intensified during the period 2007-2011, as levels of violence rose in neighboring republics. An increasing number of casualties are civilians in dagestan, ingushetia, and kabardino-balkaria, the three republics that are the focus of the paper. Employing multiple methods of spatial pattern analysis and geographically sensitive regression models, the authors examine the spatial fragmentation of violence from the perspective of rebel groups operating in the three republics. The analysis documents how the incidence of violence varies dramatically over space (i.e., reflecting the influence of urbanization, strategic location, and physical geographic factors such as elevation and extent of forest cover). Although violence in the north caucasus region as a whole has declined in absolute terms over the past four years, the authors show how new geographies of violence are developing in the region, underscoring the emergence of republic-based insurgent operations against the various organs of the russian state. Journal of economic literature, classification numbers: h560, h770, o180. 9 figures, 3 tables, 1 appendix, 103 references:
+
+
+-----------------------------------
+
+
+
+	Vertex name = souleimanov ea, 2018, ethnicities; Cluster = 3;
+	Betweenness Centrality (BC) = 29.297;  Closeness Centrality (CC) = 0.004460; PageRank (PR) score = 0.013;
+	BC rank = 6; CC Rank = 5; PR rank = 11 
+
+                   	DOI :10.1177/1468796817700933
+
+ABSTRACT:
+Drawing on unique interviews with former jihadists from russia's autonomous republic of dagestan, this article is the first to examine the impact of ethnicity on jihadist groups' methods of organization and operations, primarily in terms of their target selection, local support, and recruitment and leadership policies. It distinguishes between largely monoethnic rural jamaatsor jihadist groupsand multiethnic urban jamaats, pointing to the contested nature of ethnicity, particularly in the latter group. It examines the steps taken by the leadership of urban jamaats to overcome ethnic cleavages and avoid interethnic tension both within the jihadists' ranks and with regard to the local population. The article illustrates that, as a divisive phenomenon in multiethnic urban jamaats, ethnic identity has been deliberately downplayed by the leadership of these groups at the expense of strengthening supra-ethnic salafi-jihadist identity. The article also highlights the significance of ethnic identity in jihadist groups, in spite of it being contradictory to salafi-jihadist doctrine.
+
+
+-----------------------------------
+
+
+
+	Vertex name = holland ec, 2012, cent asian surv; Cluster = 3;
+	Betweenness Centrality (BC) = 12.340;  Closeness Centrality (CC) = 0.003920; PageRank (PR) score = 0.016;
+	BC rank = 8; CC Rank = 17; PR rank = 5 
+
+                   	DOI :10.1080/02634937.2012.739819
+
+ABSTRACT:
+This article addresses temporary labour migration - known in russian as otkhodnichestvo (going away on foot) - from the russian republic of dagestan. The discussion is situated within reviews of current work on migration in the former soviet union, push-pull factors determining migration behaviour in the north caucasus, and the historical importance of otkhodnichestvo in imperial russia and the ussr. The paper then turns to the results of a census conducted in summer 2006, which found that most migrants come from dagestan's mountainous southwest, frequently obtain work at locations characterized by economic growth and high pay, and rely on ethnic or communal networks as a basis for choosing employment sector and destination when searching for work.
+
+
+-----------------------------------
+
+
+
+	Vertex name = ratelle jf, 2017, terror polit violence; Cluster = 3;
+	Betweenness Centrality (BC) = 7.522;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.016;
+	BC rank = 9; CC Rank = 7; PR rank = 7 
+
+                   	DOI :10.1080/09546553.2015.1005076
+
+ABSTRACT:
+This article posits that the remnants of archaic sociocultural norms, particularly the honour-imposed custom of retaliation, play a crucial role in the process of insurgent engagement in russia's autonomous republic of dagestan. Through a series of interviews with former insurgents, this study outlines two retaliation-centred mechanisms: individual retaliation and spiritual retaliation in order to explain the microcosm of motives behind insurgent activity in dagestan. In doing so, this study problematizes the role of salafi/jihadist ideology as the main impetus for insurgent violence. Reversing the traditional causal link between violence and religion, this study also demonstrates that the development of jihadist ideology is a by-product of insurgent mobilization rather than its cause.
+
+
+-----------------------------------
+
+
+
+	Vertex name = souleimanov e, 2015, osteuropa; Cluster = 3;
+	Betweenness Centrality (BC) = 1.649;  Closeness Centrality (CC) = 0.003600; PageRank (PR) score = 0.020;
+	BC rank = 11; CC Rank = 21; PR rank = 4 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = kessel ds, 2022, arid ecosyst; Cluster = 4;
+	Betweenness Centrality (BC) = 70.467;  Closeness Centrality (CC) = 0.004260; PageRank (PR) score = 0.011;
+	BC rank = 1; CC Rank = 1; PR rank = 1 
+
+                   	DOI :10.1134/S2079096122030052
+
+ABSTRACT:
+The results of analysis and comparison of cenofloras of birch trees (betula litwinowii doluch., b. Raddeana trautv) and pine (pinus kochiana klotsch ex g. Koch.) Trees of the forests of the gunib plateau (intramontane limestone dagestan) are presented. The forests on the plateau are mainly confined to the northern, northeastern, and northwestern slopes; they are found at altitudes of 1400-2170 m above sea level. The analysis was carried out on the basis of data from field studies in 2011-2013 and 2018-2020 of 53 standard geobotanical descriptions. During the collection of the material the task was to reflect the diversity of the communities of birch and pine forests of the gunib plateau as fully as possible. The species composition of vascular plants of birch (251 species) and pine (226 species) forests was revealed. The spectra of the leading families of both coenofloras belonging to the rosaceae type, which are characteristic of the central european group of floras, have been compared. The leading six families account for 50\% of birch and pine forest cenoflora species (129 and 113 species, respectively); 130 species are common for communities of both birch and pine forests. The species composition of the dominants and codominants of the grass-shrub layer of birch and pine forests was analyzed. The communities of both formations occupy similar ecotopes; in most cases, the same species are the dominants and codominants of the herbaceous-shrub layer. At the same time, species have been identified that play a significant role in the communities of only one of the considered formations. The ratio of florocenoelements in the grass-shrub layer of birch and pine forests was determined. Species of the meadow florocenotype predominate in the cenofloras of the studied formations of the gunib plateau. At the same time, species characteristic of meadows, including subalpine and alpine ones, are less common in birch (57\%) forests than in pine forests (64\%). A greater number of species belonging to the forest cenotype grow in birch forests: 29\% of the forest species of the total number of species grow in birch forests while 21\% grow in pine forests. As well, a smaller number of ruderal species (2.5\%) were found in birch forests than in pine forests (4.5\%). In our opinion, one of the reasons for this ratio of species of forest, meadow, and ruderal florocenotypes in the cenofloras of birch and pine forests is the peculiarities of the renewal of these forest-forming species on the gunib plateau. This analysis made it possible to reveal differences in the habitats occupied by birch and pine forests on the territory of the gunib plateau at extreme values of light and moisture.
+
+
+-----------------------------------
+
+
+
+	Vertex name = sadykova ga, 2023, arid ecosyst; Cluster = 4;
+	Betweenness Centrality (BC) = 3.000;  Closeness Centrality (CC) = 0.003290; PageRank (PR) score = 0.010;
+	BC rank = 2; CC Rank = 3; PR rank = 2 
+
+                   	DOI :10.1134/S2079096123040121
+
+ABSTRACT:
+The results of the analysis of the flora of paliurus communities of piedmont dagestan from the extreme southern site (the spurs of the main caucasian ridge near the village of novoe karakyure) to the extreme northern site of their growth at the boundary with the chechen republic (kizilyurt district, the vicinity of the villages of mutsal-aul and gadari) are given. The floristic composition of plant communities is studied on the basis of 17 geobotanical descriptions. The taxonomic analysis of the flora has been performed and the spectrum of the leading families, poaceae, asteraceae, lamiaceae, and fabaceae (po-as-la + fa spectrum), typical for the central asian type with a significant effect of the mediterranean flora has been revealed. The biomorphological analysis shows the predominance of hemicryptophytes (45.4\%) and therophytes (33\%). The latter are an indicator of arid conditions and anthropogenic impacts on cenoses. Geographical analysis reveals the predominance of species of the boreal (30.4\%) and the ancient mediterranean (27\%) types and shows the position of the region at the contact of the boreal and xerophilous vegetation types. It reflects the development of the flora at the boundary between the euro-siberian and iranian-turanian regions, followed by the penetration of the western asian flora, which is typical for the caucasus. We suppose that the paliurus communities of piedmont dagestan are primary based on the results of floristic studies, on the xerophytic composition of species in the shrub layer, and on the absence or single participation of species of the genus quercus in the group of paliuretagraminosa associations and the paliuretum ass. (Tarki-tau mountain near makhachkala) and in the group of the paliuretabryosa ass. And the paliuretum bryosum ass. (Beyukdere ridge, tabasaran district). We also take into account the long-term stability (5000-6000 years according to published data) of the geoclimate conditions of the area. Individual trees of the genus quercus and of ulmus campestris in piedmont communities of paliurus, in our opinion, are not preserved representatives of the previously expanded tree flora of oak forests. Communities with paliurus spina-christi grow here in the lower belt of mountain slopes, border on oak forests, and are the result of an ecotone effect, when accidentally brought oak seeds may grow under optimal ecological conditions of the microniche together with p. Spina-christi. Forest boundaries and the altitude of ecotone plots depend on slope steepness and aspect. In a broader spatial-temporal aspect, the change in the altitude gradient of the boundaries of paliurus communities and of forests dominated by quercus and ulmus campestris in piedmont dagestan depends on changes in aridization or humidization climate trends.
+
+
+-----------------------------------
+
+
+
+	Vertex name = volobuev sv, 2021, south russ-ecol dev; Cluster = 4;
+	Betweenness Centrality (BC) = 1.233;  Closeness Centrality (CC) = 0.003300; PageRank (PR) score = 0.006;
+	BC rank = 3; CC Rank = 2; PR rank = 3 
+
+                   	DOI :10.18470/1992-1098-2021-3-68-80
+
+ABSTRACT:
+Aim. Polypores are an integral part of forest ecosystems, but to date there is no sufficient information on diversity and ecology of this group of basidiomycetes in many mountain areas. The aim of this study is to reveal species composition and characterize substrate preferences of poroid fungi of the gunib plateau (the republic of dagestan, northeast caucasus, russia). Material and methods. All fungal specimens were collected by the authors during field surveys in 2018-2020, which were carried out within pine, birch, hornbeam, alder, aspen, and mixed forests as well as juniper woodlands. The identification of fungi was performed predominantly by a light microscopy techniques, but also by an analysis of the its1-5.8s-its2 nrdna to verify specimens from postia caesia-species complex. Results. A total of 73 species of poroid fungi from 43 genera and 7 orders of the class agaricomycetes (basidiomycota) have been identified in the territory of the gunib plateau within the upper gunib nature park. Among them, there are 29 new species for the republic of dagestan, of which 11 species are cited for the caucasus for the first time. An annotated species list with detailed information on substrata, habitats, localities, and links to herbarium specimens (le) is provided. Conclusion. The revealed species richness of polypores has expanded the current knowledge on the mycobiota of the gunib plateau and its links with plant communities. The range of leading genera (antrodia s. L., ceriporia, gloeophyllum, phellinus s. L., postia, trometes s. L.) Is characteristic of the boreal zone and determined by the predominance of pinus kochiana forests in the surveyed area.
+
+
+-----------------------------------
+
+
+
+	Vertex name = petherbridge g, 2021, south russ-ecol dev-a; Cluster = 5;
+	Betweenness Centrality (BC) = 602.111;  Closeness Centrality (CC) = 0.005950; PageRank (PR) score = 0.027;
+	BC rank = 2; CC Rank = 2; PR rank = 3 
+
+                   	DOI :NA
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = bulayeva kb, 2006, am j hum biol; Cluster = 5;
+	Betweenness Centrality (BC) = 935.642;  Closeness Centrality (CC) = 0.006760; PageRank (PR) score = 0.026;
+	BC rank = 1; CC Rank = 1; PR rank = 4 
+
+                   	DOI :10.1002/ajhb.20531
+
+ABSTRACT:
+Autosomal short-tandem repeats (strs) were typed in ethnic populations of kubachians, dargins, avars, lezgins, kumiks, and nogais of the caucasus (daghestan, russia) at the university of utah. Daghestan ethnic populations demonstrated differences in str allele frequency distributions, but these differences were much lower among these ethnic groups compared to worldwide ethnic groups. The observed genetic diversity was low while fst values were high, both of which provided supporting evidence for small population sizes and high levels of isolation among the ethnic groups. An analysis of genetic distance from the three major continents, encompassing daghestan populations and groups, reveals three distinct clusters: all populations of african affiliation, european and daghestan populations except the nogais, and asian populations with ethnic nogais.
+
+
+-----------------------------------
+
+
+
+	Vertex name = karafet tm, 2016, j hum genet; Cluster = 5;
+	Betweenness Centrality (BC) = 275.288;  Closeness Centrality (CC) = 0.005460; PageRank (PR) score = 0.027;
+	BC rank = 3; CC Rank = 4; PR rank = 2 
+
+                   	DOI :10.1038/jhg.2015.132
+
+ABSTRACT:
+As a result of the combination of great linguistic and cultural diversity, the highland populations of daghestan present an excellent opportunity to test the hypothesis of language-gene coevolution at a fine geographic scale. However, previous genetic studies generally have been restricted to uniparental markers and have not included many of the key populations of the region. To improve our understanding of the genetic structure of daghestani populations and to investigate possible correlations between genetic and linguistic variation, we analyzed similar to 550 000 autosomal single nucleotide polymorphisms, phylogenetically informative y chromosome markers and mtdna haplotypes in 21 ethnic daghestani groups. We found high levels of population structure in daghestan consistent with the hypothesis of long-term isolation among populations of the highland caucasus. Highland daghestani populations exhibit extremely high levels of between-population diversity for all genetic systems tested, leading to some of the highest f-st values observed for any region of the world. In addition, we find a significant positive correlation between gene and language diversity, suggesting that these two aspects of human diversity have coevolved as a result of historical patterns of social interaction among highland farmers at the community level. Finally, our data are consistent with the hypothesis that most daghestanian-speaking groups descend from a common ancestral population (similar to 6000-6500 years ago) that spread to the caucasus by demic diffusion followed by population fragmentation and low levels of gene flow.
+
+
+-----------------------------------
+
+
+
+	Vertex name = petherbridge g, 2022, south russ-ecol dev; Cluster = 5;
+	Betweenness Centrality (BC) = 198.578;  Closeness Centrality (CC) = 0.005620; PageRank (PR) score = 0.023;
+	BC rank = 4; CC Rank = 3; PR rank = 6 
+
+                   	DOI :10.18470/1992-1098-2022-2-150-209
+
+ABSTRACT:
+Aim. Following the discovery of a number of iconographically unique masonry petroglyphs depicting a red deer solar stag (i.e. Bearing the sun between its antlers) in settlements of the chamalal ethno-linguistic group in the upper andiiskoe koisu region of the tsumadinskiy district of dagestan, the aim of the research has been: (1) to survey the region to ascertain whether other images of this nature existed and to understand the relationship of the corpus to other petroglyphs produced within the avar-ando-dido metacultural zone and of neighbouring ethnic groups in the caucasus; (2) to study the evolution and meaning to the community of the petroglyphic imagery and (3) to understand the mechanisms by which peoples of the caucasus shared and adapted polytheistic belief systems arising from the deep past following their conversion to christianity and islam.materials and methods. Research activities involved field surveys of traditional buildings within the ethno-linguistic enclaves of the upper andiiskoe koisu which might contain masonry petroglyphs and their photographic documentation. A thorough survey of the scientific literature impacting on this field in the caucasus was undertaken in the libraries and institutions of dagestan, moscow and saint petersburg. This data added to the documentation of masonry petroglyphs already undertaken in the gidatli communities of the upper avarskoe koisu region.results. Field surveys resulted in the discovery of more petroglyphs of the solar stag iconography both within chamalal territory and that of the neighbouring tindals as well as other petroglyphs of interest in neighbouring republics of the north caucasus. A socio-ecological assessment of local habitats which might have sustained both red deer and bezoar goat (the principal game animals since human presence in the region) indicated that the bezoar goat inhabited the territories of both groups but were now rarely found in chamalal lands. While red deer did inhabit the forests of the tindals, it appears that they never frequented those of the chamalals, who must have travelled to hunt them in forests further to the south. Conclusion. The research confirmed the presence of a unique corpus of petroglyphic imagery attesting to beliefs in a solar stag which may date back to period of man's re-inhabiting the upper andiiskoe koisu region in the early holocene. Indigenous beliefs relating both to the red deer and the bezoar goat initially represented in rock face petroglyphs of the eastern dagestan piedmonts and rock paintings of the mountainous regions were by the late bronze age represented on masonry blocks used in building in the avar-ando-dido metacultural zone. As christianity spread in transcaucasia and the great caucasus range, including north-western dagestan, indigenous images representing the solar stag were conflated with those of the popular christian cult of the miracle of saint eustace, resulting in the unique petroglyphs of the solar stag common to the chamalals, tindals and the communities of the gidatli area of the avarskoe koisu basin.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bulayeva k, 2012, turk psikiyatr derg; Cluster = 5;
+	Betweenness Centrality (BC) = 93.471;  Closeness Centrality (CC) = 0.005260; PageRank (PR) score = 0.013;
+	BC rank = 6; CC Rank = 6; PR rank = 18 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = bulaeva kb, 1996, genetika; Cluster = 5;
+	Betweenness Centrality (BC) = 65.253;  Closeness Centrality (CC) = 0.005410; PageRank (PR) score = 0.012;
+	BC rank = 7; CC Rank = 5; PR rank = 20 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = kurbatova ol, 2012, russ j genet; Cluster = 5;
+	Betweenness Centrality (BC) = 134.302;  Closeness Centrality (CC) = 0.005240; PageRank (PR) score = 0.010;
+	BC rank = 5; CC Rank = 7; PR rank = 24 
+
+                   	DOI :10.1134/S1022795412100043
+
+ABSTRACT:
+Using the 2002 all-russian population census data, the parameters of differential fertility as a component of natural selection (crow's indices) have been calculated for women of seven age cohorts of the seven most numerous ethnic groups of the republic of dagestan. It has been shown that in the population of dagestan in the second half of the 20th century the intensities of two types of selection tended to decrease, viz., intragroup selection relaxed in each ethnic group due to considerable reduction of interfamily variance in fertility and intergroup selection relaxed due to reduction of interethnic differences in fertility. A reduction of the average number of offspring (k) was observed in all ethnic groups, suggesting the spread of birth regulation practices (abortion and contraception). Nevertheless, all muslim groups (aboriginal dagestan ethnic groups and azerbaijanis) are still characterized by an extended pattern of reproduction (2.7 < k < 3.3); in russians k = 2.1. Interethnic differentials in natural reproduction rates, along with migration processes, account for the dynamics of the ethnic composition and gene-pool structure of the population of the republic of dagestan.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bulayeva kb, 2011, cent eur j med; Cluster = 5;
+	Betweenness Centrality (BC) = 53.258;  Closeness Centrality (CC) = 0.005100; PageRank (PR) score = 0.016;
+	BC rank = 9; CC Rank = 9; PR rank = 13 
+
+                   	DOI :10.2478/s11536-011-0071-8
+
+ABSTRACT:
+We conducted a 10-cm genome-wide linkage scan in two extended pedigrees, ascertained from two diverse dagestan genetic isolates with high aggregation of major depressive disorder (mdd) and suicides. Using genome wide multipoint parametric linkage analyses with short tandem repeat markers, we found two previously undetected genomic regions with significant linkage in isolate \#6007 with lods=3.1-3.4 at 2p13.2-p11.2 (and some signal in same region for \#6008) and in 14q31.12-q32.13. We also obtained suggestive evidence for linkage with mdd at 9q33.3-q34.2 (\#6008), 13q31.1-q31.2(\#6007), 11p15(\#6008), 17q25.3(\#6007) and 19q13.31-q13.33 (\#6008). Five regions (1p36.1-p35.2, 2p13.2-p11.2, 17q25.3, 18q22 and 22q12.3) demonstrated at least nominal linkage in both isolates' pedigrees, while all other linkage regions demonstrated population-specific genetic heterogeneity.
+
+
+-----------------------------------
+
+
+
+	Vertex name = mirzaev kb, 2017, genet test mol biomark; Cluster = 5;
+	Betweenness Centrality (BC) = 55.057;  Closeness Centrality (CC) = 0.005050; PageRank (PR) score = 0.011;
+	BC rank = 8; CC Rank = 12; PR rank = 22 
+
+                   	DOI :10.1089/gtmb.2017.0036
+
+ABSTRACT:
+Aim: the objective of this study was to investigate the prevalence of polymorphic markers of the cyp2c19, cyp2c9, cyp2d6, slco1b1, and abcb1 genes among the three ethnic groups in dagestan and compare it with the carrier frequency of these markers among the russian population living in moscow. Methods: the study involved 186 healthy, unrelated, and chronic medication-free volunteers (53 males and 133 females) of the three ethnic groups in the dagestan republic: 46 laks, 90 avars, and 50 dargins. Genotyping was performed using real-time polymerase chain reaction-based methods. The allelic prevalences of the three dagestan peoples were compared with ethnic russians from the moscow region. Results: statistically significant differences for the following gene polymorphisms: cyp2c19*17, cyp2c9*3, abcb1 (c3435t), slco1b1*5 were found between the russian population and the three ethnic groups of the dagestan republic. Conclusion: the data obtained from this study will help with prioritization genotyping in the region.
+
+
+-----------------------------------
+
+
+
+	Vertex name = bulayeva kb, 2002, russ j genet; Cluster = 5;
+	Betweenness Centrality (BC) = 50.789;  Closeness Centrality (CC) = 0.005080; PageRank (PR) score = 0.009;
+	BC rank = 10; CC Rank = 10; PR rank = 25 
+
+                   	DOI :10.1023/A:1021107429746
+
+ABSTRACT:
+Original results of the analysis of genetic linkage between some genomic markers and two complex clinical phenotypes, schizophrenia and mental retardation, in pedigrees from daghestan genetic isolates are described. Interpopulation differences in the epidemiology of the complex phenotypes were studied and in their genetic linkage was demonstrated. These differences are evidently related to the genetic structure of the isolates determined by their demographic history. The epidemiological index mr characterizing the lifetime morbid risk of schizophrenia varies in the daghestan isolates studied from 0 to 4.95\%, which is almost five times higher than the average worldwide population rate, 1\%. Comparative genetic mapping in different isolates permitted determination of the most probable genetic linkages and associations of loci in chromosomal regions 17p11.1-12, 3q13.3, and a locus from 22q with schizophrenia and locus 12q23 with mental retardation. There is evidence that this approach is effective for detailed study of the relationship between the genetic (allele and locus) and clinical heterogeneity of complex diseases, which favors successful identification of the genes determining them. The study of linkage disequilibrium (ld) in genetic isolates of daghestan ethnic populations (which have a common genetic background) may be an effective methodological approach for revealing the numerous contradictory results of mapping of genes of the same complex disease performed by different researchers in different regions of the world.
+
+
+-----------------------------------
+
+
+
+	Vertex name = gammer m, 2005, cent asian surv; Cluster = 6;
+	Betweenness Centrality (BC) = 361.965;  Closeness Centrality (CC) = 0.005880; PageRank (PR) score = 0.017;
+	BC rank = 1; CC Rank = 2; PR rank = 1 
+
+                   	DOI :10.1080/02634930500154701
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = sahakyan ne, 2022, muslim reformers and the bolsheviks: case of daghestan-a; Cluster = 6;
+	Betweenness Centrality (BC) = 239.433;  Closeness Centrality (CC) = 0.005990; PageRank (PR) score = 0.014;
+	BC rank = 2; CC Rank = 1; PR rank = 3 
+
+                   	DOI :NA
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = gammer m, 2005, middle east stud; Cluster = 6;
+	Betweenness Centrality (BC) = 63.761;  Closeness Centrality (CC) = 0.005460; PageRank (PR) score = 0.015;
+	BC rank = 3; CC Rank = 3; PR rank = 2 
+
+                   	DOI :10.1080/00263200500261829
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = barrett tm, 1995, slavic rev; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 4; CC Rank = 4; PR rank = 6 
+
+                   	DOI :10.2307/2501750
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = hewitt g, 1996, bull sch orient afr stud-univ london; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 5; CC Rank = 5; PR rank = 12 
+
+                   	DOI :10.1017/S0041977X0002886X
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = lambert a, 1995, j strateg stud; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 6; CC Rank = 6; PR rank = 7 
+
+                   	DOI :10.1080/01402399508437622
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = rhinelander a, 1995, int hist rev; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 7; CC Rank = 7; PR rank = 13 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = lazzerini ej, 1995, russ rev; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 8; CC Rank = 8; PR rank = 8 
+
+                   	DOI :10.2307/131634
+
+ABSTRACT:
+NA
+
+
+-----------------------------------
+
+
+
+	Vertex name = sidorko cp, 1999, jahrb gesch osteur; Cluster = 6;
+	Betweenness Centrality (BC) = 0.077;  Closeness Centrality (CC) = 0.005320; PageRank (PR) score = 0.010;
+	BC rank = 12; CC Rank = 12; PR rank = 5 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = turi mt, 1996, historian; Cluster = 6;
+	Betweenness Centrality (BC) = 0.637;  Closeness Centrality (CC) = 0.005350; PageRank (PR) score = 0.010;
+	BC rank = 9; CC Rank = 9; PR rank = 9 
+
+                   	DOI :
+
+ABSTRACT:
+
+
+
+-----------------------------------
+
+
+
+	Vertex name = daniel m, 2021, language; Cluster = 7;
+	Betweenness Centrality (BC) = 0.374;  Closeness Centrality (CC) = 0.004180; PageRank (PR) score = 0.013;
+	BC rank = 2; CC Rank = 2; PR rank = 2 
+
+                   	DOI :10.1353/lan.2021.0046
+
+ABSTRACT:
+This article looks at the correlation between the use of a langugage as l2 and the amount of lexical material borrowed from it. Our data come from the highlands of daghestan. By matching loanword counts with data on multilingualism, the study quantitatively supports the suggestion that lexical borrowing from a lingua franca is more intense than from other languages in a multilingual repertoire (brown 1996, 2011). Brown hypothesizes that the importance of lingua francas as lexical donors is linked to a high rate of bilingualism. In our data. Knowledge of languages other than the lingua franca was high at some locations but did not lead to substantial borrowing. We discuss the social conditions of a lingua franca that make it a likely donor. Among other factors, a lingua franca might not be as strongly associated with an ethnic identity as languages that are used only in communicating with l1 speakers of that language, and lexical borrowing from it does not threaten anyone's identity (cf. Epps 2018, vaughan 2019).*
+
+
+-----------------------------------
+
+
+
+	Vertex name = dobrushina n, 2019, j multiling multicult develop; Cluster = 7;
+	Betweenness Centrality (BC) = 153.573;  Closeness Centrality (CC) = 0.005130; PageRank (PR) score = 0.012;
+	BC rank = 1; CC Rank = 1; PR rank = 3 
+
+                   	DOI :10.1080/01434632.2018.1493113
+
+ABSTRACT:
+The paper traces the level of bilingualism in several highland villages of daghestan (northeast caucasus) through the twentieth century. We show that historically, men were more multilingual than women, but this was not true to the same extent for all languages. Highlanders' repertoires suggest a correlation between the social function of the second language and the degree to which its command was gendered. We also explore the dynamics of multilingualism from the generation born at the end of the nineteenth century to the generation born in the 1990s. We show that during the twentieth century local l2s were gradually displaced by russian, and daghestanian multilingualism lost its gendered character. We argue that these changes were caused by the introduction of soviet schooling.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dobrushina n, 2021, int j biling; Cluster = 7;
+	Betweenness Centrality (BC) = 0.374;  Closeness Centrality (CC) = 0.004180; PageRank (PR) score = 0.014;
+	BC rank = 3; CC Rank = 3; PR rank = 1 
+
+                   	DOI :10.1177/1367006920959717
+
+ABSTRACT:
+Aims and objectives: in dagestan, russian is the language of education, urban way of life, and upward social mobility, and the means of communication between speakers of different languages. This is a result of a quick and drastic change. At the end of the 19th century, russian was spoken by less than 1\% of the population. The aim of this paper is to understand how such rapid spread of russian as an l2 became possible. Approach: the study uses quantitative data on dagestanians' language repertoires. We relate the command of russian to certain facts from people's biographies, such as the level of education, migration, warfare and military service, and other professional experience, and run regression analysis. Data and analysis: the data were collected by the method of retrospective family interviews during numerous field trips to highland dagestan. We use information on 3519 individuals collected in 27 villages. Findings/conclusions: we conclude that the compulsory school education introduced in dagestan in the 1930s is the social mechanism that resulted in the spread of russian and its later development into a lingua franca. Russian was imposed from above and supported by the ideology that associated it with future and progress. Originality: this is the first attempt to apply quantitative methods to a large collection of field data to reveal social mechanisms underlying the spread of a single l2 instead of local bilingualism. Significance/implications: the spread of one lingua franca across a large territory is attested in many areas. We suppose that lingua francas of different origin result from different constellations of social factors and show that in dagestan lingua franca was imposed by the authorities via a systematic educational campaign. We also suggest it was the extreme linguistic diversity of dagestan that brought russian from a widely known l2 to a lingua franca.
+
+
+-----------------------------------
+
+
+
+	Vertex name = dobrushina n, 2023, j socioling; Cluster = 7;
+	Betweenness Centrality (BC) = 0.000;  Closeness Centrality (CC) = 0.004070; PageRank (PR) score = 0.008;
+	BC rank = 4; CC Rank = 4; PR rank = 4 
+
+                   	DOI :10.1111/josl.12590
+
+ABSTRACT:
+Studies of multilingual systems found in indigenous small-scale communities often assume that exogamous marriages are the norm in such societies and contribute to their linguistic diversity. This paper is an account of the language ideology of endogamous societies in rural highland daghestan (northeast caucasus). By studying language policing and language choice in infrequent mixed marriages, the paper uncovers the beliefs that support endogamy and reveals issues of linguistic identity and attitudes toward the usage of the matrilect within the family and the village. Interviews show that in-married women do not bring new languages to the villages, because they quickly acquire the local language new to them and use it with all their in-laws and their children. A strong association between villages and languages together with the ideology supporting linguistic homogeneity within the village contributes to the maintenance of the regional linguistic diversity.
