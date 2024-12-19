@@ -39,11 +39,9 @@ Müller, & Vaughan, 2023](#ref-dplyr-2023-github)), ggplot2 ([Wickham,
 2024](#ref-readr-2024-github)) and tidyr ([Wickham, Vaughan, & Girlich,
 2024](#ref-tidyr-2024-github)) packages, created by Wickham et al.
 ([2019](#ref-tidyverse-2019)), was used for data visualization,
-manipulation and cleaning. ggthemes package (ver. 4.2.4) for seting up
-general atributes of a plot ([Arnold, 2021](#ref-ggthemes_2021)).
+manipulation and cleaning. General plot attributes were set using the ggthemes package (version 4.2.4) ([Arnold, 2021](#ref-ggthemes_2021)).
 ‘Bibliometrix’ (version 4.3.0) is used for bibliometric analysis ([Aria
-& Cuccurullo, 2017](#ref-aria_bibliometrix_2017)). clipr package
-(version 0.8.0) for copying data from and into clipboard ([Lincoln,
+& Cuccurullo, 2017](#ref-aria_bibliometrix_2017)), and the clipr package (version 0.8.0) was used for clipboard data operations ([Lincoln,
 2022](#ref-clipr_2022)).
 
 ## Acknowledgements
