@@ -63,7 +63,9 @@ that mainly utilized are cited as follows:
 
 - Conducting bibliometric analysis: Aria & Cuccurullo
   ([2017](#ref-aria_bibliometrix_2017)), Aria et al.
-  ([2024](#ref-biblimetrixhomepage2024)) \## Code References
+  ([2024](#ref-biblimetrixhomepage2024))
+
+## Code References
 
 Aria, M., & Cuccurullo, C. (2017). Bibliometrix: An r-tool for
 comprehensive science mapping analysis. _Journal of Informetrics_.
