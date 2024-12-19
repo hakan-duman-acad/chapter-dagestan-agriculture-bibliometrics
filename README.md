@@ -25,6 +25,10 @@ fostering food security, and promoting environmental sustainability.
 **Keywords:** R Programming, Bibliometrics, Caucasus, Dagestan,
 Agriculture
 
+**Note:** The bibliometric data was deleted due to property rights of the data. The data can be accessed on Web of Science using the filter provided below.
+
+WOS filter: “(dagestan OR daghestan) AND (agriculture OR farming OR agribusiness OR rural OR countryside OR farmstead OR homestead OR horticulture OR crop OR livestock)”
+
 ## R Packages
 
 This study used the R statistical environment, version 4.2.2, developed
@@ -48,36 +52,36 @@ This analysis adapted and modified code from various sources, such as
 books, package manuals, vignettes, and GitHub repositories. The sources
 that mainly utilized are cited as follows:
 
--   Data preparing, manipulation, cleaning, and visualization: Wickham
-    et al. ([2019](#ref-tidyverse-2019)), Wang, Cook, & Hyndman
-    ([2020](#ref-tsibble-2020)), Wang & contibutors
-    ([2024](#ref-tsibble-2024-github)), Wickham & contibutors
-    ([2024](#ref-ggplot2-2024-github)), Wickham
-    ([2016](#ref-ggplot2-2016)), Wickham, Hester, et al.
-    ([2024](#ref-readr-2024-github)), Wickham, Vaughan, et al.
-    ([2024](#ref-tidyr-2024-github))
+- Data preparing, manipulation, cleaning, and visualization: Wickham
+  et al. ([2019](#ref-tidyverse-2019)), Wang, Cook, & Hyndman
+  ([2020](#ref-tsibble-2020)), Wang & contibutors
+  ([2024](#ref-tsibble-2024-github)), Wickham & contibutors
+  ([2024](#ref-ggplot2-2024-github)), Wickham
+  ([2016](#ref-ggplot2-2016)), Wickham, Hester, et al.
+  ([2024](#ref-readr-2024-github)), Wickham, Vaughan, et al.
+  ([2024](#ref-tidyr-2024-github))
 
--   Conducting bibliometric analysis: Aria & Cuccurullo
-    ([2017](#ref-aria_bibliometrix_2017)), Aria et al.
-    ([2024](#ref-biblimetrixhomepage2024)) \## Code References
+- Conducting bibliometric analysis: Aria & Cuccurullo
+  ([2017](#ref-aria_bibliometrix_2017)), Aria et al.
+  ([2024](#ref-biblimetrixhomepage2024)) \## Code References
 
 Aria, M., & Cuccurullo, C. (2017). Bibliometrix: An r-tool for
-comprehensive science mapping analysis. *Journal of Informetrics*.
+comprehensive science mapping analysis. _Journal of Informetrics_.
 <https://doi.org/10.1016/j.joi.2017.08.007>
 
 Aria, M., Cuccurullo, C., Misuraca, M., Spano, M., Belfiore, A.,
 D’Aniello, L., & Gnasso, A. (2024). Bibliometrix: Homepage and
 tutorials. June 10, 2024, <https://www.bibliometrix.org/home/>
 
-Arnold, J. B. (2021). *Ggthemes: Extra themes, scales and geoms for
-’ggplot2’*. <https://CRAN.R-project.org/package=ggthemes> R package
+Arnold, J. B. (2021). _Ggthemes: Extra themes, scales and geoms for
+’ggplot2’_. <https://CRAN.R-project.org/package=ggthemes> R package
 version 4.2.4
 
-Lincoln, M. (2022). *Clipr: Read and write from the system clipboard*.
+Lincoln, M. (2022). _Clipr: Read and write from the system clipboard_.
 <https://CRAN.R-project.org/package=clipr> R package version 0.8.0
 
-R Core Team. (2022). *<span class="nocase">R: A Language and Environment
-for Statistical Computing</span>*. Vienna, Austria: R Foundation for
+R Core Team. (2022). _<span class="nocase">R: A Language and Environment
+for Statistical Computing</span>_. Vienna, Austria: R Foundation for
 Statistical Computing. <https://www.R-project.org/>
 
 Wang, E., & contibutors. (2024). <span
@@ -86,33 +90,33 @@ class="nocase">tidyverts/tsibble</span>. June 2, 2025,
 
 Wang, E., Cook, D., & Hyndman, R. J. (2020). <span class="nocase">A new
 tidy data structure to support exploration and modeling of temporal
-data</span>. *Journal of Computational and Graphical Statistics*,
-*29*(3), 466–478. <https://doi.org/10.1080/10618600.2019.1695624>
+data</span>. _Journal of Computational and Graphical Statistics_,
+_29_(3), 466–478. <https://doi.org/10.1080/10618600.2019.1695624>
 
-Wickham, H. (2016). *<span class="nocase">ggplot2: Elegant Graphics for
-Data Analysis</span>*. Springer-Verlag New York.
+Wickham, H. (2016). _<span class="nocase">ggplot2: Elegant Graphics for
+Data Analysis</span>_. Springer-Verlag New York.
 <https://ggplot2.tidyverse.org>
 
 Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L. D.,
 François, R., … Yutani, H. (2019). <span class="nocase">Welcome to the
-<span class="nocase">tidyverse</span></span>. *Journal of Open Source
-Software*, *4*(43), 1686. <https://doi.org/10.21105/joss.01686>
+<span class="nocase">tidyverse</span></span>. _Journal of Open Source
+Software_, _4_(43), 1686. <https://doi.org/10.21105/joss.01686>
 
 Wickham, H., & contibutors. (2024). <span
 class="nocase">tidyverse/ggplot2</span>. June 2, 2025,
 <https://github.com/tidyverse/ggplot2>
 
 Wickham, H., François, R., Henry, L., Müller, K., & Vaughan, D. (2023).
-*<span class="nocase">dplyr: A Grammar of Data Manipulation</span>*.
+_<span class="nocase">dplyr: A Grammar of Data Manipulation</span>_.
 <https://dplyr.tidyverse.org> R package version 1.1.4,
-https://github.com/tidyverse/dplyr
+<https://github.com/tidyverse/dplyr>
 
-Wickham, H., Hester, J., & Bryan, J. (2024). *<span
-class="nocase">readr: Read Rectangular Text Data</span>*.
+Wickham, H., Hester, J., & Bryan, J. (2024). _<span
+class="nocase">readr: Read Rectangular Text Data</span>_.
 <https://readr.tidyverse.org> R package version 2.1.5,
-https://github.com/tidyverse/readr
+<https://github.com/tidyverse/readr>
 
-Wickham, H., Vaughan, D., & Girlich, M. (2024). *<span
-class="nocase">tidyr: Tidy Messy Data</span>*.
+Wickham, H., Vaughan, D., & Girlich, M. (2024). _<span
+class="nocase">tidyr: Tidy Messy Data</span>_.
 <https://tidyr.tidyverse.org> R package version 1.3.1,
-https://github.com/tidyverse/tidyr
+<https://github.com/tidyverse/tidyr>
