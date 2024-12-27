@@ -1,5 +1,11 @@
 # Thematic Mapping Of Agricultural And Rural Research In Dagestan
 
+Please cite this study if you use it in your research as follows:
+
+Duman, Hakan. 2024. “Thematic Mapping Of Agricultural And Rural Research In Dagestan.” In _Kafkasya Araştırmaları - II_, edited by Oğuz Şimşek, Çağrı Akgün, and Çetin İzgi, 99–126. Ankara: Sonçağ Akademi.
+
+[Full text of the study](https://www.researchgate.net/publication/387438077_THEMATIC_MAPPING_OF_AGRICULTURAL_AND_RURAL_RESEARCH_IN_DAGESTAN)
+
 ## Abstract
 
 This study uses bibliometric methods, including thematic mapping, to
