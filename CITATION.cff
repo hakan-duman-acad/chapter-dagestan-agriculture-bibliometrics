@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the chapter below:
+  Duman, H. (2024). Thematic mapping of agricultural and rural research in
+  dagestan. In O. Şimşek, Ç. Akgün, & Ç. İzgi (Eds.), Kafkasya araştırmaları—II
+  (pp. 99–126). Sonçağ Akademi.
+type: software
+title: "Thematic Mapping of Agricultural and Rural Research in Dagestan: Code"
+authors:
+  - family-names: Duman
+    given-names: Hakan
+    orcid: "https://orcid.org/0000-0001-6166-5776"
+    affiliation: "Iğdır Üniversitesi"
+repository-code: "https://github.com/hakan-duman-acad/chapter-dagestan-agriculture-bibliometrics"
+license: MIT
+version: "1.0.0"
+date-released: "2024-12-01"
+keywords:
+  - bibliometrics
+  - thematic mapping
+  - Dagestan
+  - Caucasus
+  - agriculture
+  - R
+preferred-citation:
+  type: book
+  title: "Thematic mapping of agricultural and rural research in dagestan"
+  authors:
+    - family-names: Duman
+      given-names: Hakan
+  collection-title: "Kafkasya araştırmaları—II"
+  collection-type: book
+  editors:
+    - family-names: Şimşek
+      given-names: Oğuz
+    - family-names: Akgün
+      given-names: Çağrı
+    - family-names: İzgi
+      given-names: Çetin
+  publisher:
+    name: "Sonçağ Akademi"
+    city: Ankara
+  start: 99
+  end: 126
+  year: 2024
+  url: "https://www.researchgate.net/publication/387438077_THEMATIC_MAPPING_OF_AGRICULTURAL_AND_RURAL_RESEARCH_IN_DAGESTAN"
