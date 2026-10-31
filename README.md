@@ -6,6 +6,8 @@ Duman, Hakan. 2024. “Thematic Mapping Of Agricultural And Rural Research In Da
 
 [Full text of the study](https://www.researchgate.net/publication/387438077_THEMATIC_MAPPING_OF_AGRICULTURAL_AND_RURAL_RESEARCH_IN_DAGESTAN)
 
+**Zenodo DOI:** [https://doi.org/10.5281/zenodo.23835983](https://doi.org/10.5281/zenodo.23835983)
+
 ## Abstract
 
 This study uses bibliometric methods, including thematic mapping, to
